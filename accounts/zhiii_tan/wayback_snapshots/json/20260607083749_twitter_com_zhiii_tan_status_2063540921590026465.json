@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "conversation_id": "2063540921590026465",
+    "created_at": "2026-06-07T08:37:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T09:37:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063540921590026465"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/limlimitLimit/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/limlimitLimit/status/2062889635337105579",
+          "start": 8,
+          "url": "https://t.co/jhGY0wVUtX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063540921590026465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062889635337105579",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "小萝卜小萝卜💕 https://t.co/jhGY0wVUtX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 343,
+        "media_key": "3_2062889624859791360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKDbLySbUAAekSz.jpg",
+        "width": 519
+      },
+      {
+        "height": 117,
+        "media_key": "3_2062889628408094720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKDbL_gaIAAhoMc.jpg",
+        "width": 147
+      },
+      {
+        "height": 1147,
+        "media_key": "3_2062889626013212672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKDbL2lbIAAi_QL.jpg",
+        "width": 788
+      },
+      {
+        "height": 476,
+        "media_key": "3_2062889633219072000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKDbMRbb0AA-zl6.jpg",
+        "width": 384
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2063540921590026465",
+        "created_at": "2026-06-07T08:37:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T09:37:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063540921590026465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/limlimitLimit/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/limlimitLimit/status/2062889635337105579",
+              "start": 8,
+              "url": "https://t.co/jhGY0wVUtX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063540921590026465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062889635337105579",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小萝卜小萝卜💕 https://t.co/jhGY0wVUtX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062889624859791360",
+            "3_2062889628408094720",
+            "3_2062889626013212672",
+            "3_2062889633219072000"
+          ]
+        },
+        "author_id": "1375826799964213249",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062889635337105579",
+        "created_at": "2026-06-05T13:29:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T14:29:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062889635337105579"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m21XIejtuN",
+              "end": 76,
+              "expanded_url": "https://x.com/limlimitLimit/status/2062889635337105579/photo/1",
+              "media_key": "3_2062889624859791360",
+              "start": 53,
+              "url": "https://t.co/m21XIejtuN"
+            },
+            {
+              "display_url": "pic.x.com/m21XIejtuN",
+              "end": 76,
+              "expanded_url": "https://x.com/limlimitLimit/status/2062889635337105579/photo/1",
+              "media_key": "3_2062889628408094720",
+              "start": 53,
+              "url": "https://t.co/m21XIejtuN"
+            },
+            {
+              "display_url": "pic.x.com/m21XIejtuN",
+              "end": 76,
+              "expanded_url": "https://x.com/limlimitLimit/status/2062889635337105579/photo/1",
+              "media_key": "3_2062889626013212672",
+              "start": 53,
+              "url": "https://t.co/m21XIejtuN"
+            },
+            {
+              "display_url": "pic.x.com/m21XIejtuN",
+              "end": 76,
+              "expanded_url": "https://x.com/limlimitLimit/status/2062889635337105579/photo/1",
+              "media_key": "3_2062889633219072000",
+              "start": 53,
+              "url": "https://t.co/m21XIejtuN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062889635337105579",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 189,
+          "impression_count": 94309,
+          "like_count": 2529,
+          "quote_count": 70,
+          "reply_count": 1,
+          "retweet_count": 318
+        },
+        "reply_settings": "everyone",
+        "text": "로비는 금발에 보라색 눈이라고...?\n머리가 잘리기 전에는 순수귀여움복실햄찌소년이었단 말이야? https://t.co/m21XIejtuN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之/友跨/泛性恋/我割我抽我o/od持开放态度 不一定碰但是不会反感 不鉴证 喜欢萌妹子 某些男的想加我先v520  我没有🚪觉得我以后会在推上发点什么的不要关注我了还是 只有绿色健康小清新🍀",
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2051940167641149445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 393,
+          "like_count": 944,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 2238
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-27T15:07:46.000Z",
+        "description": "낡고 지친 대학생 | IdentityV & 日常 | 게으른 연성러 |\n名:リミット | 헤더: 실친이 그려줌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/qq7cl30q0jqj8x…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/qq7cl30q0jqj8xw?t=hrV8T2&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/wd0FXgFxiC"
+              }
+            ]
+          }
+        },
+        "id": "1375826799964213249",
+        "location": "🔽 マシュマロ(마시멜로)",
+        "name": "리밋リミット",
+        "pinned_tweet_id": "1613829113806229508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062878698844704768/8lOdnOtt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 153,
+          "like_count": 17274,
+          "listed_count": 6,
+          "media_count": 3327,
+          "tweet_count": 19420
+        },
+        "url": "https://t.co/wd0FXgFxiC",
+        "username": "limlimitLimit",
+        "verified": false
+      }
+    ]
+  }
+}

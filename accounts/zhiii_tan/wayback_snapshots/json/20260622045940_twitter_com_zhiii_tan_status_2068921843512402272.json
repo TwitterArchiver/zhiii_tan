@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2068322133889982464"
+      ],
+      "media_source_tweet_id": [
+        "2068322238185537819"
+      ]
+    },
+    "author_id": "1839085606573637632",
+    "conversation_id": "2068921843512402272",
+    "created_at": "2026-06-22T04:59:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T05:59:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068921843512402272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1650432368262430720",
+          "start": 3,
+          "username": "denizseckin0555"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GdlFCvY4G7",
+          "end": 99,
+          "expanded_url": "https://x.com/medi_life25/status/2068322238185537819/video/1",
+          "media_key": "7_2068322133889982464",
+          "start": 76,
+          "url": "https://t.co/GdlFCvY4G7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068921843512402272",
+    "lang": "tr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1019
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068613989148352904",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @denizseckin0555: İzlediğim videoların en iyilerinden biri olabilir haha https://t.co/GdlFCvY4G7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10055,
+        "height": 960,
+        "media_key": "7_2068322133889982464",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2068322133889982464/pu/img/FAFv1K-i4q2HpiAb.jpg",
+        "public_metrics": {
+          "view_count": 314111
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068322133889982464/pu/vid/avc1/320x426/rJH16yjdn0rntBgU.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068322133889982464/pu/vid/avc1/480x640/J9CvVdOAGhMtLHmP.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068322133889982464/pu/vid/avc1/720x960/lWjMEIp2ptggaqtX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2068322133889982464/pu/pl/YyPGCYWCNgoo5fZk.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2068322133889982464"
+          ],
+          "media_source_tweet_id": [
+            "2068322238185537819"
+          ]
+        },
+        "author_id": "1839085606573637632",
+        "conversation_id": "2068921843512402272",
+        "created_at": "2026-06-22T04:59:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T05:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068921843512402272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1650432368262430720",
+              "start": 3,
+              "username": "denizseckin0555"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GdlFCvY4G7",
+              "end": 99,
+              "expanded_url": "https://x.com/medi_life25/status/2068322238185537819/video/1",
+              "media_key": "7_2068322133889982464",
+              "start": 76,
+              "url": "https://t.co/GdlFCvY4G7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068921843512402272",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1019
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068613989148352904",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @denizseckin0555: İzlediğim videoların en iyilerinden biri olabilir haha https://t.co/GdlFCvY4G7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2068322133889982464"
+          ],
+          "media_source_tweet_id": [
+            "2068322238185537819"
+          ]
+        },
+        "author_id": "1650432368262430720",
+        "conversation_id": "2068613989148352904",
+        "created_at": "2026-06-21T08:36:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T09:36:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068613989148352904"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GdlFCvY4G7",
+              "end": 78,
+              "expanded_url": "https://x.com/medi_life25/status/2068322238185537819/video/1",
+              "media_key": "7_2068322133889982464",
+              "start": 55,
+              "url": "https://t.co/GdlFCvY4G7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068613989148352904",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1204,
+          "impression_count": 765499,
+          "like_count": 6698,
+          "quote_count": 91,
+          "reply_count": 103,
+          "retweet_count": 1019
+        },
+        "reply_settings": "everyone",
+        "text": "İzlediğim videoların en iyilerinden biri olabilir haha https://t.co/GdlFCvY4G7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之丨生理心理皆女丨lgbtq友好丨我割我抽我o丨不鉴证丨喜欢互动 丨我没有🚪觉得我以后会在推上发点什么的不要关注我了丨只有绿色健康小清新🍀丨没有门不接线上不接线下没有非绿没有半绿没有纯绿丨\n防炸@LeeSong14176丨互fo直关丨没回fo私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 102,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2065050387967840395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 565,
+          "like_count": 1248,
+          "listed_count": 0,
+          "media_count": 296,
+          "tweet_count": 3192
+        },
+        "url": "",
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-24T09:32:13.000Z",
+        "description": "beni görmüyor olmanız, orada olmadığım anlamına gelmez. ERKEK KEDİ 🐈‍⬛ doğa ve sokaktaki canlılar 🇹🇷",
+        "id": "1650432368262430720",
+        "name": "sokak kedisi",
+        "pinned_tweet_id": "2048067737990095082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767484598093545472/YPiAoP_A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19754,
+          "following_count": 6943,
+          "like_count": 20301,
+          "listed_count": 8,
+          "media_count": 3278,
+          "tweet_count": 5212
+        },
+        "url": "",
+        "username": "denizseckin0555",
+        "verified": true
+      }
+    ]
+  }
+}

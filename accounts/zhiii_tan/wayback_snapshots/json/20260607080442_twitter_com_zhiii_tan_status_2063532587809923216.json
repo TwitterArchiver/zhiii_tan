@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2063480267512430592",
+        "16_2063480267457871872",
+        "16_2063480267491377152",
+        "16_2063480267424354304"
+      ],
+      "media_source_tweet_id": [
+        "2063480323326046309",
+        "2063480323326046309",
+        "2063480323326046309",
+        "2063480323326046309"
+      ]
+    },
+    "author_id": "1839085606573637632",
+    "conversation_id": "2063532587809923216",
+    "created_at": "2026-06-07T08:04:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T09:04:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063532587809923216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1504358785501958144",
+          "start": 3,
+          "username": "nolangi88"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Im7phprSDD",
+          "end": 38,
+          "expanded_url": "https://x.com/nolangi88/status/2063480323326046309/video/1",
+          "media_key": "13_2063480267512430592",
+          "start": 15,
+          "url": "https://t.co/Im7phprSDD"
+        },
+        {
+          "display_url": "pic.x.com/Im7phprSDD",
+          "end": 38,
+          "expanded_url": "https://x.com/nolangi88/status/2063480323326046309/video/1",
+          "media_key": "16_2063480267457871872",
+          "start": 15,
+          "url": "https://t.co/Im7phprSDD"
+        },
+        {
+          "display_url": "pic.x.com/Im7phprSDD",
+          "end": 38,
+          "expanded_url": "https://x.com/nolangi88/status/2063480323326046309/video/1",
+          "media_key": "16_2063480267491377152",
+          "start": 15,
+          "url": "https://t.co/Im7phprSDD"
+        },
+        {
+          "display_url": "pic.x.com/Im7phprSDD",
+          "end": 38,
+          "expanded_url": "https://x.com/nolangi88/status/2063480323326046309/video/1",
+          "media_key": "16_2063480267424354304",
+          "start": 15,
+          "url": "https://t.co/Im7phprSDD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063532587809923216",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063480323326046309",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nolangi88: https://t.co/Im7phprSDD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10657,
+        "height": 720,
+        "media_key": "13_2063480267512430592",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063480267512430592/img/MXWWpc75Lqvcokmr.jpg",
+        "public_metrics": {
+          "view_count": 136
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063480267512430592/vid/avc1/480x270/MIlMOxi0v1TUVk-i.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063480267512430592/vid/avc1/640x360/jHwxY1pdGBD8Le4x.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063480267512430592/vid/avc1/1280x720/5R5y3xTLpanGVixk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063480267512430592/pl/nNi0XkPYVTyhPhU-.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 214,
+        "media_key": "16_2063480267457871872",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HKL0XtbawAALOaa.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HKL0XtbawAALOaa.mp4"
+          }
+        ],
+        "width": 420
+      },
+      {
+        "height": 232,
+        "media_key": "16_2063480267491377152",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HKL0XtjaAAAjzgc.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HKL0XtjaAAAjzgc.mp4"
+          }
+        ],
+        "width": 420
+      },
+      {
+        "height": 224,
+        "media_key": "16_2063480267424354304",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HKL0XtTbUAAjdVD.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HKL0XtTbUAAjdVD.mp4"
+          }
+        ],
+        "width": 450
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063480267512430592",
+            "16_2063480267457871872",
+            "16_2063480267491377152",
+            "16_2063480267424354304"
+          ],
+          "media_source_tweet_id": [
+            "2063480323326046309",
+            "2063480323326046309",
+            "2063480323326046309",
+            "2063480323326046309"
+          ]
+        },
+        "author_id": "1839085606573637632",
+        "conversation_id": "2063532587809923216",
+        "created_at": "2026-06-07T08:04:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T09:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063532587809923216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1504358785501958144",
+              "start": 3,
+              "username": "nolangi88"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Im7phprSDD",
+              "end": 38,
+              "expanded_url": "https://x.com/nolangi88/status/2063480323326046309/video/1",
+              "media_key": "13_2063480267512430592",
+              "start": 15,
+              "url": "https://t.co/Im7phprSDD"
+            },
+            {
+              "display_url": "pic.x.com/Im7phprSDD",
+              "end": 38,
+              "expanded_url": "https://x.com/nolangi88/status/2063480323326046309/video/1",
+              "media_key": "16_2063480267457871872",
+              "start": 15,
+              "url": "https://t.co/Im7phprSDD"
+            },
+            {
+              "display_url": "pic.x.com/Im7phprSDD",
+              "end": 38,
+              "expanded_url": "https://x.com/nolangi88/status/2063480323326046309/video/1",
+              "media_key": "16_2063480267491377152",
+              "start": 15,
+              "url": "https://t.co/Im7phprSDD"
+            },
+            {
+              "display_url": "pic.x.com/Im7phprSDD",
+              "end": 38,
+              "expanded_url": "https://x.com/nolangi88/status/2063480323326046309/video/1",
+              "media_key": "16_2063480267424354304",
+              "start": 15,
+              "url": "https://t.co/Im7phprSDD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063532587809923216",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063480323326046309",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nolangi88: https://t.co/Im7phprSDD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063480267512430592",
+            "16_2063480267457871872",
+            "16_2063480267491377152",
+            "16_2063480267424354304"
+          ]
+        },
+        "author_id": "1504358785501958144",
+        "conversation_id": "2063480323326046309",
+        "created_at": "2026-06-07T04:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T05:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063480323326046309"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Im7phprSDD",
+              "end": 23,
+              "expanded_url": "https://x.com/nolangi88/status/2063480323326046309/video/1",
+              "media_key": "13_2063480267512430592",
+              "start": 0,
+              "url": "https://t.co/Im7phprSDD"
+            },
+            {
+              "display_url": "pic.x.com/Im7phprSDD",
+              "end": 23,
+              "expanded_url": "https://x.com/nolangi88/status/2063480323326046309/video/1",
+              "media_key": "16_2063480267457871872",
+              "start": 0,
+              "url": "https://t.co/Im7phprSDD"
+            },
+            {
+              "display_url": "pic.x.com/Im7phprSDD",
+              "end": 23,
+              "expanded_url": "https://x.com/nolangi88/status/2063480323326046309/video/1",
+              "media_key": "16_2063480267491377152",
+              "start": 0,
+              "url": "https://t.co/Im7phprSDD"
+            },
+            {
+              "display_url": "pic.x.com/Im7phprSDD",
+              "end": 23,
+              "expanded_url": "https://x.com/nolangi88/status/2063480323326046309/video/1",
+              "media_key": "16_2063480267424354304",
+              "start": 0,
+              "url": "https://t.co/Im7phprSDD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063480323326046309",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 298,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Im7phprSDD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之/友跨/泛性恋/我割我抽我o/od持开放态度 不一定碰但是不会反感 不鉴证 喜欢萌妹子 某些男的想加我先v520  我没有🚪觉得我以后会在推上发点什么的不要关注我了还是 只有绿色健康小清新🍀",
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2051940167641149445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 393,
+          "like_count": 928,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 2223
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-17T07:27:48.000Z",
+        "description": "사랑하는 내 동생 지용아. 너무 사랑한다. 승현이 형이.",
+        "id": "1504358785501958144",
+        "name": "노냥이 🌙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908816574250991617/xhnw9mFF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 204,
+          "like_count": 6853,
+          "listed_count": 1,
+          "media_count": 870,
+          "tweet_count": 5880
+        },
+        "username": "nolangi88",
+        "verified": false
+      }
+    ]
+  }
+}

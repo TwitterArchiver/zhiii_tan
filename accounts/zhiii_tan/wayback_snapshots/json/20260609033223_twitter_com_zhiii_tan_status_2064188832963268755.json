@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "conversation_id": "2064188832963268755",
+    "created_at": "2026-06-09T03:32:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T04:32:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064188832963268755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1638216054626451456",
+          "start": 3,
+          "username": "moshimoshi_00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064188832963268755",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 164
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063980450562068535",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @moshimoshi_00: 흑인 캐릭터를 백인으로 바꾸는 건 차별이고 백인 캐릭터를 흑인으로 바꾸는 건 표현의 자유라고? 진짜 궤변도 이런 궤변이 없네"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2064188832963268755",
+        "created_at": "2026-06-09T03:32:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T04:32:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064188832963268755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1638216054626451456",
+              "start": 3,
+              "username": "moshimoshi_00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064188832963268755",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 164
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063980450562068535",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @moshimoshi_00: 흑인 캐릭터를 백인으로 바꾸는 건 차별이고 백인 캐릭터를 흑인으로 바꾸는 건 표현의 자유라고? 진짜 궤변도 이런 궤변이 없네"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638216054626451456",
+        "conversation_id": "2063980450562068535",
+        "created_at": "2026-06-08T13:44:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T14:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063980450562068535"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dopecodyblog/s…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/dopecodyblog/status/2063015369447542856",
+              "start": 70,
+              "url": "https://t.co/cPcsLJITBZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063980450562068535",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 88470,
+          "like_count": 1847,
+          "quote_count": 14,
+          "reply_count": 12,
+          "retweet_count": 164
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063015369447542856",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "흑인 캐릭터를 백인으로 바꾸는 건 차별이고 백인 캐릭터를 흑인으로 바꾸는 건 표현의 자유라고? 진짜 궤변도 이런 궤변이 없네 https://t.co/cPcsLJITBZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之/生理心理皆女/lgbtq友好/泛性恋/我割我抽我o/od持开放态度 不一定碰但是不会反感 不鉴证 喜欢萌妹子 某些男的想加我先v520  我没有🚪觉得我以后会在推上发点什么的不要关注我了还是 只有绿色健康小清新🍀\n世界上的另一个我@LeeSong14176",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 122,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2064034397750464763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 447,
+          "like_count": 1018,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 2388
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-21T16:28:48.000Z",
+        "description": "오인격 + @ // 게임 및 대회 위주\n\n“   ” 은 들키지 않도록 잘 숨으세요.\n너나 땅굴파고 숨어라",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/eg_yMhrRD0A?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/eg_yMhrRD0A?si=6fkCB3bpRxDAzHfg",
+                "start": 0,
+                "url": "https://t.co/RsHwL8KlMf"
+              }
+            ]
+          }
+        },
+        "id": "1638216054626451456",
+        "location": "🇰🇷",
+        "name": "ZERO",
+        "pinned_tweet_id": "2059619339473682534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056781470178672640/qEye7jqv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 254,
+          "like_count": 5691,
+          "listed_count": 4,
+          "media_count": 806,
+          "tweet_count": 5706
+        },
+        "url": "https://t.co/RsHwL8KlMf",
+        "username": "moshimoshi_00",
+        "verified": false
+      }
+    ]
+  }
+}

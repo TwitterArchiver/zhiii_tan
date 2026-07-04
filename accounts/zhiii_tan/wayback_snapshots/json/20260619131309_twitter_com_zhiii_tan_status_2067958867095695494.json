@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "conversation_id": "2067958867095695494",
+    "created_at": "2026-06-19T13:13:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T14:13:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067958867095695494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1989361915290910720",
+          "start": 3,
+          "username": "catnip66667"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067958867095695494",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066522414708830549",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @catnip66667: 再来一个抽奖吧🥺\n250粉开奖\n奖品如下:\npea 2g 一份\npr 5000mg 一份\n菲尼布特 12t 一份\n小美10t 一份\n关注转发赞一下即可参与!\n如果可以的话请来支持一下我们的tg小厨房 pr和pea有售中😋可以找我入群\n也可以找大…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2067958867095695494",
+        "created_at": "2026-06-19T13:13:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T14:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067958867095695494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1989361915290910720",
+              "start": 3,
+              "username": "catnip66667"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067958867095695494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066522414708830549",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @catnip66667: 再来一个抽奖吧🥺\n250粉开奖\n奖品如下:\npea 2g 一份\npr 5000mg 一份\n菲尼布特 12t 一份\n小美10t 一份\n关注转发赞一下即可参与!\n如果可以的话请来支持一下我们的tg小厨房 pr和pea有售中😋可以找我入群\n也可以找大…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989361915290910720",
+        "conversation_id": "2066522414708830549",
+        "created_at": "2026-06-15T14:05:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T15:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066522414708830549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 139,
+              "id": "1012078861784354816",
+              "start": 123,
+              "username": "2d4SEUFUBFzltqB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066522414708830549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4798,
+          "like_count": 68,
+          "quote_count": 2,
+          "reply_count": 28,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "再来一个抽奖吧🥺\n250粉开奖\n奖品如下:\npea 2g 一份\npr 5000mg 一份\n菲尼布特 12t 一份\n小美10t 一份\n关注转发赞一下即可参与!\n如果可以的话请来支持一下我们的tg小厨房 pr和pea有售中😋可以找我入群\n也可以找大厨@2d4SEUFUBFzltqB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之丨生理心理皆女丨lgbtq友好丨我割我抽我o丨不鉴证丨喜欢互动 丨我没有🚪觉得我以后会在推上发点什么的不要关注我了丨只有绿色健康小清新🍀丨没有门不接线上不接线下没有非绿没有半绿没有纯绿丨\n防炸@LeeSong14176丨互fo直关丨没回fo私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 102,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2065050387967840395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 557,
+          "like_count": 1225,
+          "listed_count": 0,
+          "media_count": 291,
+          "tweet_count": 3147
+        },
+        "url": "",
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-14T15:57:26.000Z",
+        "description": "此账号完全传播负能量请谨慎点击\nthey/she/pan/称呼随意 可以叫我catnip或者猫草\n☠︎overdose☠︎/消极的/neet/焦虑/抑郁/被害妄想/CPTSD/alt/lip/pac/music♡ BOSS:@madina__mart",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 112,
+                "username": "madina__mart"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/idc86908",
+                "end": 23,
+                "expanded_url": "https://ngl.link/idc86908",
+                "start": 0,
+                "url": "https://t.co/mfFOrul1WW"
+              }
+            ]
+          }
+        },
+        "id": "1989361915290910720",
+        "location": "netherworld",
+        "name": "If I Never Wake Again☣︎",
+        "pinned_tweet_id": "2060382093709119775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044826986280009728/EOFKpMO__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 117,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 314
+        },
+        "url": "https://t.co/mfFOrul1WW",
+        "username": "catnip66667",
+        "verified": false
+      }
+    ]
+  }
+}

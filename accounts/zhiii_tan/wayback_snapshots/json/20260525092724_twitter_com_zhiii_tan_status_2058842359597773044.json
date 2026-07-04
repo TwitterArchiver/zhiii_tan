@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058840868300443648"
+      ],
+      "media_source_tweet_id": [
+        "2058840874466103677"
+      ]
+    },
+    "author_id": "1839085606573637632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2058842359597773044",
+    "created_at": "2026-05-25T09:27:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T10:27:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058842359597773044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1565981667746914304",
+          "start": 3,
+          "username": "Kagura_Yukikaze"
+        },
+        {
+          "end": 36,
+          "id": "1490609367019769856",
+          "start": 25,
+          "username": "Misaka0032"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zEZcZL3s29",
+          "end": 60,
+          "expanded_url": "https://x.com/Kagura_Yukikaze/status/2058840874466103677/photo/1",
+          "media_key": "3_2058840868300443648",
+          "start": 37,
+          "url": "https://t.co/zEZcZL3s29"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058842359597773044",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058840874466103677",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kagura_Yukikaze: 求助…\n@Misaka0032 https://t.co/zEZcZL3s29"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2005,
+        "media_key": "3_2058840868300443648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJ43Iwa0AAWeLJ.jpg",
+        "width": 1039
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058840868300443648"
+          ],
+          "media_source_tweet_id": [
+            "2058840874466103677"
+          ]
+        },
+        "author_id": "1839085606573637632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058842359597773044",
+        "created_at": "2026-05-25T09:27:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T10:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058842359597773044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1565981667746914304",
+              "start": 3,
+              "username": "Kagura_Yukikaze"
+            },
+            {
+              "end": 36,
+              "id": "1490609367019769856",
+              "start": 25,
+              "username": "Misaka0032"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zEZcZL3s29",
+              "end": 60,
+              "expanded_url": "https://x.com/Kagura_Yukikaze/status/2058840874466103677/photo/1",
+              "media_key": "3_2058840868300443648",
+              "start": 37,
+              "url": "https://t.co/zEZcZL3s29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058842359597773044",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058840874466103677",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kagura_Yukikaze: 求助…\n@Misaka0032 https://t.co/zEZcZL3s29"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058840868300443648"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058840874466103677",
+        "created_at": "2026-05-25T09:21:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T10:21:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058840874466103677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1490609367019769856",
+              "start": 4,
+              "username": "Misaka0032"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zEZcZL3s29",
+              "end": 39,
+              "expanded_url": "https://x.com/Kagura_Yukikaze/status/2058840874466103677/photo/1",
+              "media_key": "3_2058840868300443648",
+              "start": 16,
+              "url": "https://t.co/zEZcZL3s29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058840874466103677",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "求助…\n@Misaka0032 https://t.co/zEZcZL3s29"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之/友跨/泛性恋/我割我抽我o/od持开放态度 不一定碰但是不会反感 不鉴证 喜欢萌妹子 某些男的想加我先v520  我没有🚪觉得我以后会在推上发点什么的不要关注我了还是 只有绿色健康小清新🍀",
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2051940167641149445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 368,
+          "like_count": 631,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 1895
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風さん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3109,
+          "following_count": 2957,
+          "like_count": 108117,
+          "listed_count": 7,
+          "media_count": 793,
+          "tweet_count": 13208
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-07T08:52:30.000Z",
+        "description": "能产出基因型为X或Y的单倍体配子\n我不吃糖\n谢绝对线谢谢喵\n欢迎扩列 联系方式私聊\n不卖药！不卖药！\n不要给我私信发下头的话\n谢谢配合喵\n世界上只有一种真正的英雄主义 那就是在认清生活的真相后依然热爱生活",
+        "id": "1490609367019769856",
+        "location": "地灵殿",
+        "name": "半灵麻薯8964",
+        "pinned_tweet_id": "2055552136583483616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022269942968823808/mKVol7Os_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 928,
+          "following_count": 492,
+          "like_count": 1795,
+          "listed_count": 4,
+          "media_count": 904,
+          "tweet_count": 2659
+        },
+        "username": "Misaka0032",
+        "verified": false
+      }
+    ]
+  }
+}

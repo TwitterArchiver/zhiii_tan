@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "conversation_id": "2051476529633522081",
+    "created_at": "2026-05-05T02:05:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T03:05:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051483413983666286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2038972637494349824",
+          "start": 0,
+          "username": "Rodea133221"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051483413983666286",
+    "in_reply_to_user_id": "2038972637494349824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051483145225343481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rodea133221 欧坤我已成神😇😇"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2051483145225343481].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2051483145225343481",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2051483145225343481"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2051476529633522081",
+        "created_at": "2026-05-05T02:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T03:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051483413983666286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2038972637494349824",
+              "start": 0,
+              "username": "Rodea133221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051483413983666286",
+        "in_reply_to_user_id": "2038972637494349824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051483145225343481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rodea133221 欧坤我已成神😇😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之/友跨/泛性恋/我割我抽我o/od持开放态度 不一定碰但是不会反感 不鉴证 喜欢萌妹子 某些男的想加我先v520  我没有🚪觉得我以后会在推上发点什么的不要关注我了还是 只有绿色健康小清新",
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2044718222386299214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 336,
+          "like_count": 490,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 1630
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-31T13:32:31.000Z",
+        "description": "这里什么都没有",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/Rodea133221988…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/Rodea13322198876",
+                "start": 0,
+                "url": "https://t.co/DrCqFo325k"
+              }
+            ]
+          }
+        },
+        "id": "2038972637494349824",
+        "name": "回聲",
+        "pinned_tweet_id": "2040500975920922926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045124311657467904/RE1FOlVr_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 125,
+          "like_count": 685,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 426
+        },
+        "url": "https://t.co/DrCqFo325k",
+        "username": "Rodea133221",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "conversation_id": "2063980940133839327",
+    "created_at": "2026-06-08T13:55:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T14:55:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063983158987759993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "4123608315",
+          "start": 0,
+          "username": "c5brm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063983158987759993",
+    "in_reply_to_user_id": "4123608315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063980940133839327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@c5brm 711大名鼎鼎的劣爆了雪糕，好吃么🤔好吃我也去买一个🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3553,
+        "media_key": "3_2063980898425671680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKS7sRHakAAYobm.jpg",
+        "width": 2860
+      },
+      {
+        "height": 3986,
+        "media_key": "3_2063980898425704448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKS7sRHbEAApxZ0.jpg",
+        "width": 2891
+      },
+      {
+        "height": 3639,
+        "media_key": "3_2063980898404708352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKS7sRCasAAAnek.jpg",
+        "width": 2729
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2063980940133839327",
+        "created_at": "2026-06-08T13:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T14:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063983158987759993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "4123608315",
+              "start": 0,
+              "username": "c5brm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063983158987759993",
+        "in_reply_to_user_id": "4123608315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063980940133839327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@c5brm 711大名鼎鼎的劣爆了雪糕，好吃么🤔好吃我也去买一个🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063980898425671680",
+            "3_2063980898425704448",
+            "3_2063980898404708352"
+          ]
+        },
+        "author_id": "4123608315",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2063980940133839327",
+        "created_at": "2026-06-08T13:46:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T14:46:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063980940133839327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NrXdfhflqR",
+              "end": 25,
+              "expanded_url": "https://x.com/c5brm/status/2063980940133839327/photo/1",
+              "media_key": "3_2063980898425671680",
+              "start": 2,
+              "url": "https://t.co/NrXdfhflqR"
+            },
+            {
+              "display_url": "pic.x.com/NrXdfhflqR",
+              "end": 25,
+              "expanded_url": "https://x.com/c5brm/status/2063980940133839327/photo/1",
+              "media_key": "3_2063980898425704448",
+              "start": 2,
+              "url": "https://t.co/NrXdfhflqR"
+            },
+            {
+              "display_url": "pic.x.com/NrXdfhflqR",
+              "end": 25,
+              "expanded_url": "https://x.com/c5brm/status/2063980940133839327/photo/1",
+              "media_key": "3_2063980898404708352",
+              "start": 2,
+              "url": "https://t.co/NrXdfhflqR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063980940133839327",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👀 https://t.co/NrXdfhflqR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之/生理心理皆女/lgbtq友好/泛性恋/我割我抽我o/od持开放态度 不一定碰但是不会反感 不鉴证 喜欢萌妹子 某些男的想加我先v520  我没有🚪觉得我以后会在推上发点什么的不要关注我了还是 只有绿色健康小清新🍀\n世界上的另一个我@LeeSong14176",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 122,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2051940167641149445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 409,
+          "like_count": 961,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 2294
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-06T02:15:39.000Z",
+        "description": "男／178／57／慢热／广东人🇨🇳／高二生／作息不规律／时常疯言疯语／幽默感0️⃣／喜欢瞎逛／不是很会拍照／平等善待所有人❤️／欢迎提问👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wang10649",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wang10649",
+                "start": 0,
+                "url": "https://t.co/TAF1OraO76"
+              }
+            ]
+          }
+        },
+        "id": "4123608315",
+        "location": "活力大湾区",
+        "name": "小凯有点忙💦",
+        "pinned_tweet_id": "2054057931562475720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060706182113943553/li1SrnSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 709,
+          "like_count": 6388,
+          "listed_count": 0,
+          "media_count": 269,
+          "tweet_count": 2034
+        },
+        "url": "https://t.co/TAF1OraO76",
+        "username": "c5brm",
+        "verified": false
+      }
+    ]
+  }
+}

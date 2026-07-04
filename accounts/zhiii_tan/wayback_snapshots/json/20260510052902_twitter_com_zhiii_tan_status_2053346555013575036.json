@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "conversation_id": "2053346555013575036",
+    "created_at": "2026-05-10T05:29:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T06:29:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053346555013575036"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zhiii_tan/stat…",
+          "end": 118,
+          "expanded_url": "https://twitter.com/zhiii_tan/status/2053345831336681920",
+          "start": 95,
+          "url": "https://t.co/fAxQPyoYJw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053346555013575036",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053345831336681920",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "她还说要和我一起考同一个学校死废物七科加起来一百多分我让他和我一起学习还不乐意，说什么她自己学一会就能学会了，她前几天花了几个小时学会了一次函数但是她数学考20多分呀，学会了然后呢？会用吗 https://t.co/fAxQPyoYJw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2053346555013575036",
+        "created_at": "2026-05-10T05:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T06:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053346555013575036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhiii_tan/stat…",
+              "end": 118,
+              "expanded_url": "https://twitter.com/zhiii_tan/status/2053345831336681920",
+              "start": 95,
+              "url": "https://t.co/fAxQPyoYJw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053346555013575036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053345831336681920",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "她还说要和我一起考同一个学校死废物七科加起来一百多分我让他和我一起学习还不乐意，说什么她自己学一会就能学会了，她前几天花了几个小时学会了一次函数但是她数学考20多分呀，学会了然后呢？会用吗 https://t.co/fAxQPyoYJw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2053345821874397259",
+        "created_at": "2026-05-10T05:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T06:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053345831336681920"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053345831336681920",
+        "in_reply_to_user_id": "1839085606573637632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053345821874397259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "而且我还送过她几百块钱的礼物，而且她的反应不像演的，我觉得尴尬就用平板接茬，结果他直接说他的房子两百多万，还嫌弃我把脏东西弄到床上了，她自己弄上就不说了，之前她来我家经常把我家弄乱就走了也不管，我去他家还要帮他拿各种东西，我还只能躺床的边上都快掉下去了还让我往外来点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之/友跨/泛性恋/我割我抽我o/od持开放态度 不一定碰但是不会反感 不鉴证 喜欢萌妹子 某些男的想加我先v520  我没有🚪觉得我以后会在推上发点什么的不要关注我了还是 只有绿色健康小清新",
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2051940167641149445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 341,
+          "like_count": 515,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 1689
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "conversation_id": "2064013827914801159",
+    "created_at": "2026-06-08T16:01:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T17:01:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064015023597625403"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064015023597625403",
+    "in_reply_to_user_id": "1839085606573637632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064013827914801159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嗯还有我不会推广od，推荐别人去o之类的，因为戒断很难ᔦ ° ꒳ ° ᔨ ̖́-希望你们天天开心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2064013827914801159",
+        "created_at": "2026-06-08T16:01:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T17:01:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064015023597625403"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064015023597625403",
+        "in_reply_to_user_id": "1839085606573637632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064013827914801159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯还有我不会推广od，推荐别人去o之类的，因为戒断很难ᔦ ° ꒳ ° ᔨ ̖́-希望你们天天开心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2064013827914801159",
+        "created_at": "2026-06-08T15:56:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T16:56:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064013827914801159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhiii_tan/stat…",
+              "end": 119,
+              "expanded_url": "https://twitter.com/zhiii_tan/status/2063935698076672236",
+              "start": 96,
+              "url": "https://t.co/RTJpPIptqw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064013827914801159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063935698076672236",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "宝贝们我的三观不能说完全正确，政治方面没什么可说的每个国家都不是完全好完全坏的，我也不会无脑爱某个国家，谨慎关注吧，如果对我的言论不开心了可以提出，我也会记住♡如果实在接受不了那就双取我吧~ https://t.co/RTJpPIptqw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之/生理心理皆女/lgbtq友好/泛性恋/我割我抽我o/od持开放态度 不一定碰但是不会反感 不鉴证 喜欢萌妹子 某些男的想加我先v520  我没有🚪觉得我以后会在推上发点什么的不要关注我了还是 只有绿色健康小清新🍀\n世界上的另一个我@LeeSong14176",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 122,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2051940167641149445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 418,
+          "like_count": 977,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 2324
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      }
+    ]
+  }
+}

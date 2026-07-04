@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1393330534403567618",
+          "name": "Festa Junina"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2063507074093646059",
+    "created_at": "2026-06-07T06:23:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T07:23:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063507074093646059"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 21,
+          "tag": "GTOP"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1943385850366300161",
+          "start": 3,
+          "username": "iwantyoutostayt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063507074093646059",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063424054548160628",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iwantyoutostayt: #GTOP Festa junina au onde:\nJiyong, o popularzinho da escola decide pintar o cabelo como primeiro passo para declarar…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2063424032381227008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKLBOZcWUAAM2IQ.jpg",
+        "width": 685
+      },
+      {
+        "height": 618,
+        "media_key": "3_2063424045413027840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKLBPJ_X0AA3BV6.jpg",
+        "width": 1179
+      },
+      {
+        "height": 618,
+        "media_key": "3_2063424052027387904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKLBPioW8AAJ0MO.jpg",
+        "width": 1179
+      },
+      {
+        "height": 479,
+        "media_key": "3_2063424043714310144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKLBPDqXcAAqmy7.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1393330534403567618",
+              "name": "Festa Junina"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2063507074093646059",
+        "created_at": "2026-06-07T06:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T07:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063507074093646059"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "GTOP"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1943385850366300161",
+              "start": 3,
+              "username": "iwantyoutostayt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063507074093646059",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063424054548160628",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iwantyoutostayt: #GTOP Festa junina au onde:\nJiyong, o popularzinho da escola decide pintar o cabelo como primeiro passo para declarar…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063424032381227008",
+            "3_2063424045413027840",
+            "3_2063424052027387904",
+            "3_2063424043714310144"
+          ]
+        },
+        "author_id": "1943385850366300161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1393330534403567618",
+              "name": "Festa Junina"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2063424054548160628",
+        "created_at": "2026-06-07T00:53:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T01:53:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063424054548160628"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "GTOP"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/M0dtNSTigC",
+              "end": 262,
+              "expanded_url": "https://x.com/iwantyoutostayt/status/2063424054548160628/photo/1",
+              "media_key": "3_2063424032381227008",
+              "start": 239,
+              "url": "https://t.co/M0dtNSTigC"
+            },
+            {
+              "display_url": "pic.x.com/M0dtNSTigC",
+              "end": 262,
+              "expanded_url": "https://x.com/iwantyoutostayt/status/2063424054548160628/photo/1",
+              "media_key": "3_2063424045413027840",
+              "start": 239,
+              "url": "https://t.co/M0dtNSTigC"
+            },
+            {
+              "display_url": "pic.x.com/M0dtNSTigC",
+              "end": 262,
+              "expanded_url": "https://x.com/iwantyoutostayt/status/2063424054548160628/photo/1",
+              "media_key": "3_2063424052027387904",
+              "start": 239,
+              "url": "https://t.co/M0dtNSTigC"
+            },
+            {
+              "display_url": "pic.x.com/M0dtNSTigC",
+              "end": 262,
+              "expanded_url": "https://x.com/iwantyoutostayt/status/2063424054548160628/photo/1",
+              "media_key": "3_2063424043714310144",
+              "start": 239,
+              "url": "https://t.co/M0dtNSTigC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063424054548160628",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 232,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "#GTOP Festa junina au onde:\nJiyong, o popularzinho da escola decide pintar o cabelo como primeiro passo para declarar seu amor\nE Seunghyun, o garoto engraçadinho que geral curte, deixa a vergonha de lado para tentar sair com sua paixonite https://t.co/M0dtNSTigC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之/友跨/泛性恋/我割我抽我o/od持开放态度 不一定碰但是不会反感 不鉴证 喜欢萌妹子 某些男的想加我先v520  我没有🚪觉得我以后会在推上发点什么的不要关注我了还是 只有绿色健康小清新🍀",
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2051940167641149445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 393,
+          "like_count": 910,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 2216
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-10T19:04:42.000Z",
+        "description": "𖹭 We're living that good life",
+        "id": "1943385850366300161",
+        "location": "COMMS OPEN (soon",
+        "name": "jub in another dimension holy dude !!!!!!!!!!",
+        "pinned_tweet_id": "2009723997643002367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061446821776392192/fcR6hTwZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 830,
+          "following_count": 947,
+          "like_count": 67643,
+          "listed_count": 8,
+          "media_count": 1993,
+          "tweet_count": 38516
+        },
+        "username": "iwantyoutostayt",
+        "verified": false
+      }
+    ]
+  }
+}

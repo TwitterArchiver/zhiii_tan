@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "conversation_id": "2068028939843649557",
+    "created_at": "2026-06-19T17:56:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T18:56:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068030153465442419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1929070811241132032",
+          "start": 0,
+          "username": "GGGisena"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068030153465442419",
+    "in_reply_to_user_id": "1929070811241132032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068028939843649557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GGGisena 摸摸，中考一定会超常发挥的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2068028939843649557",
+        "created_at": "2026-06-19T17:56:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T18:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068030153465442419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1929070811241132032",
+              "start": 0,
+              "username": "GGGisena"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068030153465442419",
+        "in_reply_to_user_id": "1929070811241132032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068028939843649557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GGGisena 摸摸，中考一定会超常发挥的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929070811241132032",
+        "conversation_id": "2068028939843649557",
+        "created_at": "2026-06-19T17:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T18:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068028939843649557"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068028939843649557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就要中考了我真的好想努力我离职校一志还差70分我不知道为什么我就是努力不起来我行动不起来每天都特别焦虑，但是又控制不了自己学习，我知道这真的很重要。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之丨生理心理皆女丨lgbtq友好丨我割我抽我o丨不鉴证丨喜欢互动 丨我没有🚪觉得我以后会在推上发点什么的不要关注我了丨只有绿色健康小清新🍀丨没有门不接线上不接线下没有非绿没有半绿没有纯绿丨\n防炸@LeeSong14176丨互fo直关丨没回fo私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 102,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2065050387967840395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 560,
+          "like_count": 1229,
+          "listed_count": 0,
+          "media_count": 292,
+          "tweet_count": 3160
+        },
+        "url": "",
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-01T07:01:45.000Z",
+        "description": "ElleWu｜11年｜东莞/中山/珠三角｜同类直fo｜餐卷猫抓｜o割🚬｜私信除门不回｜我宝贝@ekj5615",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 46,
+                "username": "ekj5615"
+              }
+            ]
+          }
+        },
+        "id": "1929070811241132032",
+        "location": "🚪52",
+        "name": "Ellaaa",
+        "pinned_tweet_id": "2062946570027536455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068023700218359808/8hKMQX9Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 206,
+          "like_count": 599,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 603
+        },
+        "url": "",
+        "username": "GGGisena",
+        "verified": false
+      }
+    ]
+  }
+}

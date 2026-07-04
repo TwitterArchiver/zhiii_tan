@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "conversation_id": "2064832193810285037",
+    "created_at": "2026-06-11T02:04:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T03:04:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064891539365802039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1337435613142736906",
+          "start": 0,
+          "username": "1379Eto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064891539365802039",
+    "in_reply_to_user_id": "1337435613142736906",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064890651611951162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1379Eto 装傻充愣中、"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2064832193810285037",
+        "created_at": "2026-06-11T02:04:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T03:04:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064891539365802039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1337435613142736906",
+              "start": 0,
+              "username": "1379Eto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064891539365802039",
+        "in_reply_to_user_id": "1337435613142736906",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064890651611951162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1379Eto 装傻充愣中、"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1337435613142736906",
+        "conversation_id": "2064832193810285037",
+        "created_at": "2026-06-11T02:01:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T03:01:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064890651611951162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1839085606573637632",
+              "start": 0,
+              "username": "zhiii_tan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064890651611951162",
+        "in_reply_to_user_id": "1839085606573637632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064832193810285037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhiii_tan 我姨还指着这个问我是不是充电宝，我说是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之/生理心理皆女/lgbtq友好/我割我抽我o/不鉴证/喜欢和妹子互动/某些男的想加我先v520 /我没有🚪觉得我以后会在推上发点什么的不要关注我了/只有绿色健康小清新🍀/没有门不接线上不接线下没有非绿没有半绿没有纯绿/\n防炸@LeeSong14176/互fo直关/没回fo私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 118,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2064034397750464763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 464,
+          "like_count": 1095,
+          "listed_count": 0,
+          "media_count": 219,
+          "tweet_count": 2655
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-11T16:34:57.000Z",
+        "description": "我们家主打通配杆、弹，一次性，烟油，设备，空蛋\n购买 +V zs1997gjx",
+        "id": "1337435613142736906",
+        "name": "锐刻柚子电子烟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1366262981772763136/jmlSrul__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 120,
+          "like_count": 705,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 513
+        },
+        "username": "1379Eto",
+        "verified": false
+      }
+    ]
+  }
+}

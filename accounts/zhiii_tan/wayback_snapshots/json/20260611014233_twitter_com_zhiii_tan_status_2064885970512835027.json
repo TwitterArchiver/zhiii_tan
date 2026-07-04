@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "conversation_id": "2064782776738644333",
+    "created_at": "2026-06-11T01:42:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T02:42:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064885970512835027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1697172572008488961",
+          "start": 0,
+          "username": "chenghuihui234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064885970512835027",
+    "in_reply_to_user_id": "1697172572008488961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064885685807665430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chenghuihui234 万宝路樱花，韩国的，我没说清楚，就是那个粉粉的粗支"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2064782776738644333",
+        "created_at": "2026-06-11T01:42:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T02:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064885970512835027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1697172572008488961",
+              "start": 0,
+              "username": "chenghuihui234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064885970512835027",
+        "in_reply_to_user_id": "1697172572008488961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064885685807665430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenghuihui234 万宝路樱花，韩国的，我没说清楚，就是那个粉粉的粗支"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697172572008488961",
+        "conversation_id": "2064782776738644333",
+        "created_at": "2026-06-11T01:41:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T02:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064885685807665430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1839085606573637632",
+              "start": 0,
+              "username": "zhiii_tan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064885685807665430",
+        "in_reply_to_user_id": "1839085606573637632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064885127357071789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhiii_tan 是苏烟吧，这是我没听过的品牌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之/生理心理皆女/lgbtq友好/我割我抽我o/不鉴证/喜欢和妹子互动/某些男的想加我先v520 /我没有🚪觉得我以后会在推上发点什么的不要关注我了/只有绿色健康小清新🍀/没有门不接线上不接线下没有非绿没有半绿没有纯绿/\n防炸@LeeSong14176/互fo直关/没回fo私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 118,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2064034397750464763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 464,
+          "like_count": 1095,
+          "listed_count": 0,
+          "media_count": 219,
+          "tweet_count": 2648
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-31T09:00:55.000Z",
+        "description": "这个人没有留下过多的介绍",
+        "id": "1697172572008488961",
+        "location": "浙江",
+        "name": "qingshan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064697393434771456/m5kblD1Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 13,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 45
+        },
+        "username": "chenghuihui234",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065435717409427456"
+      ],
+      "media_source_tweet_id": [
+        "2065435722857754686"
+      ]
+    },
+    "author_id": "1839085606573637632",
+    "conversation_id": "2065507691641159897",
+    "created_at": "2026-06-12T18:53:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T19:53:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065507691641159897"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 49,
+          "start": 44,
+          "tag": "gtop"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2032129563900456960",
+          "start": 3,
+          "username": "gtopcore"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/83WTb5casC",
+          "end": 73,
+          "expanded_url": "https://x.com/gtopcore/status/2065435722857754686/photo/1",
+          "media_key": "3_2065435717409427456",
+          "start": 50,
+          "url": "https://t.co/83WTb5casC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065507691641159897",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065435722857754686",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gtopcore: taeyang has witnessed things \n#gtop https://t.co/83WTb5casC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 735,
+        "media_key": "3_2065435717409427456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKnm14KX0AAh65R.jpg",
+        "width": 699
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065435717409427456"
+          ],
+          "media_source_tweet_id": [
+            "2065435722857754686"
+          ]
+        },
+        "author_id": "1839085606573637632",
+        "conversation_id": "2065507691641159897",
+        "created_at": "2026-06-12T18:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T19:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065507691641159897"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 44,
+              "tag": "gtop"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2032129563900456960",
+              "start": 3,
+              "username": "gtopcore"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/83WTb5casC",
+              "end": 73,
+              "expanded_url": "https://x.com/gtopcore/status/2065435722857754686/photo/1",
+              "media_key": "3_2065435717409427456",
+              "start": 50,
+              "url": "https://t.co/83WTb5casC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065507691641159897",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065435722857754686",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gtopcore: taeyang has witnessed things \n#gtop https://t.co/83WTb5casC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065435717409427456"
+          ]
+        },
+        "author_id": "2032129563900456960",
+        "conversation_id": "2065435722857754686",
+        "created_at": "2026-06-12T14:07:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T15:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065435722857754686"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 30,
+              "tag": "gtop"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/83WTb5casC",
+              "end": 59,
+              "expanded_url": "https://x.com/gtopcore/status/2065435722857754686/photo/1",
+              "media_key": "3_2065435717409427456",
+              "start": 36,
+              "url": "https://t.co/83WTb5casC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065435722857754686",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 859,
+          "like_count": 134,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "taeyang has witnessed things \n#gtop https://t.co/83WTb5casC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之丨生理心理皆女丨lgbtq友好丨我割我抽我o丨不鉴证丨喜欢互动 丨我没有🚪觉得我以后会在推上发点什么的不要关注我了丨只有绿色健康小清新🍀丨没有门不接线上不接线下没有非绿没有半绿没有纯绿丨\n防炸@LeeSong14176丨互fo直关丨没回fo私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 102,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2065050387967840395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 476,
+          "like_count": 1143,
+          "listed_count": 0,
+          "media_count": 234,
+          "tweet_count": 2761
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T16:21:07.000Z",
+        "description": "frequent trips down #GDRAGON and #BIGBANG memory lane",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 28,
+                "start": 20,
+                "tag": "GDRAGON"
+              },
+              {
+                "end": 41,
+                "start": 33,
+                "tag": "BIGBANG"
+              }
+            ]
+          }
+        },
+        "id": "2032129563900456960",
+        "location": "he/they ot4 ",
+        "name": "🏳️‍🌈",
+        "pinned_tweet_id": "2048344672347488604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061031629137612807/slHIS8ys_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 337,
+          "like_count": 5701,
+          "listed_count": 1,
+          "media_count": 856,
+          "tweet_count": 4267
+        },
+        "username": "gtopcore",
+        "verified": false
+      }
+    ]
+  }
+}

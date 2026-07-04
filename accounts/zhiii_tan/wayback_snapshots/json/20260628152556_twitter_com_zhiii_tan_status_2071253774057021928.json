@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "conversation_id": "2071253771825684836",
+    "created_at": "2026-06-28T15:25:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T16:25:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071253774057021928"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2071253774057021928",
+    "in_reply_to_user_id": "1839085606573637632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071253771825684836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我有点自来熟🤲🏻但是边界感还是有的，不喜欢互动可以告诉我，我发的最多的是日常吐槽家产碎碎念\n嗯还有我不会推广od，推荐别人去o之类的，因为戒断很难ᔦ ° ꒳ ° ᔨ ̖́-希望你们天天开心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2071253771825684836",
+        "created_at": "2026-06-28T15:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T16:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071253774057021928"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071253774057021928",
+        "in_reply_to_user_id": "1839085606573637632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071253771825684836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我有点自来熟🤲🏻但是边界感还是有的，不喜欢互动可以告诉我，我发的最多的是日常吐槽家产碎碎念\n嗯还有我不会推广od，推荐别人去o之类的，因为戒断很难ᔦ ° ꒳ ° ᔨ ̖́-希望你们天天开心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2071253771825684836",
+        "created_at": "2026-06-28T15:25:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T16:25:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071253771825684836"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071253771825684836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在感觉很不安所以我要再次重申一下，我的三观不能说完全正确，政治方面没什么可说的每个国家都不是完全好完全坏的，我也不会无脑爱某个国家，谨慎关注吧，如果对我的言论不开心了可以提出，我也会记住，如果实在接受不了那就双取我吧，屏蔽我也OK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之丨生理心理皆女丨lgbtq友好丨我割我抽我o丨不鉴证丨喜欢互动 丨我没有🚪觉得我以后会在推上发点什么的不要关注我了丨只有绿色健康小清新🍀丨没有门不接线上不接线下没有非绿没有半绿没有纯绿丨\n防炸@LeeSong14176丨互fo直关丨没回fo私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 102,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2065050387967840395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 593,
+          "like_count": 1356,
+          "listed_count": 0,
+          "media_count": 314,
+          "tweet_count": 3391
+        },
+        "url": "",
+        "username": "zhiii_tan",
+        "verified": false
+      }
+    ]
+  }
+}

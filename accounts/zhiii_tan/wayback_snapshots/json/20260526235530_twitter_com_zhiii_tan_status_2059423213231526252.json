@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "conversation_id": "2059423210161238272",
+    "created_at": "2026-05-26T23:55:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T00:55:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059423213231526252"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059423213231526252",
+    "in_reply_to_user_id": "1839085606573637632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059423210161238272",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "也有人维护过我，对那个发喝精液的人说，我只是发了一条的评论不至于这样吧，还有人对那个说爱喝就就继续吧的人说，她只是发了一个从小喝到大家里也爱买这个牌子又不是代表以后会一直喝一直买，这个这帮子女拳在解释完之后就跑路了😂完全不提对女性围剿这件事，隐性厌女是不知道的，阴阳怪气是必须的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059423203941105664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJSKfiEbQAAVZdz.jpg",
+        "width": 916
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059423204922535936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJSKfluasAApJc-.jpg",
+        "width": 916
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059423207321681920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJSKfuqawAAS3Sw.jpg",
+        "width": 916
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059423205799129088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJSKfo_acAAyWMB.jpg",
+        "width": 916
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2059423210161238272",
+        "created_at": "2026-05-26T23:55:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T00:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059423213231526252"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059423213231526252",
+        "in_reply_to_user_id": "1839085606573637632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059423210161238272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "也有人维护过我，对那个发喝精液的人说，我只是发了一条的评论不至于这样吧，还有人对那个说爱喝就就继续吧的人说，她只是发了一个从小喝到大家里也爱买这个牌子又不是代表以后会一直喝一直买，这个这帮子女拳在解释完之后就跑路了😂完全不提对女性围剿这件事，隐性厌女是不知道的，阴阳怪气是必须的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059423203941105664",
+            "3_2059423204922535936",
+            "3_2059423207321681920",
+            "3_2059423205799129088"
+          ]
+        },
+        "author_id": "1839085606573637632",
+        "conversation_id": "2059423210161238272",
+        "created_at": "2026-05-26T23:55:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T00:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059423210161238272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N9Layx0pHR",
+              "end": 164,
+              "expanded_url": "https://x.com/zhiii_tan/status/2059423210161238272/photo/1",
+              "media_key": "3_2059423203941105664",
+              "start": 141,
+              "url": "https://t.co/N9Layx0pHR"
+            },
+            {
+              "display_url": "pic.x.com/N9Layx0pHR",
+              "end": 164,
+              "expanded_url": "https://x.com/zhiii_tan/status/2059423210161238272/photo/1",
+              "media_key": "3_2059423204922535936",
+              "start": 141,
+              "url": "https://t.co/N9Layx0pHR"
+            },
+            {
+              "display_url": "pic.x.com/N9Layx0pHR",
+              "end": 164,
+              "expanded_url": "https://x.com/zhiii_tan/status/2059423210161238272/photo/1",
+              "media_key": "3_2059423207321681920",
+              "start": 141,
+              "url": "https://t.co/N9Layx0pHR"
+            },
+            {
+              "display_url": "pic.x.com/N9Layx0pHR",
+              "end": 164,
+              "expanded_url": "https://x.com/zhiii_tan/status/2059423210161238272/photo/1",
+              "media_key": "3_2059423205799129088",
+              "start": 141,
+              "url": "https://t.co/N9Layx0pHR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059423210161238272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道你们知不知道海河牛奶男主播的事情，我在小红书相关帖子底下发了一句评论天津本地人，家里一直买的海河牛奶，我承认这种立场不明的评论会有误会是我的锅，但是后面有人回复我，我也跟他解释了可是还是有人跟我说爱喝精液的话就继续吧，对另一个女性的围剿到底是为什么？我的表达能力有限，请看图 https://t.co/N9Layx0pHR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之/友跨/泛性恋/我割我抽我o/od持开放态度 不一定碰但是不会反感 不鉴证 喜欢萌妹子 某些男的想加我先v520  我没有🚪觉得我以后会在推上发点什么的不要关注我了还是 只有绿色健康小清新🍀",
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2051940167641149445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 366,
+          "like_count": 677,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 1923
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      }
+    ]
+  }
+}

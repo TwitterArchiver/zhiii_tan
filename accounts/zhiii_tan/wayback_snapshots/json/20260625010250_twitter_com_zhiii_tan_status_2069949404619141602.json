@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "conversation_id": "2069844369604309309",
+    "created_at": "2026-06-25T01:02:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T02:02:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069949404619141602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2069672661181939712",
+          "start": 0,
+          "username": "AmeQ3Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069949404619141602",
+    "in_reply_to_user_id": "2069672661181939712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069855519297376332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmeQ3Q 也对哦，好有道理！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2069844369604309309",
+        "created_at": "2026-06-25T01:02:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T02:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069949404619141602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2069672661181939712",
+              "start": 0,
+              "username": "AmeQ3Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069949404619141602",
+        "in_reply_to_user_id": "2069672661181939712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069855519297376332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmeQ3Q 也对哦，好有道理！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2069672661181939712",
+        "conversation_id": "2069844369604309309",
+        "created_at": "2026-06-24T18:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T19:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069855519297376332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1839085606573637632",
+              "start": 0,
+              "username": "zhiii_tan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069855519297376332",
+        "in_reply_to_user_id": "1839085606573637632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069844369604309309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhiii_tan 同感…有时候感觉是想象的而不是“看到的”，但是又仔细一想我平常也不会想象到这样的东西呀？！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之丨生理心理皆女丨lgbtq友好丨我割我抽我o丨不鉴证丨喜欢互动 丨我没有🚪觉得我以后会在推上发点什么的不要关注我了丨只有绿色健康小清新🍀丨没有门不接线上不接线下没有非绿没有半绿没有纯绿丨\n防炸@LeeSong14176丨互fo直关丨没回fo私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 102,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2065050387967840395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 574,
+          "like_count": 1285,
+          "listed_count": 0,
+          "media_count": 305,
+          "tweet_count": 3281
+        },
+        "url": "",
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-24T06:47:08.000Z",
+        "description": "叫我Ame或者小雨都可以哦！\nenby｜搖滾樂｜od｜sh｜LGBTQ+全友好｜\n性格很溫良歡迎找我互fo！✝️",
+        "id": "2069672661181939712",
+        "name": "Ame",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069710869575929857/B2cKxCA3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 20,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 14
+        },
+        "url": "",
+        "username": "AmeQ3Q",
+        "verified": false
+      }
+    ]
+  }
+}

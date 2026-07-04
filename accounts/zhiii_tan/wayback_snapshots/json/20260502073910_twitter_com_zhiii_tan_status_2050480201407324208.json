@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "conversation_id": "2050370149749027014",
+    "created_at": "2026-05-02T07:39:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T08:39:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050480201407324208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1966647400820355073",
+          "start": 0,
+          "username": "xkeplercom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050480201407324208",
+    "in_reply_to_user_id": "1966647400820355073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050450546071646333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xkeplercom 没有呀，存货"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2050370149749027014",
+        "created_at": "2026-05-02T07:39:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T08:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050480201407324208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1966647400820355073",
+              "start": 0,
+              "username": "xkeplercom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050480201407324208",
+        "in_reply_to_user_id": "1966647400820355073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050450546071646333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xkeplercom 没有呀，存货"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1966647400820355073",
+        "conversation_id": "2050370149749027014",
+        "created_at": "2026-05-02T05:41:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T06:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050450546071646333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1839085606573637632",
+              "start": 0,
+              "username": "zhiii_tan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050450546071646333",
+        "in_reply_to_user_id": "1839085606573637632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050370149749027014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhiii_tan 又割了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之/友跨/泛性恋/我割我抽我o/od持开放态度 不一定碰但是不会反感 不鉴证 喜欢萌妹子 某些男的想加我先v520  我没有🚪觉得我以后会在推上发点什么的不要关注我了还是 只有绿色健康小清新",
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2044718222386299214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 334,
+          "like_count": 463,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 1558
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-12T23:38:21.000Z",
+        "description": "「社会寄生虫，专业啃老族，最喜欢的东西是钱」| INFP | 166 | 艺术生 | 业余程序员 |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xkepler.com",
+                "end": 23,
+                "expanded_url": "http://xkepler.com",
+                "start": 0,
+                "url": "https://t.co/YV76Hi6tiu"
+              }
+            ]
+          }
+        },
+        "id": "1966647400820355073",
+        "location": "中国",
+        "name": "JustGiveMeTheFuckingMoney",
+        "pinned_tweet_id": "2050108711956513230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025747075112083456/m1wf7q8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 1508
+        },
+        "url": "https://t.co/YV76Hi6tiu",
+        "username": "xkeplercom",
+        "verified": true
+      }
+    ]
+  }
+}

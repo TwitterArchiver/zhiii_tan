@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067120726596038656"
+      ],
+      "media_source_tweet_id": [
+        "2067120732069642376"
+      ]
+    },
+    "author_id": "1839085606573637632",
+    "conversation_id": "2068030244075033064",
+    "created_at": "2026-06-19T17:56:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T18:56:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068030244075033064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2052038529153466368",
+          "start": 3,
+          "username": "JePenseAT0Ixxx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bYLP6DgtBX",
+          "end": 65,
+          "expanded_url": "https://x.com/JePenseAT0Ixxx/status/2067120732069642376/photo/1",
+          "media_key": "3_2067120726596038656",
+          "start": 42,
+          "url": "https://t.co/bYLP6DgtBX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068030244075033064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067120732069642376",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JePenseAT0Ixxx: 嗯就是msk我錯了。被封7天了\n互關尋回中 https://t.co/bYLP6DgtBX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067120726596038656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_jWUiasAAHFFP.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067120726596038656"
+          ],
+          "media_source_tweet_id": [
+            "2067120732069642376"
+          ]
+        },
+        "author_id": "1839085606573637632",
+        "conversation_id": "2068030244075033064",
+        "created_at": "2026-06-19T17:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T18:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068030244075033064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2052038529153466368",
+              "start": 3,
+              "username": "JePenseAT0Ixxx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bYLP6DgtBX",
+              "end": 65,
+              "expanded_url": "https://x.com/JePenseAT0Ixxx/status/2067120732069642376/photo/1",
+              "media_key": "3_2067120726596038656",
+              "start": 42,
+              "url": "https://t.co/bYLP6DgtBX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068030244075033064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067120732069642376",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JePenseAT0Ixxx: 嗯就是msk我錯了。被封7天了\n互關尋回中 https://t.co/bYLP6DgtBX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067120726596038656"
+          ]
+        },
+        "author_id": "2052038529153466368",
+        "conversation_id": "2067120732069642376",
+        "created_at": "2026-06-17T05:42:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T06:42:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067120732069642376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bYLP6DgtBX",
+              "end": 45,
+              "expanded_url": "https://x.com/JePenseAT0Ixxx/status/2067120732069642376/photo/1",
+              "media_key": "3_2067120726596038656",
+              "start": 22,
+              "url": "https://t.co/bYLP6DgtBX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067120732069642376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1429,
+          "like_count": 7,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "嗯就是msk我錯了。被封7天了\n互關尋回中 https://t.co/bYLP6DgtBX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之丨生理心理皆女丨lgbtq友好丨我割我抽我o丨不鉴证丨喜欢互动 丨我没有🚪觉得我以后会在推上发点什么的不要关注我了丨只有绿色健康小清新🍀丨没有门不接线上不接线下没有非绿没有半绿没有纯绿丨\n防炸@LeeSong14176丨互fo直关丨没回fo私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 102,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2065050387967840395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 560,
+          "like_count": 1230,
+          "listed_count": 0,
+          "media_count": 292,
+          "tweet_count": 3161
+        },
+        "url": "",
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-06T14:56:34.000Z",
+        "description": "我活著 無聲的淌血\nre：迷茫的人生 請別忘記我",
+        "id": "2052038529153466368",
+        "name": "迴2.0（推友尋回中）",
+        "pinned_tweet_id": "2067120732069642376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055765105296715776/abvXB9EU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 36,
+          "like_count": 366,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 41
+        },
+        "url": "",
+        "username": "JePenseAT0Ixxx",
+        "verified": false
+      }
+    ]
+  }
+}

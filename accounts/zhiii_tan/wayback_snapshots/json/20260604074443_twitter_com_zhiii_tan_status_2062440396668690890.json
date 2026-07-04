@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "conversation_id": "2062440396668690890",
+    "created_at": "2026-06-04T07:44:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T08:44:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062440396668690890"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Mantou_naive/s…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/Mantou_naive/status/2061775111850696978",
+          "start": 2,
+          "url": "https://t.co/kLdcg7efKV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062440396668690890",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061775111850696978",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🤯 https://t.co/kLdcg7efKV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_2061775100530311168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJzlh7nawAA4uNS.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1707,
+        "media_key": "3_2061775100534517760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJzlh7oa8AAMBnt.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1276,
+        "media_key": "3_2061775100542853120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJzlh7qaIAAuz77.jpg",
+        "width": 1702
+      },
+      {
+        "height": 1366,
+        "media_key": "3_2061775100542861312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJzlh7qaQAAUsM9.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2062440396668690890",
+        "created_at": "2026-06-04T07:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T08:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062440396668690890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Mantou_naive/s…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/Mantou_naive/status/2061775111850696978",
+              "start": 2,
+              "url": "https://t.co/kLdcg7efKV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062440396668690890",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061775111850696978",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤯 https://t.co/kLdcg7efKV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061775100530311168",
+            "3_2061775100534517760",
+            "3_2061775100542853120",
+            "3_2061775100542861312"
+          ]
+        },
+        "author_id": "753095033537126401",
+        "conversation_id": "2061775111850696978",
+        "created_at": "2026-06-02T11:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T12:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061775111850696978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LHZ7w5LSYJ",
+              "end": 155,
+              "expanded_url": "https://x.com/Mantou_naive/status/2061775111850696978/photo/1",
+              "media_key": "3_2061775100530311168",
+              "start": 132,
+              "url": "https://t.co/LHZ7w5LSYJ"
+            },
+            {
+              "display_url": "pic.x.com/LHZ7w5LSYJ",
+              "end": 155,
+              "expanded_url": "https://x.com/Mantou_naive/status/2061775111850696978/photo/1",
+              "media_key": "3_2061775100534517760",
+              "start": 132,
+              "url": "https://t.co/LHZ7w5LSYJ"
+            },
+            {
+              "display_url": "pic.x.com/LHZ7w5LSYJ",
+              "end": 155,
+              "expanded_url": "https://x.com/Mantou_naive/status/2061775111850696978/photo/1",
+              "media_key": "3_2061775100542853120",
+              "start": 132,
+              "url": "https://t.co/LHZ7w5LSYJ"
+            },
+            {
+              "display_url": "pic.x.com/LHZ7w5LSYJ",
+              "end": 155,
+              "expanded_url": "https://x.com/Mantou_naive/status/2061775111850696978/photo/1",
+              "media_key": "3_2061775100542861312",
+              "start": 132,
+              "url": "https://t.co/LHZ7w5LSYJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061775111850696978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4320,
+          "impression_count": 3141816,
+          "like_count": 14180,
+          "quote_count": 448,
+          "reply_count": 624,
+          "retweet_count": 1060
+        },
+        "reply_settings": "everyone",
+        "text": "前两天sm酒吧玩，m的入场券戴脖子上，s戴手腕上，好有意思。\n每个人会发1000“美金，可以用来拍卖和赌博，输光了在员工那里领一鞭子还能得1000哈哈哈，笑死了看到有个妹子被抽的嗷嗷叫。\n我点了一个酒，名叫小狗🐕，给我上了一个狗盆哈哈哈，里面还有狗爪印，好可爱。 https://t.co/LHZ7w5LSYJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之/友跨/泛性恋/我割我抽我o/od持开放态度 不一定碰但是不会反感 不鉴证 喜欢萌妹子 某些男的想加我先v520  我没有🚪觉得我以后会在推上发点什么的不要关注我了还是 只有绿色健康小清新🍀",
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2051940167641149445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 380,
+          "like_count": 766,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 2059
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-13T05:13:42.000Z",
+        "description": "抖m情趣店老板娘。5年淘宝店：花椒馒头铺。支持海外，全球可发！不接广告的活人博主🥹推特发买家秀并艾特我都会转发~！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.tb.cn/h.7j6xee7HvAU6…",
+                "end": 23,
+                "expanded_url": "https://m.tb.cn/h.7j6xee7HvAU62Ns",
+                "start": 0,
+                "url": "https://t.co/b4RWtnlyvt"
+              }
+            ]
+          }
+        },
+        "id": "753095033537126401",
+        "location": "淘宝直达下单↓↓↓",
+        "name": "馒天真（飞机杯女王）",
+        "pinned_tweet_id": "2061328585441644810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1676243081870606336/i85Ct0r7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518624,
+          "following_count": 351,
+          "like_count": 684,
+          "listed_count": 887,
+          "media_count": 740,
+          "tweet_count": 3867
+        },
+        "url": "https://t.co/b4RWtnlyvt",
+        "username": "Mantou_naive",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

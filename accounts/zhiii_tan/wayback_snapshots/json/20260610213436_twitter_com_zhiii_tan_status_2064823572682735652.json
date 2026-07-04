@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064823569713115136"
+      ]
+    },
+    "author_id": "1839085606573637632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2064823572682735652",
+    "created_at": "2026-06-10T21:34:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T22:34:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064823572682735652"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UOBVW4K9cX",
+          "end": 34,
+          "expanded_url": "https://x.com/zhiii_tan/status/2064823572682735652/photo/1",
+          "media_key": "3_2064823569713115136",
+          "start": 11,
+          "url": "https://t.co/UOBVW4K9cX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064823572682735652",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "权志龙地雷男证据+1 https://t.co/UOBVW4K9cX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1343,
+        "media_key": "3_2064823569713115136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKe6GMSasAAvBlZ.jpg",
+        "width": 1008
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064823569713115136"
+          ]
+        },
+        "author_id": "1839085606573637632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2064823572682735652",
+        "created_at": "2026-06-10T21:34:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T22:34:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064823572682735652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UOBVW4K9cX",
+              "end": 34,
+              "expanded_url": "https://x.com/zhiii_tan/status/2064823572682735652/photo/1",
+              "media_key": "3_2064823569713115136",
+              "start": 11,
+              "url": "https://t.co/UOBVW4K9cX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064823572682735652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "权志龙地雷男证据+1 https://t.co/UOBVW4K9cX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之/生理心理皆女/lgbtq友好/我割我抽我o/不鉴证/喜欢和妹子互动/某些男的想加我先v520 /我没有🚪觉得我以后会在推上发点什么的不要关注我了/只有绿色健康小清新🍀/没有门不接线上不接线下没有非绿没有半绿没有纯绿/\n防炸@LeeSong14176/互fo直关/没回fo私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 118,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2064034397750464763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 461,
+          "like_count": 1086,
+          "listed_count": 0,
+          "media_count": 218,
+          "tweet_count": 2619
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      }
+    ]
+  }
+}

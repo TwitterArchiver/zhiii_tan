@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067722078204366848",
+        "3_2067722079303307264",
+        "3_2067722081006137344"
+      ]
+    },
+    "author_id": "1839085606573637632",
+    "conversation_id": "2067722085577916796",
+    "created_at": "2026-06-18T21:32:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T22:32:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067722085577916796"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Tx6E0uiN81",
+          "end": 86,
+          "expanded_url": "https://x.com/zhiii_tan/status/2067722085577916796/photo/1",
+          "media_key": "3_2067722078204366848",
+          "start": 63,
+          "url": "https://t.co/Tx6E0uiN81"
+        },
+        {
+          "display_url": "pic.x.com/Tx6E0uiN81",
+          "end": 86,
+          "expanded_url": "https://x.com/zhiii_tan/status/2067722085577916796/photo/1",
+          "media_key": "3_2067722079303307264",
+          "start": 63,
+          "url": "https://t.co/Tx6E0uiN81"
+        },
+        {
+          "display_url": "pic.x.com/Tx6E0uiN81",
+          "end": 86,
+          "expanded_url": "https://x.com/zhiii_tan/status/2067722085577916796/photo/1",
+          "media_key": "3_2067722081006137344",
+          "start": 63,
+          "url": "https://t.co/Tx6E0uiN81"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067722085577916796",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "宝贝你猜我在我为什么不想给你发消息啊🥰每次回完你消息之后就不看我回的消息了，对，我只能回复你的给你提供情绪价值，你回我啥了呀 https://t.co/Tx6E0uiN81"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1821,
+        "media_key": "3_2067722078204366848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLIGRl2akAArP0L.jpg",
+        "width": 943
+      },
+      {
+        "height": 2261,
+        "media_key": "3_2067722079303307264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLIGRp8bEAARucX.jpg",
+        "width": 908
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067722081006137344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLIGRwSaMAADtNe.jpg",
+        "width": 963
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067722078204366848",
+            "3_2067722079303307264",
+            "3_2067722081006137344"
+          ]
+        },
+        "author_id": "1839085606573637632",
+        "conversation_id": "2067722085577916796",
+        "created_at": "2026-06-18T21:32:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T22:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067722085577916796"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tx6E0uiN81",
+              "end": 86,
+              "expanded_url": "https://x.com/zhiii_tan/status/2067722085577916796/photo/1",
+              "media_key": "3_2067722078204366848",
+              "start": 63,
+              "url": "https://t.co/Tx6E0uiN81"
+            },
+            {
+              "display_url": "pic.x.com/Tx6E0uiN81",
+              "end": 86,
+              "expanded_url": "https://x.com/zhiii_tan/status/2067722085577916796/photo/1",
+              "media_key": "3_2067722079303307264",
+              "start": 63,
+              "url": "https://t.co/Tx6E0uiN81"
+            },
+            {
+              "display_url": "pic.x.com/Tx6E0uiN81",
+              "end": 86,
+              "expanded_url": "https://x.com/zhiii_tan/status/2067722085577916796/photo/1",
+              "media_key": "3_2067722081006137344",
+              "start": 63,
+              "url": "https://t.co/Tx6E0uiN81"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067722085577916796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宝贝你猜我在我为什么不想给你发消息啊🥰每次回完你消息之后就不看我回的消息了，对，我只能回复你的给你提供情绪价值，你回我啥了呀 https://t.co/Tx6E0uiN81"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之丨生理心理皆女丨lgbtq友好丨我割我抽我o丨不鉴证丨喜欢互动 丨我没有🚪觉得我以后会在推上发点什么的不要关注我了丨只有绿色健康小清新🍀丨没有门不接线上不接线下没有非绿没有半绿没有纯绿丨\n防炸@LeeSong14176丨互fo直关丨没回fo私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 102,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2065050387967840395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 552,
+          "like_count": 1221,
+          "listed_count": 0,
+          "media_count": 289,
+          "tweet_count": 3130
+        },
+        "url": "",
+        "username": "zhiii_tan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "conversation_id": "2063700114246705422",
+    "created_at": "2026-06-08T18:26:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T19:26:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064051355967451146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1953158377103589376",
+          "start": 0,
+          "username": "zzjhzzjh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064051355967451146",
+    "in_reply_to_user_id": "1953158377103589376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064050588527022574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzjhzzjh 15年mama那会李胜利还坐在吴世勋腿上唱歌，LV大势！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2063700114246705422",
+        "created_at": "2026-06-08T18:26:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T19:26:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064051355967451146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1953158377103589376",
+              "start": 0,
+              "username": "zzjhzzjh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064051355967451146",
+        "in_reply_to_user_id": "1953158377103589376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064050588527022574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzjhzzjh 15年mama那会李胜利还坐在吴世勋腿上唱歌，LV大势！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953158377103589376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Members: Suho (수호), Chanyeol (찬열), Kai (카이), D.O (디오), Baekhyun (백현), Sehun (세훈), Xiumin (시우민), Chen (첸), Lay (레이)",
+              "id": "889972468953128960",
+              "name": "EXO"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Members: Suho (수호), Chanyeol (찬열), Kai (카이), D.O (디오), Baekhyun (백현), Sehun (세훈), Xiumin (시우민), Chen (첸), Lay (레이)",
+              "id": "889972468953128960",
+              "name": "EXO"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Members: Suho (수호), Chanyeol (찬열), Kai (카이), D.O (디오), Baekhyun (백현), Sehun (세훈), Xiumin (시우민), Chen (첸), Lay (레이)",
+              "id": "889972468953128960",
+              "name": "EXO"
+            }
+          }
+        ],
+        "conversation_id": "2063700114246705422",
+        "created_at": "2026-06-08T18:23:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T19:23:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064050588527022574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1839085606573637632",
+              "start": 0,
+              "username": "zhiii_tan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064050588527022574",
+        "in_reply_to_user_id": "1839085606573637632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064049731106750714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhiii_tan 我认识棒！我追老地的EXO 都老辈子了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之/生理心理皆女/lgbtq友好/泛性恋/我割我抽我o/od持开放态度 不一定碰但是不会反感 不鉴证 喜欢萌妹子 某些男的想加我先v520  我没有🚪觉得我以后会在推上发点什么的不要关注我了还是 只有绿色健康小清新🍀\n世界上的另一个我@LeeSong14176",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 122,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2064034397750464763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 430,
+          "like_count": 988,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 2369
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-06T18:17:12.000Z",
+        "description": "随便发(=･ω･=)",
+        "id": "1953158377103589376",
+        "name": "龄元.",
+        "pinned_tweet_id": "2061485085569020219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953516274581217280/tvGCVI0K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 36,
+          "like_count": 380,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 436
+        },
+        "username": "zzjhzzjh",
+        "verified": false
+      }
+    ]
+  }
+}

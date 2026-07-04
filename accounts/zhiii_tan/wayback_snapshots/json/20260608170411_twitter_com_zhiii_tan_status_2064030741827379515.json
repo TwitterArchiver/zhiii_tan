@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064030717101953024",
+        "3_2064030719425581056",
+        "3_2064030721988231168",
+        "3_2064030735154163712"
+      ]
+    },
+    "author_id": "1839085606573637632",
+    "conversation_id": "2064030741827379515",
+    "created_at": "2026-06-08T17:04:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T18:04:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064030741827379515"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7fZGO3ztpC",
+          "end": 42,
+          "expanded_url": "https://x.com/zhiii_tan/status/2064030741827379515/photo/1",
+          "media_key": "3_2064030717101953024",
+          "start": 19,
+          "url": "https://t.co/7fZGO3ztpC"
+        },
+        {
+          "display_url": "pic.x.com/7fZGO3ztpC",
+          "end": 42,
+          "expanded_url": "https://x.com/zhiii_tan/status/2064030741827379515/photo/1",
+          "media_key": "3_2064030719425581056",
+          "start": 19,
+          "url": "https://t.co/7fZGO3ztpC"
+        },
+        {
+          "display_url": "pic.x.com/7fZGO3ztpC",
+          "end": 42,
+          "expanded_url": "https://x.com/zhiii_tan/status/2064030741827379515/photo/1",
+          "media_key": "3_2064030721988231168",
+          "start": 19,
+          "url": "https://t.co/7fZGO3ztpC"
+        },
+        {
+          "display_url": "pic.x.com/7fZGO3ztpC",
+          "end": 42,
+          "expanded_url": "https://x.com/zhiii_tan/status/2064030741827379515/photo/1",
+          "media_key": "3_2064030735154163712",
+          "start": 19,
+          "url": "https://t.co/7fZGO3ztpC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064030741827379515",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "实际上:🚬🐖\n我想象中我抽烟的样子: https://t.co/7fZGO3ztpC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 876,
+        "media_key": "3_2064030717101953024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTpAGJbUAA74Sm.jpg",
+        "width": 720
+      },
+      {
+        "height": 1081,
+        "media_key": "3_2064030719425581056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTpAOzbEAAVn3f.jpg",
+        "width": 960
+      },
+      {
+        "height": 976,
+        "media_key": "3_2064030721988231168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTpAYWaAAA1O79.jpg",
+        "width": 821
+      },
+      {
+        "height": 864,
+        "media_key": "3_2064030735154163712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTpBJZaMAAf7Fl.jpg",
+        "width": 1239
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064030717101953024",
+            "3_2064030719425581056",
+            "3_2064030721988231168",
+            "3_2064030735154163712"
+          ]
+        },
+        "author_id": "1839085606573637632",
+        "conversation_id": "2064030741827379515",
+        "created_at": "2026-06-08T17:04:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T18:04:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064030741827379515"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7fZGO3ztpC",
+              "end": 42,
+              "expanded_url": "https://x.com/zhiii_tan/status/2064030741827379515/photo/1",
+              "media_key": "3_2064030717101953024",
+              "start": 19,
+              "url": "https://t.co/7fZGO3ztpC"
+            },
+            {
+              "display_url": "pic.x.com/7fZGO3ztpC",
+              "end": 42,
+              "expanded_url": "https://x.com/zhiii_tan/status/2064030741827379515/photo/1",
+              "media_key": "3_2064030719425581056",
+              "start": 19,
+              "url": "https://t.co/7fZGO3ztpC"
+            },
+            {
+              "display_url": "pic.x.com/7fZGO3ztpC",
+              "end": 42,
+              "expanded_url": "https://x.com/zhiii_tan/status/2064030741827379515/photo/1",
+              "media_key": "3_2064030721988231168",
+              "start": 19,
+              "url": "https://t.co/7fZGO3ztpC"
+            },
+            {
+              "display_url": "pic.x.com/7fZGO3ztpC",
+              "end": 42,
+              "expanded_url": "https://x.com/zhiii_tan/status/2064030741827379515/photo/1",
+              "media_key": "3_2064030735154163712",
+              "start": 19,
+              "url": "https://t.co/7fZGO3ztpC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064030741827379515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "实际上:🚬🐖\n我想象中我抽烟的样子: https://t.co/7fZGO3ztpC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之/生理心理皆女/lgbtq友好/泛性恋/我割我抽我o/od持开放态度 不一定碰但是不会反感 不鉴证 喜欢萌妹子 某些男的想加我先v520  我没有🚪觉得我以后会在推上发点什么的不要关注我了还是 只有绿色健康小清新🍀\n世界上的另一个我@LeeSong14176",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 122,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2051940167641149445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 420,
+          "like_count": 981,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 2344
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      }
+    ]
+  }
+}

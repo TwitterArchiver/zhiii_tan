@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "conversation_id": "2064782776738644333",
+    "created_at": "2026-06-11T08:07:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T09:07:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064982792589729889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1889401541142126592",
+          "start": 0,
+          "username": "smilinpusi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064982792589729889",
+    "in_reply_to_user_id": "1889401541142126592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064962001051509182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smilinpusi 第一个是红万🫡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2064782776738644333",
+        "created_at": "2026-06-11T08:07:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T09:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064982792589729889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1889401541142126592",
+              "start": 0,
+              "username": "smilinpusi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064982792589729889",
+        "in_reply_to_user_id": "1889401541142126592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064962001051509182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smilinpusi 第一个是红万🫡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889401541142126592",
+        "conversation_id": "2064782776738644333",
+        "created_at": "2026-06-11T06:44:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T07:44:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064962001051509182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1839085606573637632",
+              "start": 0,
+              "username": "zhiii_tan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064962001051509182",
+        "in_reply_to_user_id": "1839085606573637632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064782776738644333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhiii_tan 白沙 万宝路薄巧 万宝路樱花 银钗 中南海蓝莓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之/生理心理皆女/lgbtq友好/我割我抽我o/不鉴证/喜欢和妹子互动/某些男的想加我先v520 /我没有🚪觉得我以后会在推上发点什么的不要关注我了/只有绿色健康小清新🍀/没有门不接线上不接线下没有非绿没有半绿没有纯绿/\n防炸@LeeSong14176/互fo直关/没回fo私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 118,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2064034397750464763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 470,
+          "like_count": 1099,
+          "listed_count": 0,
+          "media_count": 219,
+          "tweet_count": 2658
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T19:50:27.000Z",
+        "description": "@rato",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "rato"
+              }
+            ]
+          }
+        },
+        "id": "1889401541142126592",
+        "name": "xX_鼠_Xx",
+        "pinned_tweet_id": "1908247433420612030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908245044542529536/gcva1XYS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 190,
+          "like_count": 1466,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 450
+        },
+        "username": "smilinpusi",
+        "verified": false
+      }
+    ]
+  }
+}

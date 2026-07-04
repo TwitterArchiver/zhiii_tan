@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "conversation_id": "2064740672570372434",
+    "created_at": "2026-06-11T14:39:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T15:39:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065081615911727240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1980572743230795776",
+          "start": 0,
+          "username": "zake96279450728"
+        },
+        {
+          "end": 24,
+          "id": "1701102642414645248",
+          "start": 17,
+          "username": "KG6I1x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065081615911727240",
+    "in_reply_to_user_id": "1980572743230795776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065081396738265551",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zake96279450728 @KG6I1x 我操这个太真了我还以为真是人机发的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2064740672570372434",
+        "created_at": "2026-06-11T14:39:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T15:39:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065081615911727240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1980572743230795776",
+              "start": 0,
+              "username": "zake96279450728"
+            },
+            {
+              "end": 24,
+              "id": "1701102642414645248",
+              "start": 17,
+              "username": "KG6I1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065081615911727240",
+        "in_reply_to_user_id": "1980572743230795776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065081396738265551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zake96279450728 @KG6I1x 我操这个太真了我还以为真是人机发的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980572743230795776",
+        "conversation_id": "2064740672570372434",
+        "created_at": "2026-06-11T14:39:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T15:39:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065081396738265551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1839085606573637632",
+              "start": 0,
+              "username": "zhiii_tan"
+            },
+            {
+              "end": 18,
+              "id": "1701102642414645248",
+              "start": 11,
+              "username": "KG6I1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065081396738265551",
+        "in_reply_to_user_id": "1839085606573637632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064884470520619125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhiii_tan @KG6I1x 👉🏻线下sao货没人比她sao👈🏻💋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之/生理心理皆女/lgbtq友好/我割我抽我o/不鉴证/喜欢和妹子互动/某些男的想加我先v520 /我没有🚪觉得我以后会在推上发点什么的不要关注我了/只有绿色健康小清新🍀/没有门不接线上不接线下没有非绿没有半绿没有纯绿/\n防炸@LeeSong14176/互fo直关/没回fo私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 118,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2065050387967840395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 471,
+          "like_count": 1109,
+          "listed_count": 0,
+          "media_count": 221,
+          "tweet_count": 2683
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T09:52:09.000Z",
+        "description": "https://t.co/cd9AzFj9RF🏳️‍⚧️𖦹MTX𖦹pan𖦹不约𖦹可礼貌扩列𖦹发私信前点关注𖦹所有人来和我聊天我好不好🥺𖦹",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%9D%8D%E7%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%9D%8D%E7%B8%AE%E6%98%9F%F0%90%8C%8D%F0%90%8C%8F%F0%90%8C%89%F0%90%8C%94%F0%90%8C%84",
+                "start": 0,
+                "url": "https://t.co/cd9AzFj9RF"
+              }
+            ]
+          }
+        },
+        "id": "1980572743230795776",
+        "location": "-2.1km",
+        "name": "𖦹𝖓𝖔𝖎𝖘𝖊𖦹（互fo）",
+        "pinned_tweet_id": "2055929956010754477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056783244709015552/uYnLusz-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 189,
+          "like_count": 2265,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 349
+        },
+        "username": "zake96279450728",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-11T05:17:45.000Z",
+        "description": "05颓废家里蹲｜不怎么发评论是因为我语言能力缺失｜是因为喜欢你才会点关注喵",
+        "id": "1701102642414645248",
+        "name": "荼蘼花",
+        "pinned_tweet_id": "2063878667907076353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063201336188194817/y7bGvpyb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 94,
+          "like_count": 1424,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 307
+        },
+        "username": "KG6I1x",
+        "verified": false
+      }
+    ]
+  }
+}

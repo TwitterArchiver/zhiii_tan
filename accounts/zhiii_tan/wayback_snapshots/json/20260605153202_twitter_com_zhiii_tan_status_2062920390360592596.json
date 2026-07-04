@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "conversation_id": "2062748757025030333",
+    "created_at": "2026-06-05T15:32:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T16:32:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062920390360592596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1550188270495027200",
+          "start": 0,
+          "username": "Hushlog_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062920390360592596",
+    "in_reply_to_user_id": "1550188270495027200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062748757025030333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hushlog_ omg南开大学，离我就几公里&lt;(ºOº)&gt;"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062748748439244800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBbDsuaUAAijU7.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2062748757025030333",
+        "created_at": "2026-06-05T15:32:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T16:32:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062920390360592596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1550188270495027200",
+              "start": 0,
+              "username": "Hushlog_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062920390360592596",
+        "in_reply_to_user_id": "1550188270495027200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062748757025030333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hushlog_ omg南开大学，离我就几公里&lt;(ºOº)&gt;"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062748748439244800"
+          ]
+        },
+        "author_id": "1550188270495027200",
+        "conversation_id": "2062748757025030333",
+        "created_at": "2026-06-05T04:10:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T05:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062748757025030333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XFTQ9485np",
+              "end": 32,
+              "expanded_url": "https://x.com/Hushlog_/status/2062748757025030333/photo/1",
+              "media_key": "3_2062748748439244800",
+              "start": 9,
+              "url": "https://t.co/XFTQ9485np"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062748757025030333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 499817,
+          "like_count": 327,
+          "quote_count": 2,
+          "reply_count": 341,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "这下大家都开心了 https://t.co/XFTQ9485np"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之/友跨/泛性恋/我割我抽我o/od持开放态度 不一定碰但是不会反感 不鉴证 喜欢萌妹子 某些男的想加我先v520  我没有🚪觉得我以后会在推上发点什么的不要关注我了还是 只有绿色健康小清新🍀",
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2051940167641149445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 389,
+          "like_count": 832,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 2124
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-21T18:38:02.000Z",
+        "description": "| 双相 | 负能自残🈶 | cn阿树/黄瓜 | 互fo请私信 | 小号 @hushlog35 | 骂我的人都傻逼。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 37,
+                "username": "hushlog35"
+              }
+            ]
+          }
+        },
+        "id": "1550188270495027200",
+        "location": "不幸人间强制收容所",
+        "name": "黄瓜🥒",
+        "pinned_tweet_id": "2004470717052866989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010233524029403136/ue3UJ87A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1515,
+          "following_count": 137,
+          "like_count": 22227,
+          "listed_count": 4,
+          "media_count": 722,
+          "tweet_count": 6980
+        },
+        "username": "Hushlog_",
+        "verified": false
+      }
+    ]
+  }
+}

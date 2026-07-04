@@ -1,0 +1,466 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2063013412213567488"
+      ],
+      "media_source_tweet_id": [
+        "2063013475866292261"
+      ]
+    },
+    "author_id": "1839085606573637632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      }
+    ],
+    "conversation_id": "2063190785328329200",
+    "created_at": "2026-06-06T09:26:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T10:26:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063190785328329200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1986852353346314242",
+          "start": 3,
+          "username": "kwoncircles"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VfEZ2Ou1k9",
+          "end": 40,
+          "expanded_url": "https://x.com/kwoncircles/status/2063013475866292261/video/1",
+          "media_key": "13_2063013412213567488",
+          "start": 17,
+          "url": "https://t.co/VfEZ2Ou1k9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063190785328329200",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 76
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063013475866292261",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kwoncircles: https://t.co/VfEZ2Ou1k9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18600,
+        "height": 1080,
+        "media_key": "13_2063013412213567488",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063013412213567488/img/69zyfRPxA0Za0Gn5.jpg",
+        "public_metrics": {
+          "view_count": 1171
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063013412213567488/pl/n9OQDn2HxPRB_qT_.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063013412213567488/vid/avc1/960x720/9lSQvSKyVrzE_zM7.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063013412213567488/vid/avc1/360x270/1JhBy83LCPxgzSoO.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063013412213567488/vid/avc1/480x360/UijoRvkaSn3JDtP0.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063013412213567488/vid/avc1/1440x1080/FdpqcXhhw4VhvSg5.mp4"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063013412213567488"
+          ],
+          "media_source_tweet_id": [
+            "2063013475866292261"
+          ]
+        },
+        "author_id": "1839085606573637632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          }
+        ],
+        "conversation_id": "2063190785328329200",
+        "created_at": "2026-06-06T09:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T10:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063190785328329200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1986852353346314242",
+              "start": 3,
+              "username": "kwoncircles"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VfEZ2Ou1k9",
+              "end": 40,
+              "expanded_url": "https://x.com/kwoncircles/status/2063013475866292261/video/1",
+              "media_key": "13_2063013412213567488",
+              "start": 17,
+              "url": "https://t.co/VfEZ2Ou1k9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063190785328329200",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 76
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063013475866292261",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kwoncircles: https://t.co/VfEZ2Ou1k9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063013412213567488"
+          ]
+        },
+        "author_id": "1986852353346314242",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          }
+        ],
+        "conversation_id": "2063013475866292261",
+        "created_at": "2026-06-05T21:41:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T22:41:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063013475866292261"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VfEZ2Ou1k9",
+              "end": 23,
+              "expanded_url": "https://x.com/kwoncircles/status/2063013475866292261/video/1",
+              "media_key": "13_2063013412213567488",
+              "start": 0,
+              "url": "https://t.co/VfEZ2Ou1k9"
+            },
+            {
+              "display_url": "x.com/lilium_grace/s…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/lilium_grace/status/2061565260092334529",
+              "start": 24,
+              "url": "https://t.co/tmMOrwedgQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063013475866292261",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 5203,
+          "like_count": 328,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 76
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061565260092334529",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/VfEZ2Ou1k9 https://t.co/tmMOrwedgQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之/友跨/泛性恋/我割我抽我o/od持开放态度 不一定碰但是不会反感 不鉴证 喜欢萌妹子 某些男的想加我先v520  我没有🚪觉得我以后会在推上发点什么的不要关注我了还是 只有绿色健康小清新🍀",
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2051940167641149445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 393,
+          "like_count": 874,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 2194
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T17:44:59.000Z",
+        "description": "I was in a small, filthy show window \nTHEY 18+ | bigbang³ + ttt",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kwoncircles.straw.page",
+                "end": 23,
+                "expanded_url": "https://kwoncircles.straw.page",
+                "start": 0,
+                "url": "https://t.co/Nx5KwXRzUn"
+              }
+            ]
+          }
+        },
+        "id": "1986852353346314242",
+        "location": "wasian, learning 🇰🇷🇨🇳",
+        "name": "nishi 𓆩^._.^𓆪",
+        "pinned_tweet_id": "2040450172551901431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057425882860683264/F3E_B22a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1260,
+          "following_count": 384,
+          "like_count": 34452,
+          "listed_count": 1,
+          "media_count": 2538,
+          "tweet_count": 8778
+        },
+        "url": "https://t.co/Nx5KwXRzUn",
+        "username": "kwoncircles",
+        "verified": true
+      }
+    ]
+  }
+}

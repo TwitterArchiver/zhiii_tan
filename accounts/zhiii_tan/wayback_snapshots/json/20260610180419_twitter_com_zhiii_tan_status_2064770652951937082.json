@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1982240324563894272"
+      ],
+      "media_source_tweet_id": [
+        "1982240361499042094"
+      ]
+    },
+    "author_id": "1839085606573637632",
+    "conversation_id": "2064770652951937082",
+    "created_at": "2026-06-10T18:04:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T19:04:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064770652951937082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1898116517344006145",
+          "start": 3,
+          "username": "seungt0phyun"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Whdh4cAN8h",
+          "end": 97,
+          "expanded_url": "https://x.com/y_tttop/status/1982240361499042094/video/1",
+          "media_key": "7_1982240324563894272",
+          "start": 74,
+          "url": "https://t.co/Whdh4cAN8h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064770652951937082",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064735407443517651",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @seungt0phyun: he’s gonna be so happy seeing all of the fans videos 🙁🙁 https://t.co/Whdh4cAN8h"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14210,
+        "height": 720,
+        "media_key": "7_1982240324563894272",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1982240324563894272/pu/img/7K3-pQR3-UFAy_OO.jpg",
+        "public_metrics": {
+          "view_count": 15578
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1982240324563894272/pu/vid/avc1/392x270/TlCpZmUntnRwlhyj.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1982240324563894272/pu/vid/avc1/524x360/xCaCwnFFKqUJV9xu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1982240324563894272/pu/vid/avc1/1050x720/GqZIqbTOD41Wd8xX.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1982240324563894272/pu/pl/A6ZQurX3I2YqkkgQ.m3u8?tag=12"
+          }
+        ],
+        "width": 1050
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1982240324563894272"
+          ],
+          "media_source_tweet_id": [
+            "1982240361499042094"
+          ]
+        },
+        "author_id": "1839085606573637632",
+        "conversation_id": "2064770652951937082",
+        "created_at": "2026-06-10T18:04:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T19:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064770652951937082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1898116517344006145",
+              "start": 3,
+              "username": "seungt0phyun"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Whdh4cAN8h",
+              "end": 97,
+              "expanded_url": "https://x.com/y_tttop/status/1982240361499042094/video/1",
+              "media_key": "7_1982240324563894272",
+              "start": 74,
+              "url": "https://t.co/Whdh4cAN8h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064770652951937082",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064735407443517651",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @seungt0phyun: he’s gonna be so happy seeing all of the fans videos 🙁🙁 https://t.co/Whdh4cAN8h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1982240324563894272"
+          ],
+          "media_source_tweet_id": [
+            "1982240361499042094"
+          ]
+        },
+        "author_id": "1898116517344006145",
+        "conversation_id": "2064735407443517651",
+        "created_at": "2026-06-10T15:44:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T16:44:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064735407443517651"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Whdh4cAN8h",
+              "end": 79,
+              "expanded_url": "https://x.com/y_tttop/status/1982240361499042094/video/1",
+              "media_key": "7_1982240324563894272",
+              "start": 56,
+              "url": "https://t.co/Whdh4cAN8h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064735407443517651",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1156,
+          "like_count": 131,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "he’s gonna be so happy seeing all of the fans videos 🙁🙁 https://t.co/Whdh4cAN8h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之/生理心理皆女/lgbtq友好/？性恋/我割我抽我o/不鉴证/喜欢和妹子互动/某些男的想加我先v520 /我没有🚪觉得我以后会在推上发点什么的不要关注我了/只有绿色健康小清新🍀/没有门不接线上不接线下没有非绿没有半绿没有纯绿/\n防炸@LeeSong14176",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 122,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2064034397750464763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 488,
+          "like_count": 1054,
+          "listed_count": 0,
+          "media_count": 213,
+          "tweet_count": 2571
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-07T21:00:25.000Z",
+        "description": "#빅뱅 + #탑 only",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "빅뱅"
+              },
+              {
+                "end": 8,
+                "start": 6,
+                "tag": "탑"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/album/5ORJMfjj…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/album/5ORJMfjjUnPI2gJwI35OjE?si=GJtzZZGGQ06UAMLm9h7P7A",
+                "start": 0,
+                "url": "https://t.co/yeqf1brg9r"
+              }
+            ]
+          }
+        },
+        "id": "1898116517344006145",
+        "location": "she | ot5 DNI",
+        "name": "sha",
+        "pinned_tweet_id": "1938957251957674080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001727962761027584/F-ZswyBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5018,
+          "following_count": 572,
+          "like_count": 77727,
+          "listed_count": 19,
+          "media_count": 11195,
+          "tweet_count": 30481
+        },
+        "url": "https://t.co/yeqf1brg9r",
+        "username": "seungt0phyun",
+        "verified": false
+      }
+    ]
+  }
+}

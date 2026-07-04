@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "conversation_id": "2059414059263627626",
+    "created_at": "2026-05-26T23:19:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T00:19:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059414059263627626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1813561571941183488",
+          "start": 3,
+          "username": "careforme123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059414059263627626",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059280562573979778",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @careforme123: b站已经成了男权大本营了\n\n最搞笑的是，一群十多岁的孩子，还没有谈过恋爱，一天到晚就看着那些个别女生情绪失控，发火，对外国人友好，彩礼，尖叫，开车失误的极端例子，疯狂贬低，讽刺女性\n\n这些娃娃连爱都不懂，为何要以偏概全将另一种性别视为下贱的东…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2059414059263627626",
+        "created_at": "2026-05-26T23:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T00:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059414059263627626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1813561571941183488",
+              "start": 3,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059414059263627626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059280562573979778",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @careforme123: b站已经成了男权大本营了\n\n最搞笑的是，一群十多岁的孩子，还没有谈过恋爱，一天到晚就看着那些个别女生情绪失控，发火，对外国人友好，彩礼，尖叫，开车失误的极端例子，疯狂贬低，讽刺女性\n\n这些娃娃连爱都不懂，为何要以偏概全将另一种性别视为下贱的东…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2059280562573979778",
+        "created_at": "2026-05-26T14:28:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:27:50.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059280351378145734",
+          "2059280562573979778"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059280562573979778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 10725,
+          "like_count": 397,
+          "quote_count": 0,
+          "reply_count": 36,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "b站已经成了男权大本营了\n\n最搞笑的是，一群十多岁的孩子，还没有谈过恋爱，一天到晚就看着那些个别女生情绪失控，发火，对外国人友好，彩礼，尖叫，开车失误的极端例子，疯狂贬低，讽刺女性\n\n这些娃娃连爱都不懂，为何要以偏概全将另一种性别视为下贱的东西，我就不信在他们的生活中真有这么多神人女"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之/友跨/泛性恋/我割我抽我o/od持开放态度 不一定碰但是不会反感 不鉴证 喜欢萌妹子 某些男的想加我先v520  我没有🚪觉得我以后会在推上发点什么的不要关注我了还是 只有绿色健康小清新🍀",
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2051940167641149445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 365,
+          "like_count": 672,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 1919
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，河南新乡人🚸，现居日本大阪，爱党爱国🇨🇳，常来宛平南路600号🏥，曾因偷吃桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2059206771193901259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1876,
+          "following_count": 737,
+          "like_count": 6404,
+          "listed_count": 5,
+          "media_count": 659,
+          "tweet_count": 2581
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

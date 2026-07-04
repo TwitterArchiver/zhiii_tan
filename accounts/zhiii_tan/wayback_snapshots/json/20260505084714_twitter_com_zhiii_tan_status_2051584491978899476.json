@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "conversation_id": "2051579810695254261",
+    "created_at": "2026-05-05T08:47:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T09:47:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051584491978899476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1953158377103589376",
+          "start": 0,
+          "username": "zzjhzzjh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051584491978899476",
+    "in_reply_to_user_id": "1953158377103589376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051579810695254261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzjhzzjh 很萌！˵&gt;ㅿ&lt;˵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051579701127446528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHis3lIagAAejRM.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2051579810695254261",
+        "created_at": "2026-05-05T08:47:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T09:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051584491978899476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1953158377103589376",
+              "start": 0,
+              "username": "zzjhzzjh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051584491978899476",
+        "in_reply_to_user_id": "1953158377103589376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051579810695254261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzjhzzjh 很萌！˵&gt;ㅿ&lt;˵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051579701127446528"
+          ]
+        },
+        "author_id": "1953158377103589376",
+        "conversation_id": "2051579810695254261",
+        "created_at": "2026-05-05T08:28:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T09:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051579810695254261"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BiEdiJs2AL",
+              "end": 23,
+              "expanded_url": "https://x.com/zzjhzzjh/status/2051579810695254261/photo/1",
+              "media_key": "3_2051579701127446528",
+              "start": 0,
+              "url": "https://t.co/BiEdiJs2AL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051579810695254261",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/BiEdiJs2AL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之/友跨/泛性恋/我割我抽我o/od持开放态度 不一定碰但是不会反感 不鉴证 喜欢萌妹子 某些男的想加我先v520  我没有🚪觉得我以后会在推上发点什么的不要关注我了还是 只有绿色健康小清新",
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2044718222386299214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 337,
+          "like_count": 498,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 1633
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-06T18:17:12.000Z",
+        "description": "随便发(=･ω･=)",
+        "id": "1953158377103589376",
+        "name": "龄元.",
+        "pinned_tweet_id": "2043377552560156949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953516274581217280/tvGCVI0K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 37,
+          "like_count": 300,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 357
+        },
+        "username": "zzjhzzjh",
+        "verified": false
+      }
+    ]
+  }
+}

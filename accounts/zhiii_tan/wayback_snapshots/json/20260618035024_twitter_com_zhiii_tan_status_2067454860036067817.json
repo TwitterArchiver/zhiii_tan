@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067454856517013504"
+      ]
+    },
+    "author_id": "1839085606573637632",
+    "conversation_id": "2067424113141186696",
+    "created_at": "2026-06-18T03:50:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T04:50:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067454860036067817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2056655773502160896",
+          "start": 0,
+          "username": "simaojie"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zJ5CGcQtHS",
+          "end": 36,
+          "expanded_url": "https://x.com/zhiii_tan/status/2067454860036067817/photo/1",
+          "media_key": "3_2067454856517013504",
+          "start": 13,
+          "url": "https://t.co/zJ5CGcQtHS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067454860036067817",
+    "in_reply_to_user_id": "2056655773502160896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067424113141186696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@simaojie 救命 https://t.co/zJ5CGcQtHS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067454856517013504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLETPPfaUAAY6nk.jpg",
+        "width": 916
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067424099060854784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLD3Q7CasAAppT3.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067424099060928512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLD3Q7Cb0AAjaeh.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067454856517013504"
+          ]
+        },
+        "author_id": "1839085606573637632",
+        "conversation_id": "2067424113141186696",
+        "created_at": "2026-06-18T03:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T04:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067454860036067817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2056655773502160896",
+              "start": 0,
+              "username": "simaojie"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zJ5CGcQtHS",
+              "end": 36,
+              "expanded_url": "https://x.com/zhiii_tan/status/2067454860036067817/photo/1",
+              "media_key": "3_2067454856517013504",
+              "start": 13,
+              "url": "https://t.co/zJ5CGcQtHS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067454860036067817",
+        "in_reply_to_user_id": "2056655773502160896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067424113141186696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@simaojie 救命 https://t.co/zJ5CGcQtHS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067424099060854784",
+            "3_2067424099060928512"
+          ]
+        },
+        "author_id": "2056655773502160896",
+        "conversation_id": "2067424113141186696",
+        "created_at": "2026-06-18T01:48:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T02:48:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067424113141186696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n79sP7UwvW",
+              "end": 63,
+              "expanded_url": "https://x.com/simaojie/status/2067424113141186696/photo/1",
+              "media_key": "3_2067424099060854784",
+              "start": 40,
+              "url": "https://t.co/n79sP7UwvW"
+            },
+            {
+              "display_url": "pic.x.com/n79sP7UwvW",
+              "end": 63,
+              "expanded_url": "https://x.com/simaojie/status/2067424113141186696/photo/1",
+              "media_key": "3_2067424099060928512",
+              "start": 40,
+              "url": "https://t.co/n79sP7UwvW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067424113141186696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 464,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我将用最直接最直白最客观最真实最简略最不绕弯子最一针见血的方式告诉你：我没绷住 https://t.co/n79sP7UwvW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之丨生理心理皆女丨lgbtq友好丨我割我抽我o丨不鉴证丨喜欢互动 丨我没有🚪觉得我以后会在推上发点什么的不要关注我了丨只有绿色健康小清新🍀丨没有门不接线上不接线下没有非绿没有半绿没有纯绿丨\n防炸@LeeSong14176丨互fo直关丨没回fo私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 102,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2065050387967840395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 548,
+          "like_count": 1212,
+          "listed_count": 0,
+          "media_count": 283,
+          "tweet_count": 3093
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-19T08:39:50.000Z",
+        "description": "05 地雷/量产 你们可以叫我kaki/小卉\n欢迎互fo互转！！\n纯交同类朋友来的不收门槛\n男的别关注别骚扰别评论不收门槛\n男的别关注私信不然我会先问候你全家再拉黑",
+        "id": "2056655773502160896",
+        "location": "不收门槛不接线下男的别关注别骚扰别评论",
+        "name": "Kaki",
+        "pinned_tweet_id": "2059672691880431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056656578166898688/pLNOT_SJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 122,
+          "like_count": 233,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 87
+        },
+        "username": "simaojie",
+        "verified": false
+      }
+    ]
+  }
+}

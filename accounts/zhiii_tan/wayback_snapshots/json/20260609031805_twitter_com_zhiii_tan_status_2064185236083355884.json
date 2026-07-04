@@ -1,0 +1,598 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Big Bang (빅뱅)",
+          "id": "889743747742744577",
+          "name": "BIGBANG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "G-Dragon (지드래곤) - member of Big Bang & solo artist",
+          "id": "889958630694322176",
+          "name": "G-Dragon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Big Bang (빅뱅)",
+          "id": "889743747742744577",
+          "name": "BIGBANG"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "G-Dragon (지드래곤) - member of Big Bang & solo artist",
+          "id": "889958630694322176",
+          "name": "G-Dragon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Big Bang (빅뱅)",
+          "id": "889743747742744577",
+          "name": "BIGBANG"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "G-Dragon (지드래곤) - member of Big Bang & solo artist",
+          "id": "889958630694322176",
+          "name": "G-Dragon"
+        }
+      }
+    ],
+    "conversation_id": "2064185236083355884",
+    "created_at": "2026-06-09T03:18:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T04:18:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064185236083355884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1993110593797341187",
+          "start": 3,
+          "username": "MYCHUPACOBB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064185236083355884",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064039109820039561",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MYCHUPACOBB: show bigbang gd gdragon e top perto da plateia interagindo com fãs seunghyun segurando o rosto do jiyong carinhosamente ac…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8498,
+        "height": 540,
+        "media_key": "7_2064039092757704704",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2064039092757704704/pu/img/DOFGtP7xLhDLpMr_.jpg",
+        "public_metrics": {
+          "view_count": 303
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064039092757704704/pu/vid/avc1/320x320/K8Ed8J1fYUTLtzXi.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064039092757704704/pu/vid/avc1/540x540/CyTs8JazDnc8GzMW.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2064039092757704704/pu/pl/v26V-xDqIHIqYJ6e.m3u8?tag=12"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Big Bang (빅뱅)",
+              "id": "889743747742744577",
+              "name": "BIGBANG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "G-Dragon (지드래곤) - member of Big Bang & solo artist",
+              "id": "889958630694322176",
+              "name": "G-Dragon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Big Bang (빅뱅)",
+              "id": "889743747742744577",
+              "name": "BIGBANG"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "G-Dragon (지드래곤) - member of Big Bang & solo artist",
+              "id": "889958630694322176",
+              "name": "G-Dragon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Big Bang (빅뱅)",
+              "id": "889743747742744577",
+              "name": "BIGBANG"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "G-Dragon (지드래곤) - member of Big Bang & solo artist",
+              "id": "889958630694322176",
+              "name": "G-Dragon"
+            }
+          }
+        ],
+        "conversation_id": "2064185236083355884",
+        "created_at": "2026-06-09T03:18:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T04:18:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064185236083355884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1993110593797341187",
+              "start": 3,
+              "username": "MYCHUPACOBB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064185236083355884",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064039109820039561",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MYCHUPACOBB: show bigbang gd gdragon e top perto da plateia interagindo com fãs seunghyun segurando o rosto do jiyong carinhosamente ac…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2064039092757704704"
+          ]
+        },
+        "author_id": "1993110593797341187",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Big Bang (빅뱅)",
+              "id": "889743747742744577",
+              "name": "BIGBANG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "G-Dragon (지드래곤) - member of Big Bang & solo artist",
+              "id": "889958630694322176",
+              "name": "G-Dragon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Big Bang (빅뱅)",
+              "id": "889743747742744577",
+              "name": "BIGBANG"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "G-Dragon (지드래곤) - member of Big Bang & solo artist",
+              "id": "889958630694322176",
+              "name": "G-Dragon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Big Bang (빅뱅)",
+              "id": "889743747742744577",
+              "name": "BIGBANG"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "G-Dragon (지드래곤) - member of Big Bang & solo artist",
+              "id": "889958630694322176",
+              "name": "G-Dragon"
+            }
+          }
+        ],
+        "conversation_id": "2064039109820039561",
+        "created_at": "2026-06-08T17:37:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T18:37:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064039109820039561"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4fQZuKNzIF",
+              "end": 281,
+              "expanded_url": "https://x.com/MYCHUPACOBB/status/2064039109820039561/video/1",
+              "media_key": "7_2064039092757704704",
+              "start": 258,
+              "url": "https://t.co/4fQZuKNzIF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064039109820039561",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 654,
+          "like_count": 81,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "show bigbang gd gdragon e top perto da plateia interagindo com fãs seunghyun segurando o rosto do jiyong carinhosamente acariciando as bochechas dele do nada e depois fingindo que nada aconteceu lembraram que estavam em público quase saia beijo lindos fofos https://t.co/4fQZuKNzIF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之/生理心理皆女/lgbtq友好/泛性恋/我割我抽我o/od持开放态度 不一定碰但是不会反感 不鉴证 喜欢萌妹子 某些男的想加我先v520  我没有🚪觉得我以后会在推上发点什么的不要关注我了还是 只有绿色健康小清新🍀\n世界上的另一个我@LeeSong14176",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 122,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2064034397750464763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 446,
+          "like_count": 1009,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 2385
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T00:13:52.000Z",
+        "description": "Acervo de fotos e vídeos do grupo BigBang, mande seu pedido de vídeos e fotos que iremos encontrar!",
+        "id": "1993110593797341187",
+        "location": "BIGBANG IS BACK⁴",
+        "name": "MEU CHUPAÇO BIGBANG",
+        "pinned_tweet_id": "1993114408235807005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013384335009759232/X3rkLF5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 4,
+          "like_count": 180,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 32
+        },
+        "username": "MYCHUPACOBB",
+        "verified": false
+      }
+    ]
+  }
+}

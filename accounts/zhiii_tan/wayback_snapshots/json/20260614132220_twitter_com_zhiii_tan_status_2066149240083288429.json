@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "conversation_id": "2066149240083288429",
+    "created_at": "2026-06-14T13:22:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T14:22:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066149240083288429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1910758063453462528",
+          "start": 3,
+          "username": "fuckisalone8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066149240083288429",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066131235664216318",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fuckisalone8964: 因为今天是生日所以想弄一个抽奖发点小红包，因为我的账号都是一些碎碎念所以顺便想和更多有趣的人互fo🥰\n抽奖金额是一个28.8，两个15.8，三个8.8，然后我会随机掉落一些5.2❤️\n求帮忙转发和关注🥺，随后我会在关注者里抽（包括现有的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2066149240083288429",
+        "created_at": "2026-06-14T13:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T14:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066149240083288429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1910758063453462528",
+              "start": 3,
+              "username": "fuckisalone8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066149240083288429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066131235664216318",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fuckisalone8964: 因为今天是生日所以想弄一个抽奖发点小红包，因为我的账号都是一些碎碎念所以顺便想和更多有趣的人互fo🥰\n抽奖金额是一个28.8，两个15.8，三个8.8，然后我会随机掉落一些5.2❤️\n求帮忙转发和关注🥺，随后我会在关注者里抽（包括现有的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910758063453462528",
+        "conversation_id": "2066131235664216318",
+        "created_at": "2026-06-14T12:10:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:09:58.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066131029157679490",
+          "2066131235664216318"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066131235664216318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 136,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "因为今天是生日所以想弄一个抽奖发点小红包，因为我的账号都是一些碎碎念所以顺便想和更多有趣的人互fo🥰\n抽奖金额是一个28.8，两个15.8，三个8.8，然后我会随机掉落一些5.2❤️\n求帮忙转发和关注🥺，随后我会在关注者里抽（包括现有的互fo），感谢你们呀❤️❤️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之丨生理心理皆女丨lgbtq友好丨我割我抽我o丨不鉴证丨喜欢互动 丨我没有🚪觉得我以后会在推上发点什么的不要关注我了丨只有绿色健康小清新🍀丨没有门不接线上不接线下没有非绿没有半绿没有纯绿丨\n防炸@LeeSong14176丨互fo直关丨没回fo私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 102,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2065050387967840395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 485,
+          "like_count": 1190,
+          "listed_count": 0,
+          "media_count": 261,
+          "tweet_count": 2940
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-11T18:13:29.000Z",
+        "description": "喰爱女，世界上有另一个自己\n同类请和我互fo",
+        "id": "1910758063453462528",
+        "location": "𝕻𝖆𝖎𝖓 𝖎𝖘 𝖋𝖔𝖗𝖊𝖛𝖊𝖗 ",
+        "name": "操纵欲",
+        "pinned_tweet_id": "2058055219230162958",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052769101605670912/97NSf03T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 171,
+          "like_count": 2918,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 2084
+        },
+        "username": "fuckisalone8964",
+        "verified": true
+      }
+    ]
+  }
+}

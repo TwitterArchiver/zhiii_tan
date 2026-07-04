@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "conversation_id": "2059409930101334241",
+    "created_at": "2026-05-26T23:02:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T00:02:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059409930101334241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1444165224454447106",
+          "start": 3,
+          "username": "yang_caiying"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059409930101334241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 220
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059246302509355061",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yang_caiying: 紧急请求大家帮忙报警：我妈许冬青因遭中共迫害，于昨天上午6点25分不幸离世。\n\n刚刚、我畜生舅舅许留洪，受金坛政法委官员指令、在我妈灵堂上疯狂用凳子砸我父杨国良头。现我父失去意识，太阳穴、口内均严重出血，面临生命危险。我妹从18:58分钟开始…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2059409930101334241].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2059409930101334241",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2059409930101334241"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23418,
+        "height": 360,
+        "media_key": "13_2059246176575348736",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2059246176575348736/img/QsKgMFc03EOTOdG-.jpg",
+        "public_metrics": {
+          "view_count": 79146
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059246176575348736/vid/avc1/480x270/Af-Kf-qS2yt8VD6A.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059246176575348736/vid/avc1/640x360/TZJ6cu-83GsMs2hV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2059246176575348736/pl/mETp8fhnHFlGU-sw.m3u8?v=cfc"
+          }
+        ],
+        "width": 640
+      },
+      {
+        "duration_ms": 103316,
+        "height": 1280,
+        "media_key": "13_2059246176567009280",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2059246176567009280/img/5UBFiiwuz4-TNPtf.jpg",
+        "public_metrics": {
+          "view_count": 14331
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059246176567009280/vid/avc1/320x568/VIwRppm53onI7Iv-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059246176567009280/vid/avc1/480x852/tMn649czgdIEAs_P.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059246176567009280/vid/avc1/720x1280/7UGCEQfyeM2y5gvO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2059246176567009280/pl/lVB6wTODhkJQK3gu.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 667,
+        "media_key": "3_2059246176562819072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJPpfLsbsAAf0c3.jpg",
+        "width": 375
+      },
+      {
+        "height": 478,
+        "media_key": "3_2059246176558555136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJPpfLraoAAap3K.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2059246176575348736",
+            "13_2059246176567009280",
+            "3_2059246176562819072",
+            "3_2059246176558555136"
+          ]
+        },
+        "author_id": "1444165224454447106",
+        "conversation_id": "2059246302509355061",
+        "created_at": "2026-05-26T12:12:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T13:12:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059246302509355061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i0X1ZE5RK3",
+              "end": 163,
+              "expanded_url": "https://x.com/yang_caiying/status/2059246302509355061/video/1",
+              "media_key": "13_2059246176575348736",
+              "start": 140,
+              "url": "https://t.co/i0X1ZE5RK3"
+            },
+            {
+              "display_url": "pic.x.com/i0X1ZE5RK3",
+              "end": 163,
+              "expanded_url": "https://x.com/yang_caiying/status/2059246302509355061/video/1",
+              "media_key": "13_2059246176567009280",
+              "start": 140,
+              "url": "https://t.co/i0X1ZE5RK3"
+            },
+            {
+              "display_url": "pic.x.com/i0X1ZE5RK3",
+              "end": 163,
+              "expanded_url": "https://x.com/yang_caiying/status/2059246302509355061/video/1",
+              "media_key": "3_2059246176562819072",
+              "start": 140,
+              "url": "https://t.co/i0X1ZE5RK3"
+            },
+            {
+              "display_url": "pic.x.com/i0X1ZE5RK3",
+              "end": 163,
+              "expanded_url": "https://x.com/yang_caiying/status/2059246302509355061/video/1",
+              "media_key": "3_2059246176558555136",
+              "start": 140,
+              "url": "https://t.co/i0X1ZE5RK3"
+            },
+            {
+              "display_url": "x.com/yang_caiying/s…",
+              "end": 187,
+              "expanded_url": "https://twitter.com/yang_caiying/status/2057748257514938470",
+              "start": 164,
+              "url": "https://t.co/n0Cm2BGZe9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059246302509355061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "紧急请求大家帮忙报警：我妈许冬青因遭中共迫害，于昨天上午6点25分不幸离世。\n\n刚刚、我畜生舅舅许留洪，受金坛政法委官员指令、在我妈灵堂上疯狂用凳子砸我父杨国良头。现我父失去意识，太阳穴、口内均严重出血，面临生命危险。我妹从18:58分钟开始无数次报警、但金坛公安一直拒不出警。\n\n地址：江苏省常州市金坛区城南村委吾贯村175号）："
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 124,
+          "impression_count": 253512,
+          "like_count": 1123,
+          "quote_count": 21,
+          "reply_count": 91,
+          "retweet_count": 220
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057748257514938470",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "紧急请求大家帮忙报警：我妈许冬青因遭中共迫害，于昨天上午6点25分不幸离世。\n\n刚刚、我畜生舅舅许留洪，受金坛政法委官员指令、在我妈灵堂上疯狂用凳子砸我父杨国良头。现我父失去意识，太阳穴、口内均严重出血，面临生命危险。我妹从18:58分钟开始无数次报警、但金坛公安一直拒不出警。 https://t.co/i0X1ZE5RK3 https://t.co/n0Cm2BGZe9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之/友跨/泛性恋/我割我抽我o/od持开放态度 不一定碰但是不会反感 不鉴证 喜欢萌妹子 某些男的想加我先v520  我没有🚪觉得我以后会在推上发点什么的不要关注我了还是 只有绿色健康小清新🍀",
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2051940167641149445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 364,
+          "like_count": 660,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 1913
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-02T05:00:13.000Z",
+        "description": "记录我妹杨丽、母亲许冬青的人权案件，以及我们为捍卫权利所做的努力。联合国声明https://t.co/9lvoVCCLUZ AP报道https://t.co/rqyzuBQPv4 https://t.co/h0j4auc192 家属记录https://t.co/Gg5kG2Ywpy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.gd/3nmH9",
+                "end": 61,
+                "expanded_url": "https://x.gd/3nmH9",
+                "start": 38,
+                "url": "https://t.co/9lvoVCCLUZ"
+              },
+              {
+                "display_url": "x.gd/tuFwH",
+                "end": 89,
+                "expanded_url": "https://x.gd/tuFwH",
+                "start": 66,
+                "url": "https://t.co/rqyzuBQPv4"
+              },
+              {
+                "display_url": "youtu.be/uo_-d0lShxo",
+                "end": 113,
+                "expanded_url": "https://youtu.be/uo_-d0lShxo",
+                "start": 90,
+                "url": "https://t.co/h0j4auc192"
+              },
+              {
+                "display_url": "note.com/yang_caiying",
+                "end": 141,
+                "expanded_url": "https://note.com/yang_caiying",
+                "start": 118,
+                "url": "https://t.co/Gg5kG2Ywpy"
+              }
+            ]
+          }
+        },
+        "id": "1444165224454447106",
+        "name": "Yang caiying",
+        "pinned_tweet_id": "2044235645212864722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909294929911988226/yUtTAErx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7221,
+          "following_count": 1338,
+          "like_count": 8091,
+          "listed_count": 25,
+          "media_count": 1649,
+          "tweet_count": 8555
+        },
+        "username": "yang_caiying",
+        "verified": true
+      }
+    ]
+  }
+}

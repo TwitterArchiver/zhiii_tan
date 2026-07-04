@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "conversation_id": "2054501117200126022",
+    "created_at": "2026-05-15T09:08:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T10:08:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055213806343901258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2042157672103862272",
+          "start": 0,
+          "username": "Cxz_p0v0q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055213806343901258",
+    "in_reply_to_user_id": "2042157672103862272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054939734707953921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cxz_p0v0q 你也好可爱！՞･∞･՞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2054501117200126022",
+        "created_at": "2026-05-15T09:08:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T10:08:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055213806343901258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2042157672103862272",
+              "start": 0,
+              "username": "Cxz_p0v0q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055213806343901258",
+        "in_reply_to_user_id": "2042157672103862272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054939734707953921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cxz_p0v0q 你也好可爱！՞･∞･՞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042157672103862272",
+        "conversation_id": "2054501117200126022",
+        "created_at": "2026-05-14T14:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T15:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054939734707953921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1839085606573637632",
+              "start": 0,
+              "username": "zhiii_tan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054939734707953921",
+        "in_reply_to_user_id": "1839085606573637632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054917826641895778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhiii_tan 你超级可爱啊啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之/友跨/泛性恋/我割我抽我o/od持开放态度 不一定碰但是不会反感 不鉴证 喜欢萌妹子 某些男的想加我先v520  我没有🚪觉得我以后会在推上发点什么的不要关注我了还是 只有绿色健康小清新",
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2051940167641149445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 349,
+          "like_count": 584,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 1776
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-09T08:28:37.000Z",
+        "description": "𓋫 𓏴𓏴 𓏵‧₊  ₊‧𓏵 𓏴𓏴 𓋫",
+        "id": "2042157672103862272",
+        "location": "China",
+        "name": "xiiiiii",
+        "pinned_tweet_id": "2050947731901084086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054231742085832704/ZZP9tYcw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 55,
+          "like_count": 831,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 524
+        },
+        "username": "Cxz_p0v0q",
+        "verified": false
+      }
+    ]
+  }
+}

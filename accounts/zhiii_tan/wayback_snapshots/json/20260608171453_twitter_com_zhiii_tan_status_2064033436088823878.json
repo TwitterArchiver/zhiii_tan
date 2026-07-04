@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062780663494053888",
+        "3_2062780663460405248",
+        "3_2062780663485575168",
+        "3_2062780663439458305"
+      ],
+      "media_source_tweet_id": [
+        "2062780678484394089",
+        "2062780678484394089",
+        "2062780678484394089",
+        "2062780678484394089"
+      ]
+    },
+    "author_id": "1839085606573637632",
+    "conversation_id": "2064033436088823878",
+    "created_at": "2026-06-08T17:14:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T18:14:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064033436088823878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2061450593617563649",
+          "start": 3,
+          "username": "minesavior0311"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wu2oNeArqt",
+          "end": 52,
+          "expanded_url": "https://x.com/minesavior0311/status/2062780678484394089/photo/1",
+          "media_key": "3_2062780663494053888",
+          "start": 29,
+          "url": "https://t.co/wu2oNeArqt"
+        },
+        {
+          "display_url": "pic.x.com/wu2oNeArqt",
+          "end": 52,
+          "expanded_url": "https://x.com/minesavior0311/status/2062780678484394089/photo/1",
+          "media_key": "3_2062780663460405248",
+          "start": 29,
+          "url": "https://t.co/wu2oNeArqt"
+        },
+        {
+          "display_url": "pic.x.com/wu2oNeArqt",
+          "end": 52,
+          "expanded_url": "https://x.com/minesavior0311/status/2062780678484394089/photo/1",
+          "media_key": "3_2062780663485575168",
+          "start": 29,
+          "url": "https://t.co/wu2oNeArqt"
+        },
+        {
+          "display_url": "pic.x.com/wu2oNeArqt",
+          "end": 52,
+          "expanded_url": "https://x.com/minesavior0311/status/2062780678484394089/photo/1",
+          "media_key": "3_2062780663439458305",
+          "start": 29,
+          "url": "https://t.co/wu2oNeArqt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064033436088823878",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062780678484394089",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @minesavior0311: 发四张呆萌的我。 https://t.co/wu2oNeArqt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2062780663494053888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKB4FZkbkAAEkMd.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062780663460405248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKB4FZcaIAAiYOt.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2062780663485575168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKB4FZiaMAA60tM.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2062780663439458305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKB4FZXagAEAXJc.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062780663494053888",
+            "3_2062780663460405248",
+            "3_2062780663485575168",
+            "3_2062780663439458305"
+          ],
+          "media_source_tweet_id": [
+            "2062780678484394089",
+            "2062780678484394089",
+            "2062780678484394089",
+            "2062780678484394089"
+          ]
+        },
+        "author_id": "1839085606573637632",
+        "conversation_id": "2064033436088823878",
+        "created_at": "2026-06-08T17:14:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T18:14:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064033436088823878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2061450593617563649",
+              "start": 3,
+              "username": "minesavior0311"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wu2oNeArqt",
+              "end": 52,
+              "expanded_url": "https://x.com/minesavior0311/status/2062780678484394089/photo/1",
+              "media_key": "3_2062780663494053888",
+              "start": 29,
+              "url": "https://t.co/wu2oNeArqt"
+            },
+            {
+              "display_url": "pic.x.com/wu2oNeArqt",
+              "end": 52,
+              "expanded_url": "https://x.com/minesavior0311/status/2062780678484394089/photo/1",
+              "media_key": "3_2062780663460405248",
+              "start": 29,
+              "url": "https://t.co/wu2oNeArqt"
+            },
+            {
+              "display_url": "pic.x.com/wu2oNeArqt",
+              "end": 52,
+              "expanded_url": "https://x.com/minesavior0311/status/2062780678484394089/photo/1",
+              "media_key": "3_2062780663485575168",
+              "start": 29,
+              "url": "https://t.co/wu2oNeArqt"
+            },
+            {
+              "display_url": "pic.x.com/wu2oNeArqt",
+              "end": 52,
+              "expanded_url": "https://x.com/minesavior0311/status/2062780678484394089/photo/1",
+              "media_key": "3_2062780663439458305",
+              "start": 29,
+              "url": "https://t.co/wu2oNeArqt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064033436088823878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062780678484394089",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @minesavior0311: 发四张呆萌的我。 https://t.co/wu2oNeArqt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062780663494053888",
+            "3_2062780663460405248",
+            "3_2062780663485575168",
+            "3_2062780663439458305"
+          ]
+        },
+        "author_id": "2061450593617563649",
+        "conversation_id": "2062780678484394089",
+        "created_at": "2026-06-05T06:16:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T07:16:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062780678484394089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wu2oNeArqt",
+              "end": 32,
+              "expanded_url": "https://x.com/minesavior0311/status/2062780678484394089/photo/1",
+              "media_key": "3_2062780663494053888",
+              "start": 9,
+              "url": "https://t.co/wu2oNeArqt"
+            },
+            {
+              "display_url": "pic.x.com/wu2oNeArqt",
+              "end": 32,
+              "expanded_url": "https://x.com/minesavior0311/status/2062780678484394089/photo/1",
+              "media_key": "3_2062780663460405248",
+              "start": 9,
+              "url": "https://t.co/wu2oNeArqt"
+            },
+            {
+              "display_url": "pic.x.com/wu2oNeArqt",
+              "end": 32,
+              "expanded_url": "https://x.com/minesavior0311/status/2062780678484394089/photo/1",
+              "media_key": "3_2062780663485575168",
+              "start": 9,
+              "url": "https://t.co/wu2oNeArqt"
+            },
+            {
+              "display_url": "pic.x.com/wu2oNeArqt",
+              "end": 32,
+              "expanded_url": "https://x.com/minesavior0311/status/2062780678484394089/photo/1",
+              "media_key": "3_2062780663439458305",
+              "start": 9,
+              "url": "https://t.co/wu2oNeArqt"
+            },
+            {
+              "display_url": "x.com/minesavior0311…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/minesavior0311/status/2061838185421029827",
+              "start": 33,
+              "url": "https://t.co/1aC4t085Ek"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062780678484394089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2367,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061838185421029827",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "发四张呆萌的我。 https://t.co/wu2oNeArqt https://t.co/1aC4t085Ek"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之/生理心理皆女/lgbtq友好/泛性恋/我割我抽我o/od持开放态度 不一定碰但是不会反感 不鉴证 喜欢萌妹子 某些男的想加我先v520  我没有🚪觉得我以后会在推上发点什么的不要关注我了还是 只有绿色健康小清新🍀\n世界上的另一个我@LeeSong14176",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 122,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2051940167641149445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 421,
+          "like_count": 985,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 2349
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-01T14:15:47.000Z",
+        "description": "前世可颂\n我割我o 随便发发低脂小视频\n🚪52纯绿\n欢迎来找我玩\n防炸/雪兔https://t.co/UoBIc9JrtE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/keso1314sxh?s=…",
+                "end": 61,
+                "expanded_url": "https://x.com/keso1314sxh?s=21",
+                "start": 38,
+                "url": "https://t.co/UoBIc9JrtE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/croissant56414",
+                "end": 23,
+                "expanded_url": "https://ngl.link/croissant56414",
+                "start": 0,
+                "url": "https://t.co/E3FFBNW55n"
+              }
+            ]
+          }
+        },
+        "id": "2061450593617563649",
+        "location": "提问👉🏻",
+        "name": "Choke（Croissant5.0）",
+        "pinned_tweet_id": "2062780678484394089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064032900392333312/lWpk-DP8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 161,
+          "like_count": 228,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 185
+        },
+        "url": "https://t.co/E3FFBNW55n",
+        "username": "minesavior0311",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "conversation_id": "2058152664811393068",
+    "created_at": "2026-05-23T11:47:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T12:47:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058152886430056478"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2058152886430056478",
+    "in_reply_to_user_id": "1839085606573637632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058152664811393068",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我爱喝茶，对于青皮桔接受程度还是挺高的，青柑普洱我都觉得好喝😋😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2058152664811393068",
+        "created_at": "2026-05-23T11:47:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T12:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058152886430056478"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058152886430056478",
+        "in_reply_to_user_id": "1839085606573637632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058152664811393068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我爱喝茶，对于青皮桔接受程度还是挺高的，青柑普洱我都觉得好喝😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2058152664811393068",
+        "created_at": "2026-05-23T11:46:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T12:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058152664811393068"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058152664811393068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "青皮桔尝了，我觉得好甜🥲🥲回甘有点苦味，但是是能接受的程度，不算很酸，和蜜雪冰城柠檬水差不多（柠檬水三分糖爱好者）不过这个味道更浓烈一点，那个柠檬的纯甜微酸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之/友跨/泛性恋/我割我抽我o/od持开放态度 不一定碰但是不会反感 不鉴证 喜欢萌妹子 某些男的想加我先v520  我没有🚪觉得我以后会在推上发点什么的不要关注我了还是 只有绿色健康小清新🍀",
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2051940167641149445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 360,
+          "like_count": 609,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 1833
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      }
+    ]
+  }
+}

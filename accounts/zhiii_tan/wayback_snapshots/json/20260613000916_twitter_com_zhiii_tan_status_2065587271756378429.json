@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "conversation_id": "2065587271756378429",
+    "created_at": "2026-06-13T00:09:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T01:09:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065587271756378429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1714179188746600448",
+          "start": 3,
+          "username": "Rinn_3x3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065587271756378429",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1439
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065363460310139382",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rinn_3x3: I'm happy\n*cuts self*\nI'm sad\n*cuts self*\nI'm angry\n*cuts self*\nI'm excited\n*cuts self*\nI'm embarrassed\n*cuts self*\nI'm jealo…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2065587271756378429",
+        "created_at": "2026-06-13T00:09:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T01:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065587271756378429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1714179188746600448",
+              "start": 3,
+              "username": "Rinn_3x3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065587271756378429",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1439
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065363460310139382",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rinn_3x3: I'm happy\n*cuts self*\nI'm sad\n*cuts self*\nI'm angry\n*cuts self*\nI'm excited\n*cuts self*\nI'm embarrassed\n*cuts self*\nI'm jealo…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1714179188746600448",
+        "conversation_id": "2065363460310139382",
+        "created_at": "2026-06-12T09:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T10:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065363460310139382"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065363460310139382",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 102,
+          "impression_count": 21917,
+          "like_count": 3681,
+          "quote_count": 5,
+          "reply_count": 4,
+          "retweet_count": 1439
+        },
+        "reply_settings": "everyone",
+        "text": "I'm happy\n*cuts self*\nI'm sad\n*cuts self*\nI'm angry\n*cuts self*\nI'm excited\n*cuts self*\nI'm embarrassed\n*cuts self*\nI'm jealous\n*cuts self*"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之丨生理心理皆女丨lgbtq友好丨我割我抽我o丨不鉴证丨喜欢互动 丨我没有🚪觉得我以后会在推上发点什么的不要关注我了丨只有绿色健康小清新🍀丨没有门不接线上不接线下没有非绿没有半绿没有纯绿丨\n防炸@LeeSong14176丨互fo直关丨没回fo私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 102,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2065050387967840395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 478,
+          "like_count": 1152,
+          "listed_count": 0,
+          "media_count": 237,
+          "tweet_count": 2794
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-17T07:19:24.000Z",
+        "description": "╰┈➤ ℎ𝑒 / ℎ𝑖𝑚 || 𝑑𝑒𝑝𝑟𝑒𝑠𝑠𝑖𝑜𝑛 + 𝑠𝑜𝑐𝑖𝑎𝑙 𝑎𝑛𝑥𝑖𝑒𝑡𝑦 𝑠𝑢𝑠𝑝𝑒𝑐𝑡 𓆩♡𓆪\n       °❀⋆.ೃ࿔*:･ 𝑛𝑑𝑛𝑖\n        ꒰ঌᰔᩚ໒꒱ 𝑖𝑓𝑏 ♡",
+        "id": "1714179188746600448",
+        "location": "bmi:16s gbmi:14s໒꒰ྀིっ˕ -｡꒱ྀི১",
+        "name": "𝐫𝐢𝐧𝐧🍥𝐬𝐡𝐞𝐝𝐭𝐰𝐭 ⋆. ୨୧˚⋆",
+        "pinned_tweet_id": "2063792038743855482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059192702156349440/hCfzj63f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 698,
+          "following_count": 688,
+          "like_count": 24382,
+          "listed_count": 2,
+          "media_count": 220,
+          "tweet_count": 1432
+        },
+        "username": "Rinn_3x3",
+        "verified": false
+      }
+    ]
+  }
+}

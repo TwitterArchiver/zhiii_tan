@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975230208283156480",
+        "3_1975230208274755584"
+      ],
+      "media_source_tweet_id": [
+        "1975230220388233372",
+        "1975230220388233372"
+      ]
+    },
+    "author_id": "1839085606573637632",
+    "conversation_id": "2064093192602124288",
+    "created_at": "2026-06-08T21:12:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T22:12:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064093192602124288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1538061340082061312",
+          "start": 3,
+          "username": "Kotusyuu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VZiOjo5Jjf",
+          "end": 42,
+          "expanded_url": "https://x.com/Kotusyuu/status/1975230220388233372/photo/1",
+          "media_key": "3_1975230208283156480",
+          "start": 19,
+          "url": "https://t.co/VZiOjo5Jjf"
+        },
+        {
+          "display_url": "pic.x.com/VZiOjo5Jjf",
+          "end": 42,
+          "expanded_url": "https://x.com/Kotusyuu/status/1975230220388233372/photo/1",
+          "media_key": "3_1975230208274755584",
+          "start": 19,
+          "url": "https://t.co/VZiOjo5Jjf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064093192602124288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975230220388233372",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kotusyuu: 兔猫宇宙 https://t.co/VZiOjo5Jjf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 944,
+        "media_key": "3_1975230208283156480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2ltaMJWoAA0TDr.jpg",
+        "width": 1024
+      },
+      {
+        "height": 944,
+        "media_key": "3_1975230208274755584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2ltaMHWcAAjC6i.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975230208283156480",
+            "3_1975230208274755584"
+          ],
+          "media_source_tweet_id": [
+            "1975230220388233372",
+            "1975230220388233372"
+          ]
+        },
+        "author_id": "1839085606573637632",
+        "conversation_id": "2064093192602124288",
+        "created_at": "2026-06-08T21:12:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T22:12:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064093192602124288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1538061340082061312",
+              "start": 3,
+              "username": "Kotusyuu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VZiOjo5Jjf",
+              "end": 42,
+              "expanded_url": "https://x.com/Kotusyuu/status/1975230220388233372/photo/1",
+              "media_key": "3_1975230208283156480",
+              "start": 19,
+              "url": "https://t.co/VZiOjo5Jjf"
+            },
+            {
+              "display_url": "pic.x.com/VZiOjo5Jjf",
+              "end": 42,
+              "expanded_url": "https://x.com/Kotusyuu/status/1975230220388233372/photo/1",
+              "media_key": "3_1975230208274755584",
+              "start": 19,
+              "url": "https://t.co/VZiOjo5Jjf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064093192602124288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975230220388233372",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kotusyuu: 兔猫宇宙 https://t.co/VZiOjo5Jjf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975230208283156480",
+            "3_1975230208274755584"
+          ]
+        },
+        "author_id": "1538061340082061312",
+        "conversation_id": "1975230220388233372",
+        "created_at": "2025-10-06T16:02:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T17:02:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975230220388233372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VZiOjo5Jjf",
+              "end": 28,
+              "expanded_url": "https://x.com/Kotusyuu/status/1975230220388233372/photo/1",
+              "media_key": "3_1975230208283156480",
+              "start": 5,
+              "url": "https://t.co/VZiOjo5Jjf"
+            },
+            {
+              "display_url": "pic.x.com/VZiOjo5Jjf",
+              "end": 28,
+              "expanded_url": "https://x.com/Kotusyuu/status/1975230220388233372/photo/1",
+              "media_key": "3_1975230208274755584",
+              "start": 5,
+              "url": "https://t.co/VZiOjo5Jjf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975230220388233372",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 16633,
+          "like_count": 460,
+          "quote_count": 13,
+          "reply_count": 8,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "兔猫宇宙 https://t.co/VZiOjo5Jjf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之/生理心理皆女/lgbtq友好/泛性恋/我割我抽我o/od持开放态度 不一定碰但是不会反感 不鉴证 喜欢萌妹子 某些男的想加我先v520  我没有🚪觉得我以后会在推上发点什么的不要关注我了还是 只有绿色健康小清新🍀\n世界上的另一个我@LeeSong14176",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 122,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2064034397750464763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 434,
+          "like_count": 995,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 2377
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-18T07:29:42.000Z",
+        "description": "🇨🇳中文｜画oc和同人。最近在画GTOP❤️‍🔥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "weibo.com/u/7787089208",
+                "end": 23,
+                "expanded_url": "https://weibo.com/u/7787089208",
+                "start": 0,
+                "url": "https://t.co/EMjtJb02KC"
+              }
+            ]
+          }
+        },
+        "id": "1538061340082061312",
+        "name": "忽悠Kotusyuu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1684574713597820930/R3pXRE86_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4143,
+          "following_count": 96,
+          "like_count": 2458,
+          "listed_count": 1,
+          "media_count": 297,
+          "tweet_count": 1110
+        },
+        "url": "https://t.co/EMjtJb02KC",
+        "username": "Kotusyuu",
+        "verified": false
+      }
+    ]
+  }
+}

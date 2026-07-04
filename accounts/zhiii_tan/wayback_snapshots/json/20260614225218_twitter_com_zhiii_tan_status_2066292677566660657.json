@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "conversation_id": "2065965471976112442",
+    "created_at": "2026-06-14T22:52:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T23:52:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066292677566660657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1497747337711525893",
+          "start": 0,
+          "username": "Yan040422"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066292677566660657",
+    "in_reply_to_user_id": "1497747337711525893",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066245656197644663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yan040422 okok"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2065965471976112442",
+        "created_at": "2026-06-14T22:52:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T23:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066292677566660657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1497747337711525893",
+              "start": 0,
+              "username": "Yan040422"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066292677566660657",
+        "in_reply_to_user_id": "1497747337711525893",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066245656197644663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yan040422 okok"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1497747337711525893",
+        "conversation_id": "2065965471976112442",
+        "created_at": "2026-06-14T19:45:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T20:45:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066245656197644663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1839085606573637632",
+              "start": 0,
+              "username": "zhiii_tan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066245656197644663",
+        "in_reply_to_user_id": "1839085606573637632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065965471976112442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhiii_tan 我帖子里那个？推荐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之丨生理心理皆女丨lgbtq友好丨我割我抽我o丨不鉴证丨喜欢互动 丨我没有🚪觉得我以后会在推上发点什么的不要关注我了丨只有绿色健康小清新🍀丨没有门不接线上不接线下没有非绿没有半绿没有纯绿丨\n防炸@LeeSong14176丨互fo直关丨没回fo私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 102,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2065050387967840395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 488,
+          "like_count": 1196,
+          "listed_count": 0,
+          "media_count": 267,
+          "tweet_count": 2968
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-27T01:36:30.000Z",
+        "description": "夢想有抽不完的大麻\n🇹🇼FuckChina",
+        "id": "1497747337711525893",
+        "location": "ㅤ臺北市",
+        "name": "才子",
+        "pinned_tweet_id": "2019016588184490492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052718668707217408/AV1csdAj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 97,
+          "like_count": 344,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 164
+        },
+        "username": "Yan040422",
+        "verified": false
+      }
+    ]
+  }
+}

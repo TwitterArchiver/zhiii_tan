@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "conversation_id": "2057450035730903197",
+    "created_at": "2026-05-22T09:36:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T10:36:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057757568328749118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1652255654206386177",
+          "start": 0,
+          "username": "yoru6087"
+        }
+      ],
+      "urls": [
+        {
+          "description": "深入了解自我依恋模式，35题专业评估揭示您的情感关系特质。",
+          "display_url": "app-8cda02f036kh.appmiaoda.com",
+          "end": 33,
+          "expanded_url": "https://app-8cda02f036kh.appmiaoda.com",
+          "start": 10,
+          "status": 200,
+          "title": "依恋类型测试",
+          "unwound_url": "https://app-8cda02f036kh.appmiaoda.com",
+          "url": "https://t.co/HnmRHXGzIt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057757568328749118",
+    "in_reply_to_user_id": "1652255654206386177",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057650985716355521",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoru6087 https://t.co/HnmRHXGzIt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2057450035730903197",
+        "created_at": "2026-05-22T09:36:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T10:36:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057757568328749118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1652255654206386177",
+              "start": 0,
+              "username": "yoru6087"
+            }
+          ],
+          "urls": [
+            {
+              "description": "深入了解自我依恋模式，35题专业评估揭示您的情感关系特质。",
+              "display_url": "app-8cda02f036kh.appmiaoda.com",
+              "end": 33,
+              "expanded_url": "https://app-8cda02f036kh.appmiaoda.com",
+              "start": 10,
+              "status": 200,
+              "title": "依恋类型测试",
+              "unwound_url": "https://app-8cda02f036kh.appmiaoda.com",
+              "url": "https://t.co/HnmRHXGzIt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057757568328749118",
+        "in_reply_to_user_id": "1652255654206386177",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057650985716355521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoru6087 https://t.co/HnmRHXGzIt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652255654206386177",
+        "conversation_id": "2057450035730903197",
+        "created_at": "2026-05-22T02:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T03:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057650985716355521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1839085606573637632",
+              "start": 0,
+              "username": "zhiii_tan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057650985716355521",
+        "in_reply_to_user_id": "1839085606573637632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057450035730903197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhiii_tan 这个测试的网址可以发一个吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之/友跨/泛性恋/我割我抽我o/od持开放态度 不一定碰但是不会反感 不鉴证 喜欢萌妹子 某些男的想加我先v520  我没有🚪觉得我以后会在推上发点什么的不要关注我了还是 只有绿色健康小清新🍀",
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2051940167641149445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 349,
+          "like_count": 601,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 1809
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-29T10:17:08.000Z",
+        "description": "我也不知道该说些什么。",
+        "id": "1652255654206386177",
+        "name": "夜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1652535169524596738/z-NoUzw6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 87,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 143
+        },
+        "username": "yoru6087",
+        "verified": false
+      }
+    ]
+  }
+}

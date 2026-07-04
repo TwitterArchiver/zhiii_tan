@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "conversation_id": "2051464791215243494",
+    "created_at": "2026-05-05T00:51:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T01:51:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051464791215243494"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2051464791215243494",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "可是这段关系我真的好累，我过生日什么礼物都没给我送，但是她家里情况不好出去玩也是我在垫付还会让她少a点钱，我一有时间也是跟她出去玩，可是好焦虑我的成绩也不怎么样还天天被家里念叨，我又要应付她，天天语音打游戏十几个小时是人也会接受不了。我拒绝过的第二天也会继续跟我打语音"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2051464791215243494",
+        "created_at": "2026-05-05T00:51:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T01:51:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051464791215243494"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051464791215243494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可是这段关系我真的好累，我过生日什么礼物都没给我送，但是她家里情况不好出去玩也是我在垫付还会让她少a点钱，我一有时间也是跟她出去玩，可是好焦虑我的成绩也不怎么样还天天被家里念叨，我又要应付她，天天语音打游戏十几个小时是人也会接受不了。我拒绝过的第二天也会继续跟我打语音"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之/友跨/泛性恋/我割我抽我o/od持开放态度 不一定碰但是不会反感 不鉴证 喜欢萌妹子 某些男的想加我先v520  我没有🚪觉得我以后会在推上发点什么的不要关注我了还是 只有绿色健康小清新",
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2044718222386299214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 336,
+          "like_count": 491,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1620
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      }
+    ]
+  }
+}

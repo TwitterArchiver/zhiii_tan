@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2066333402907955378",
+    "created_at": "2026-06-15T01:34:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T02:34:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066333402907955378"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zhiii_tan/stat…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/zhiii_tan/status/2039292392055152881",
+          "start": 7,
+          "url": "https://t.co/crvFkzY0Gi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066333402907955378",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039292392055152881",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "很久之前的😢 https://t.co/crvFkzY0Gi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2039292388997517312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE0Fn4da0AAo1p4.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2066333402907955378",
+        "created_at": "2026-06-15T01:34:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T02:34:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066333402907955378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhiii_tan/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/zhiii_tan/status/2039292392055152881",
+              "start": 7,
+              "url": "https://t.co/crvFkzY0Gi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066333402907955378",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039292392055152881",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很久之前的😢 https://t.co/crvFkzY0Gi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039292388997517312"
+          ]
+        },
+        "author_id": "1839085606573637632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2039292392055152881",
+        "created_at": "2026-04-01T10:42:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T11:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039292392055152881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2063850851077345280/jtdMrF_N?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2063850851077345280/jtdMrF_N?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/DuEJjLxfHo"
+            },
+            {
+              "display_url": "pic.x.com/0ulLCGuioA",
+              "end": 64,
+              "expanded_url": "https://x.com/qii1969243/status/2039292392055152881/photo/1",
+              "media_key": "3_2039292388997517312",
+              "start": 41,
+              "url": "https://t.co/0ulLCGuioA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039292392055152881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/DuEJjLxfHo https://t.co/0ulLCGuioA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之丨生理心理皆女丨lgbtq友好丨我割我抽我o丨不鉴证丨喜欢互动 丨我没有🚪觉得我以后会在推上发点什么的不要关注我了丨只有绿色健康小清新🍀丨没有门不接线上不接线下没有非绿没有半绿没有纯绿丨\n防炸@LeeSong14176丨互fo直关丨没回fo私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 102,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2065050387967840395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 489,
+          "like_count": 1198,
+          "listed_count": 0,
+          "media_count": 271,
+          "tweet_count": 2975
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      }
+    ]
+  }
+}

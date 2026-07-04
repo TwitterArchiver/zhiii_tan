@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "conversation_id": "2071136526902465011",
+    "created_at": "2026-06-28T13:45:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T14:45:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071228586892419202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1911495718793064449",
+          "start": 0,
+          "username": "ji_ba438"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071228586892419202",
+    "in_reply_to_user_id": "1911495718793064449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071225748380356702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ji_ba438 对呀，明明可以用1:1的比例拍，突出纹身，但是非要这样拍恶心死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2071136526902465011",
+        "created_at": "2026-06-28T13:45:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T14:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071228586892419202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1911495718793064449",
+              "start": 0,
+              "username": "ji_ba438"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071228586892419202",
+        "in_reply_to_user_id": "1911495718793064449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071225748380356702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ji_ba438 对呀，明明可以用1:1的比例拍，突出纹身，但是非要这样拍恶心死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911495718793064449",
+        "conversation_id": "2071136526902465011",
+        "created_at": "2026-06-28T13:34:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T14:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071225748380356702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1839085606573637632",
+              "start": 0,
+              "username": "zhiii_tan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071225748380356702",
+        "in_reply_to_user_id": "1839085606573637632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071136526902465011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhiii_tan 并且这个视频中心明显不是对着纹身拍摄，太恶心了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之丨生理心理皆女丨lgbtq友好丨我割我抽我o丨不鉴证丨喜欢互动 丨我没有🚪觉得我以后会在推上发点什么的不要关注我了丨只有绿色健康小清新🍀丨没有门不接线上不接线下没有非绿没有半绿没有纯绿丨\n防炸@LeeSong14176丨互fo直关丨没回fo私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 102,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2065050387967840395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 593,
+          "like_count": 1354,
+          "listed_count": 0,
+          "media_count": 314,
+          "tweet_count": 3384
+        },
+        "url": "",
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-13T19:04:38.000Z",
+        "description": "不聊骚不互看，我只是爱碎碎念和想要交朋友",
+        "id": "1911495718793064449",
+        "name": "火鸡味锅巴",
+        "pinned_tweet_id": "2069889275496407346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015329584317870080/Vqe4XEjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 131,
+          "like_count": 2769,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 1134
+        },
+        "url": "",
+        "username": "ji_ba438",
+        "verified": false
+      }
+    ]
+  }
+}

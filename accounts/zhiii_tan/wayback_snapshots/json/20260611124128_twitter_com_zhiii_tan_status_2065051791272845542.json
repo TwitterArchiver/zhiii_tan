@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "conversation_id": "2064813765733093677",
+    "created_at": "2026-06-11T12:41:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T13:41:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065051791272845542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1567447181170479104",
+          "start": 0,
+          "username": "jjj85960163"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065051791272845542",
+    "in_reply_to_user_id": "1567447181170479104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065051161993118033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jjj85960163 就是、、又不是在中国这种禁毒国家吸的，管人家呢，韩国又不是只有麻驴麻龙吸结果内网那么多人骂、"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2064813765733093677",
+        "created_at": "2026-06-11T12:41:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:41:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065051791272845542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1567447181170479104",
+              "start": 0,
+              "username": "jjj85960163"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065051791272845542",
+        "in_reply_to_user_id": "1567447181170479104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065051161993118033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jjj85960163 就是、、又不是在中国这种禁毒国家吸的，管人家呢，韩国又不是只有麻驴麻龙吸结果内网那么多人骂、"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567447181170479104",
+        "conversation_id": "2064813765733093677",
+        "created_at": "2026-06-11T12:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065051161993118033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1839085606573637632",
+              "start": 0,
+              "username": "zhiii_tan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065051161993118033",
+        "in_reply_to_user_id": "1839085606573637632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064813765733093677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhiii_tan 老中收收味 飞就飞了 多大点事 骂飞草的自己先把烟酒槟榔戒了再说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之/生理心理皆女/lgbtq友好/我割我抽我o/不鉴证/喜欢和妹子互动/某些男的想加我先v520 /我没有🚪觉得我以后会在推上发点什么的不要关注我了/只有绿色健康小清新🍀/没有门不接线上不接线下没有非绿没有半绿没有纯绿/\n防炸@LeeSong14176/互fo直关/没回fo私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 118,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2064034397750464763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 470,
+          "like_count": 1108,
+          "listed_count": 0,
+          "media_count": 221,
+          "tweet_count": 2676
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-07T09:38:31.000Z",
+        "description": "我们不会倒下 让刽子手显得高大 好阻挡哪自由的风",
+        "id": "1567447181170479104",
+        "location": "Taiwan",
+        "name": "Kerry",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024994360040083456/f9zxDq1G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 531,
+          "like_count": 796,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 214
+        },
+        "username": "jjj85960163",
+        "verified": false
+      }
+    ]
+  }
+}

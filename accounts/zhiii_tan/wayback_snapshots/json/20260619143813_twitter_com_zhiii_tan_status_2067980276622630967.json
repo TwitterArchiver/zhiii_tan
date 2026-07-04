@@ -1,0 +1,415 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067975312823226368",
+        "13_2067975312835772416",
+        "3_2067975299971809280",
+        "3_2067975312818982912"
+      ],
+      "media_source_tweet_id": [
+        "2067975371707097385",
+        "2067975371707097385",
+        "2067975371707097385",
+        "2067975371707097385"
+      ]
+    },
+    "author_id": "1839085606573637632",
+    "conversation_id": "2067980276622630967",
+    "created_at": "2026-06-19T14:38:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T15:38:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067980276622630967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2067972691970428928",
+          "start": 3,
+          "username": "fhjgpyd"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3sR1PVUUSb",
+          "end": 53,
+          "expanded_url": "https://x.com/fhjgpyd/status/2067975371707097385/video/1",
+          "media_key": "3_2067975312823226368",
+          "start": 30,
+          "url": "https://t.co/3sR1PVUUSb"
+        },
+        {
+          "display_url": "pic.x.com/3sR1PVUUSb",
+          "end": 53,
+          "expanded_url": "https://x.com/fhjgpyd/status/2067975371707097385/video/1",
+          "media_key": "13_2067975312835772416",
+          "start": 30,
+          "url": "https://t.co/3sR1PVUUSb"
+        },
+        {
+          "display_url": "pic.x.com/3sR1PVUUSb",
+          "end": 53,
+          "expanded_url": "https://x.com/fhjgpyd/status/2067975371707097385/video/1",
+          "media_key": "3_2067975299971809280",
+          "start": 30,
+          "url": "https://t.co/3sR1PVUUSb"
+        },
+        {
+          "display_url": "pic.x.com/3sR1PVUUSb",
+          "end": 53,
+          "expanded_url": "https://x.com/fhjgpyd/status/2067975371707097385/video/1",
+          "media_key": "3_2067975312818982912",
+          "start": 30,
+          "url": "https://t.co/3sR1PVUUSb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067980276622630967",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067975371707097385",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fhjgpyd: hello我是T^T呀我重生了！ https://t.co/3sR1PVUUSb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2067975312823226368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLslyUbEAAbCOW.jpg",
+        "width": 1152
+      },
+      {
+        "duration_ms": 6600,
+        "height": 1280,
+        "media_key": "13_2067975312835772416",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2067975312835772416/img/b2ggqhRcZrCHCgWS.jpg",
+        "public_metrics": {
+          "view_count": 21
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067975312835772416/vid/avc1/320x568/-mCnQyobucDi322M.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067975312835772416/vid/avc1/480x852/RcfENdW78r2r2O_G.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067975312835772416/vid/avc1/720x1280/zhkonTSu9dZ3m8b0.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2067975312835772416/pl/vupQgiqpFJg-B8O-.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2067975299971809280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLslCcaAAAPWga.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1932,
+        "media_key": "3_2067975312818982912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLslyTaUAArZ9i.jpg",
+        "width": 1932
+      },
+      {
+        "duration_ms": 6600,
+        "height": 1280,
+        "media_key": "13_2067975312835772416",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2067975312835772416/img/b2ggqhRcZrCHCgWS.jpg",
+        "public_metrics": {
+          "view_count": 29
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067975312835772416/vid/avc1/320x568/-mCnQyobucDi322M.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067975312835772416/vid/avc1/480x852/RcfENdW78r2r2O_G.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067975312835772416/vid/avc1/720x1280/zhkonTSu9dZ3m8b0.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2067975312835772416/pl/vupQgiqpFJg-B8O-.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067975312823226368",
+            "13_2067975312835772416",
+            "3_2067975299971809280",
+            "3_2067975312818982912"
+          ],
+          "media_source_tweet_id": [
+            "2067975371707097385",
+            "2067975371707097385",
+            "2067975371707097385",
+            "2067975371707097385"
+          ]
+        },
+        "author_id": "1839085606573637632",
+        "conversation_id": "2067980276622630967",
+        "created_at": "2026-06-19T14:38:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:38:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067980276622630967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2067972691970428928",
+              "start": 3,
+              "username": "fhjgpyd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3sR1PVUUSb",
+              "end": 53,
+              "expanded_url": "https://x.com/fhjgpyd/status/2067975371707097385/video/1",
+              "media_key": "3_2067975312823226368",
+              "start": 30,
+              "url": "https://t.co/3sR1PVUUSb"
+            },
+            {
+              "display_url": "pic.x.com/3sR1PVUUSb",
+              "end": 53,
+              "expanded_url": "https://x.com/fhjgpyd/status/2067975371707097385/video/1",
+              "media_key": "13_2067975312835772416",
+              "start": 30,
+              "url": "https://t.co/3sR1PVUUSb"
+            },
+            {
+              "display_url": "pic.x.com/3sR1PVUUSb",
+              "end": 53,
+              "expanded_url": "https://x.com/fhjgpyd/status/2067975371707097385/video/1",
+              "media_key": "3_2067975299971809280",
+              "start": 30,
+              "url": "https://t.co/3sR1PVUUSb"
+            },
+            {
+              "display_url": "pic.x.com/3sR1PVUUSb",
+              "end": 53,
+              "expanded_url": "https://x.com/fhjgpyd/status/2067975371707097385/video/1",
+              "media_key": "3_2067975312818982912",
+              "start": 30,
+              "url": "https://t.co/3sR1PVUUSb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067980276622630967",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067975371707097385",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fhjgpyd: hello我是T^T呀我重生了！ https://t.co/3sR1PVUUSb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067975312823226368",
+            "13_2067975312835772416",
+            "3_2067975299971809280",
+            "3_2067975312818982912"
+          ]
+        },
+        "author_id": "2067972691970428928",
+        "conversation_id": "2067975371707097385",
+        "created_at": "2026-06-19T14:18:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067975371707097385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3sR1PVUUSb",
+              "end": 40,
+              "expanded_url": "https://x.com/fhjgpyd/status/2067975371707097385/video/1",
+              "media_key": "3_2067975312823226368",
+              "start": 17,
+              "url": "https://t.co/3sR1PVUUSb"
+            },
+            {
+              "display_url": "pic.x.com/3sR1PVUUSb",
+              "end": 40,
+              "expanded_url": "https://x.com/fhjgpyd/status/2067975371707097385/video/1",
+              "media_key": "13_2067975312835772416",
+              "start": 17,
+              "url": "https://t.co/3sR1PVUUSb"
+            },
+            {
+              "display_url": "pic.x.com/3sR1PVUUSb",
+              "end": 40,
+              "expanded_url": "https://x.com/fhjgpyd/status/2067975371707097385/video/1",
+              "media_key": "3_2067975299971809280",
+              "start": 17,
+              "url": "https://t.co/3sR1PVUUSb"
+            },
+            {
+              "display_url": "pic.x.com/3sR1PVUUSb",
+              "end": 40,
+              "expanded_url": "https://x.com/fhjgpyd/status/2067975371707097385/video/1",
+              "media_key": "3_2067975312818982912",
+              "start": 17,
+              "url": "https://t.co/3sR1PVUUSb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067975371707097385",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 168,
+          "like_count": 9,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "hello我是T^T呀我重生了！ https://t.co/3sR1PVUUSb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之丨生理心理皆女丨lgbtq友好丨我割我抽我o丨不鉴证丨喜欢互动 丨我没有🚪觉得我以后会在推上发点什么的不要关注我了丨只有绿色健康小清新🍀丨没有门不接线上不接线下没有非绿没有半绿没有纯绿丨\n防炸@LeeSong14176丨互fo直关丨没回fo私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 102,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2065050387967840395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 559,
+          "like_count": 1225,
+          "listed_count": 0,
+          "media_count": 291,
+          "tweet_count": 3153
+        },
+        "url": "",
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-19T14:09:40.000Z",
+        "description": "163 42kg",
+        "id": "2067972691970428928",
+        "name": "fhj",
+        "pinned_tweet_id": "2067975371707097385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067973583247458304/byhlZfZc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 13,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "fhjgpyd",
+        "verified": false
+      }
+    ]
+  }
+}

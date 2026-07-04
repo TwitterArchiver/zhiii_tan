@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067708426654736384"
+      ],
+      "media_source_tweet_id": [
+        "2067708429192290663"
+      ]
+    },
+    "author_id": "1839085606573637632",
+    "conversation_id": "2068038520443404349",
+    "created_at": "2026-06-19T18:29:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T19:29:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068038520443404349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1555630553000443905",
+          "start": 3,
+          "username": "peaceminssone"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/afyJVXxq2v",
+          "end": 85,
+          "expanded_url": "https://x.com/peaceminssone/status/2067708429192290663/photo/1",
+          "media_key": "3_2067708426654736384",
+          "start": 62,
+          "url": "https://t.co/afyJVXxq2v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068038520443404349",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 98
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067708429192290663",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @peaceminssone: BIGBANG announced completely nothing today https://t.co/afyJVXxq2v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2067708426654736384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLH5293WYAA4NUR.jpg",
+        "width": 708
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067708426654736384"
+          ],
+          "media_source_tweet_id": [
+            "2067708429192290663"
+          ]
+        },
+        "author_id": "1839085606573637632",
+        "conversation_id": "2068038520443404349",
+        "created_at": "2026-06-19T18:29:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T19:29:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068038520443404349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1555630553000443905",
+              "start": 3,
+              "username": "peaceminssone"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/afyJVXxq2v",
+              "end": 85,
+              "expanded_url": "https://x.com/peaceminssone/status/2067708429192290663/photo/1",
+              "media_key": "3_2067708426654736384",
+              "start": 62,
+              "url": "https://t.co/afyJVXxq2v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068038520443404349",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 98
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067708429192290663",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @peaceminssone: BIGBANG announced completely nothing today https://t.co/afyJVXxq2v"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067708426654736384"
+          ]
+        },
+        "author_id": "1555630553000443905",
+        "conversation_id": "2067708429192290663",
+        "created_at": "2026-06-18T20:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T21:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067708429192290663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/afyJVXxq2v",
+              "end": 66,
+              "expanded_url": "https://x.com/peaceminssone/status/2067708429192290663/photo/1",
+              "media_key": "3_2067708426654736384",
+              "start": 43,
+              "url": "https://t.co/afyJVXxq2v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067708429192290663",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 4874,
+          "like_count": 501,
+          "quote_count": 4,
+          "reply_count": 1,
+          "retweet_count": 98
+        },
+        "reply_settings": "everyone",
+        "text": "BIGBANG announced completely nothing today https://t.co/afyJVXxq2v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之丨生理心理皆女丨lgbtq友好丨我割我抽我o丨不鉴证丨喜欢互动 丨我没有🚪觉得我以后会在推上发点什么的不要关注我了丨只有绿色健康小清新🍀丨没有门不接线上不接线下没有非绿没有半绿没有纯绿丨\n防炸@LeeSong14176丨互fo直关丨没回fo私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 102,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2065050387967840395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 560,
+          "like_count": 1231,
+          "listed_count": 0,
+          "media_count": 294,
+          "tweet_count": 3165
+        },
+        "url": "",
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-05T19:03:32.000Z",
+        "description": "𝘭𝘦𝘵𝘵𝘦𝘳𝘴 𝘵𝘰: #빅뱅 and #권지용 🖇 i block freely",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 15,
+                "start": 12,
+                "tag": "빅뱅"
+              },
+              {
+                "end": 24,
+                "start": 20,
+                "tag": "권지용"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ttt.com",
+                "end": 23,
+                "expanded_url": "http://ttt.com",
+                "start": 0,
+                "url": "https://t.co/KGHVVG0K99"
+              }
+            ]
+          }
+        },
+        "id": "1555630553000443905",
+        "location": "any pronouns 🧁",
+        "name": "nappu bigbengas🌙",
+        "pinned_tweet_id": "2061235921345781846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061298188800184320/xwpzMFjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 343,
+          "like_count": 63013,
+          "listed_count": 2,
+          "media_count": 198,
+          "tweet_count": 2410
+        },
+        "url": "https://t.co/KGHVVG0K99",
+        "username": "peaceminssone",
+        "verified": false
+      }
+    ]
+  }
+}

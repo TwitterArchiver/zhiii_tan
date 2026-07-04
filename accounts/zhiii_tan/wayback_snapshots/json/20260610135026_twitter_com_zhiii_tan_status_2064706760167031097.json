@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "conversation_id": "2064662876070261016",
+    "created_at": "2026-06-10T13:50:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T14:50:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064706760167031097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1825118222858985472",
+          "start": 0,
+          "username": "Yuliko717"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064706760167031097",
+    "in_reply_to_user_id": "1825118222858985472",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064706094195511477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuliko717 🫠🫠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2064662876070261016",
+        "created_at": "2026-06-10T13:50:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T14:50:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064706760167031097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1825118222858985472",
+              "start": 0,
+              "username": "Yuliko717"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064706760167031097",
+        "in_reply_to_user_id": "1825118222858985472",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064706094195511477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuliko717 🫠🫠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825118222858985472",
+        "conversation_id": "2064662876070261016",
+        "created_at": "2026-06-10T13:47:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T14:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064706094195511477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1839085606573637632",
+              "start": 0,
+              "username": "zhiii_tan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064706094195511477",
+        "in_reply_to_user_id": "1839085606573637632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064703926038061439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhiii_tan 那还是不要了…父母很可能图省事就把你送进去了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之/生理心理皆女/lgbtq友好/？性恋/我割我抽我o/不鉴证/喜欢和妹子互动/某些男的想加我先v520 /我没有🚪觉得我以后会在推上发点什么的不要关注我了/只有绿色健康小清新🍀/没有门不接线上不接线下没有非绿没有半绿没有纯绿/\n防炸@LeeSong14176",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 122,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2064034397750464763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 482,
+          "like_count": 1053,
+          "listed_count": 0,
+          "media_count": 206,
+          "tweet_count": 2538
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-18T10:31:15.000Z",
+        "description": "インターネット・エンジェルただいま降臨\n 坐标：ShangHai",
+        "id": "1825118222858985472",
+        "location": "药店",
+        "name": "Yuliko（夜神日版）",
+        "pinned_tweet_id": "2059783532541800789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064695672843243521/TNzYd0DM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4058,
+          "following_count": 207,
+          "like_count": 626,
+          "listed_count": 11,
+          "media_count": 367,
+          "tweet_count": 2221
+        },
+        "username": "Yuliko717",
+        "verified": false
+      }
+    ]
+  }
+}

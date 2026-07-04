@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070121181462855680"
+      ],
+      "media_source_tweet_id": [
+        "2070121475210977556"
+      ]
+    },
+    "author_id": "1839085606573637632",
+    "conversation_id": "2070765905567699155",
+    "created_at": "2026-06-27T07:07:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T08:07:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070765905567699155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1813561571941183488",
+          "start": 3,
+          "username": "careforme123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dpgVU24aJg",
+          "end": 83,
+          "expanded_url": "https://x.com/careforme123/status/2070121475210977556/photo/1",
+          "media_key": "3_2070121181462855680",
+          "start": 60,
+          "url": "https://t.co/dpgVU24aJg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070765905567699155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 111
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070121475210977556",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @careforme123: 抖音惊现六四老兵\n\n“37年前开坦克执行党的任务没人扣我车，今天开老头乐被扣车了” https://t.co/dpgVU24aJg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 632,
+        "media_key": "3_2070121181462855680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLqMPx8bAAAV1N_.png",
+        "width": 418
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070121181462855680"
+          ],
+          "media_source_tweet_id": [
+            "2070121475210977556"
+          ]
+        },
+        "author_id": "1839085606573637632",
+        "conversation_id": "2070765905567699155",
+        "created_at": "2026-06-27T07:07:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T08:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070765905567699155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1813561571941183488",
+              "start": 3,
+              "username": "careforme123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dpgVU24aJg",
+              "end": 83,
+              "expanded_url": "https://x.com/careforme123/status/2070121475210977556/photo/1",
+              "media_key": "3_2070121181462855680",
+              "start": 60,
+              "url": "https://t.co/dpgVU24aJg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070765905567699155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 111
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070121475210977556",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @careforme123: 抖音惊现六四老兵\n\n“37年前开坦克执行党的任务没人扣我车，今天开老头乐被扣车了” https://t.co/dpgVU24aJg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070121181462855680"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2070121475210977556",
+        "created_at": "2026-06-25T12:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T13:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070121475210977556"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dpgVU24aJg",
+              "end": 65,
+              "expanded_url": "https://x.com/careforme123/status/2070121475210977556/photo/1",
+              "media_key": "3_2070121181462855680",
+              "start": 42,
+              "url": "https://t.co/dpgVU24aJg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070121475210977556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 333,
+          "impression_count": 453680,
+          "like_count": 2884,
+          "quote_count": 11,
+          "reply_count": 248,
+          "retweet_count": 111
+        },
+        "reply_settings": "everyone",
+        "text": "抖音惊现六四老兵\n\n“37年前开坦克执行党的任务没人扣我车，今天开老头乐被扣车了” https://t.co/dpgVU24aJg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之丨生理心理皆女丨lgbtq友好丨我割我抽我o丨不鉴证丨喜欢互动 丨我没有🚪觉得我以后会在推上发点什么的不要关注我了丨只有绿色健康小清新🍀丨没有门不接线上不接线下没有非绿没有半绿没有纯绿丨\n防炸@LeeSong14176丨互fo直关丨没回fo私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 102,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2065050387967840395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 580,
+          "like_count": 1344,
+          "listed_count": 0,
+          "media_count": 311,
+          "tweet_count": 3345
+        },
+        "url": "",
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2375,
+          "following_count": 789,
+          "like_count": 7650,
+          "listed_count": 7,
+          "media_count": 762,
+          "tweet_count": 3029
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

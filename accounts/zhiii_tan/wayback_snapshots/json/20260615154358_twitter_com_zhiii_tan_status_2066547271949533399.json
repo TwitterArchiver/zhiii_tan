@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066547269143572480"
+      ]
+    },
+    "author_id": "1839085606573637632",
+    "conversation_id": "2066547271949533399",
+    "created_at": "2026-06-15T15:43:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T16:43:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066547271949533399"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6wkQpf1OmB",
+          "end": 26,
+          "expanded_url": "https://x.com/zhiii_tan/status/2066547271949533399/photo/1",
+          "media_key": "3_2066547269143572480",
+          "start": 3,
+          "url": "https://t.co/6wkQpf1OmB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066547271949533399",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "💀💀 https://t.co/6wkQpf1OmB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066547269143572480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3ZytDbMAAncJ7.jpg",
+        "width": 916
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066547269143572480"
+          ]
+        },
+        "author_id": "1839085606573637632",
+        "conversation_id": "2066547271949533399",
+        "created_at": "2026-06-15T15:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066547271949533399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6wkQpf1OmB",
+              "end": 26,
+              "expanded_url": "https://x.com/zhiii_tan/status/2066547271949533399/photo/1",
+              "media_key": "3_2066547269143572480",
+              "start": 3,
+              "url": "https://t.co/6wkQpf1OmB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066547271949533399",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "💀💀 https://t.co/6wkQpf1OmB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之丨生理心理皆女丨lgbtq友好丨我割我抽我o丨不鉴证丨喜欢互动 丨我没有🚪觉得我以后会在推上发点什么的不要关注我了丨只有绿色健康小清新🍀丨没有门不接线上不接线下没有非绿没有半绿没有纯绿丨\n防炸@LeeSong14176丨互fo直关丨没回fo私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 102,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2065050387967840395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 508,
+          "like_count": 1202,
+          "listed_count": 0,
+          "media_count": 279,
+          "tweet_count": 3011
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "conversation_id": "2064004334589993102",
+    "created_at": "2026-06-08T15:19:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T16:19:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064004334589993102"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/55ghcgxc/statu…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/55ghcgxc/status/2031454610016370865",
+          "start": 22,
+          "url": "https://t.co/e6vmm6huCa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064004334589993102",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031454610016370865",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "快来fofo这个阿予˶&gt;ᗜ&lt;˶ https://t.co/e6vmm6huCa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2064004334589993102",
+        "created_at": "2026-06-08T15:19:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T16:19:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064004334589993102"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/55ghcgxc/statu…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/55ghcgxc/status/2031454610016370865",
+              "start": 22,
+              "url": "https://t.co/e6vmm6huCa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064004334589993102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031454610016370865",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "快来fofo这个阿予˶&gt;ᗜ&lt;˶ https://t.co/e6vmm6huCa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831328988960034816",
+        "conversation_id": "2031454610016370865",
+        "created_at": "2026-03-10T19:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T20:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031454610016370865"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031454610016370865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1932,
+          "like_count": 8,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "scared 2 be lonely\n\n可以叫我阿予或者竹雨\n同性恋｜喜欢我的我也喜欢你，讨厌我的可以私信骂我了\n穷逼餐券姝｜目前家里蹲\n18岁\n音企or少女乐队爱好者｜也打音游\n单机人尝试社交中……\n可能有语气冷冷的只是我不会说话并无其他意思\n喜欢和列表互动，欢迎同类来互fo，会查主页"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之/生理心理皆女/lgbtq友好/泛性恋/我割我抽我o/od持开放态度 不一定碰但是不会反感 不鉴证 喜欢萌妹子 某些男的想加我先v520  我没有🚪觉得我以后会在推上发点什么的不要关注我了还是 只有绿色健康小清新🍀\n世界上的另一个我@LeeSong14176",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 122,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2051940167641149445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 411,
+          "like_count": 972,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 2313
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T13:50:51.000Z",
+        "description": "女的｜08辍学精神病｜抽烟喝酒od割手｜想发什么就发什么少对别人指指点点｜🚪66",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/55ghcgxc",
+                "end": 23,
+                "expanded_url": "https://ngl.link/55ghcgxc",
+                "start": 0,
+                "url": "https://t.co/3h8JwIgoIX"
+              }
+            ]
+          }
+        },
+        "id": "1831328988960034816",
+        "name": "如果把表面的爱称作爱的话",
+        "pinned_tweet_id": "2031454610016370865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054567871045570561/97DrHAv3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 282,
+          "like_count": 1284,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 607
+        },
+        "url": "https://t.co/3h8JwIgoIX",
+        "username": "55ghcgxc",
+        "verified": false
+      }
+    ]
+  }
+}

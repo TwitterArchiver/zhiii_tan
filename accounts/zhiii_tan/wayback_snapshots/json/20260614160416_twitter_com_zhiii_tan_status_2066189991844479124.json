@@ -1,0 +1,437 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "conversation_id": "2066170340947152907",
+    "created_at": "2026-06-14T16:04:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T17:04:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066189991844479124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1752955223004573696",
+          "start": 0,
+          "username": "AnalyLain_01"
+        },
+        {
+          "end": 27,
+          "id": "1821023575631130625",
+          "start": 14,
+          "username": "RainingTown_"
+        },
+        {
+          "end": 35,
+          "id": "1546431985086009344",
+          "start": 28,
+          "username": "NL8526"
+        },
+        {
+          "end": 51,
+          "id": "1810873766119100416",
+          "start": 36,
+          "username": "RainEngine2024"
+        },
+        {
+          "end": 62,
+          "id": "2063957681984225280",
+          "start": 52,
+          "username": "YuwenMewo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066189991844479124",
+    "in_reply_to_user_id": "1752955223004573696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066170340947152907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AnalyLain_01 @RainingTown_ @NL8526 @RainEngine2024 @YuwenMewo ……我的互关\n晚安"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066170338015379456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKyC-bLbAAAJ_9K.jpg",
+        "width": 1105
+      },
+      {
+        "height": 1712,
+        "media_key": "3_2066170338426470400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKyC-ctbwAArFFZ.jpg",
+        "width": 1272
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066170338476769281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKyC-c5bQAE8MPt.jpg",
+        "width": 1120
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2066170340947152907",
+        "created_at": "2026-06-14T16:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T17:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066189991844479124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1752955223004573696",
+              "start": 0,
+              "username": "AnalyLain_01"
+            },
+            {
+              "end": 27,
+              "id": "1821023575631130625",
+              "start": 14,
+              "username": "RainingTown_"
+            },
+            {
+              "end": 35,
+              "id": "1546431985086009344",
+              "start": 28,
+              "username": "NL8526"
+            },
+            {
+              "end": 51,
+              "id": "1810873766119100416",
+              "start": 36,
+              "username": "RainEngine2024"
+            },
+            {
+              "end": 62,
+              "id": "2063957681984225280",
+              "start": 52,
+              "username": "YuwenMewo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066189991844479124",
+        "in_reply_to_user_id": "1752955223004573696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066170340947152907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnalyLain_01 @RainingTown_ @NL8526 @RainEngine2024 @YuwenMewo ……我的互关\n晚安"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066170338015379456",
+            "3_2066170338426470400",
+            "3_2066170338476769281"
+          ]
+        },
+        "author_id": "1752955223004573696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066170340947152907",
+        "created_at": "2026-06-14T14:46:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T15:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066170340947152907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1821023575631130625",
+              "start": 7,
+              "username": "RainingTown_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tjdh5KHrCa",
+              "end": 120,
+              "expanded_url": "https://x.com/AnalyLain_01/status/2066170340947152907/photo/1",
+              "media_key": "3_2066170338015379456",
+              "start": 97,
+              "url": "https://t.co/tjdh5KHrCa"
+            },
+            {
+              "display_url": "pic.x.com/tjdh5KHrCa",
+              "end": 120,
+              "expanded_url": "https://x.com/AnalyLain_01/status/2066170340947152907/photo/1",
+              "media_key": "3_2066170338426470400",
+              "start": 97,
+              "url": "https://t.co/tjdh5KHrCa"
+            },
+            {
+              "display_url": "pic.x.com/tjdh5KHrCa",
+              "end": 120,
+              "expanded_url": "https://x.com/AnalyLain_01/status/2066170340947152907/photo/1",
+              "media_key": "3_2066170338476769281",
+              "start": 97,
+              "url": "https://t.co/tjdh5KHrCa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066170340947152907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 903,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "讣告\n残云🍥(@RainingTown_)（又名笨蛋猫猫，本名星宇）于6月12日过量服用药物（100t烷胺），虽然得到救治，但未能成功挽回性命，因呼吸衰竭而亡，享年19岁\n\nR . I . P https://t.co/tjdh5KHrCa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之丨生理心理皆女丨lgbtq友好丨我割我抽我o丨不鉴证丨喜欢互动 丨我没有🚪觉得我以后会在推上发点什么的不要关注我了丨只有绿色健康小清新🍀丨没有门不接线上不接线下没有非绿没有半绿没有纯绿丨\n防炸@LeeSong14176丨互fo直关丨没回fo私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 102,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2065050387967840395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 487,
+          "like_count": 1194,
+          "listed_count": 0,
+          "media_count": 266,
+          "tweet_count": 2958
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-01T07:21:25.000Z",
+        "description": "🌈08 enby｜一只想变可爱的男孩纸awa｜含糖喵🍥（抗雄only｜双鱼♓️ & INFP🦋｜4i 🐶｜混⭕️（弱贝说是｜喜欢一切可爱的事物😘｜爱好：数码📱 科技💻 摄影📷｜长得还可以awa｜179/63（人家才不是肥宅呢！｜不od不自伤💊｜乖巧听话（有时brat｜呜呜是喜欢涩涩的坏孩子......",
+        "id": "1752955223004573696",
+        "location": "jinan shandong",
+        "name": "林小北不是小杯杯🍥",
+        "pinned_tweet_id": "2066170340947152907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065250229910409217/FcGfwTjD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1519,
+          "following_count": 316,
+          "like_count": 122,
+          "listed_count": 3,
+          "media_count": 24,
+          "tweet_count": 818
+        },
+        "username": "AnalyLain_01",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T03:20:41.000Z",
+        "description": "二代目哦 | 常驻山东济南欢迎贴贴 | 🏳️‍⚧️🍥 | 含糖| 似乎是家长党 | NixOS用户 | Rust新手 | HRTv2 2025.10.4",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/broken_cloud",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/broken_cloud",
+                "start": 0,
+                "url": "https://t.co/mFKbzLwrcm"
+              }
+            ]
+          }
+        },
+        "id": "1821023575631130625",
+        "name": "残云 - 二代目",
+        "pinned_tweet_id": "1891761143716126833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891753740581077000/6gs66WLS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 1488,
+          "like_count": 4027,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 781
+        },
+        "url": "https://t.co/mFKbzLwrcm",
+        "username": "RainingTown_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/MC 😴大一休学/家长不管党/不线下/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo 🙏抽象致歉 b我必回 ⬇️匿名问答箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2066003299510464743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2553,
+          "following_count": 780,
+          "like_count": 16690,
+          "listed_count": 3,
+          "media_count": 154,
+          "tweet_count": 698
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "RainEngine联合创始人/曾小米项目部运营/现移动合作伙伴/SimpleUX维护者/喜欢摄影/喜欢折腾各类的Android手机/偶尔发些日常/GMT+8/PM前请征得同意否则Ban/追求源于热爱，极致源于梦想",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainEngine2024",
+                "end": 23,
+                "expanded_url": "https://t.me/RainEngine2024",
+                "start": 0,
+                "url": "https://t.co/9PQn0qPrWk"
+              }
+            ]
+          }
+        },
+        "id": "1810873766119100416",
+        "name": "雨晴酱_Official",
+        "pinned_tweet_id": "2038233746755948881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060444078790348800/OZRYk2nj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10507,
+          "following_count": 973,
+          "like_count": 94282,
+          "listed_count": 25,
+          "media_count": 1914,
+          "tweet_count": 13211
+        },
+        "url": "https://t.co/9PQn0qPrWk",
+        "username": "RainEngine2024",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-08T12:21:21.000Z",
+        "description": "🏳️‍⚧️ MTF ♀\n🎂 10.19\n💉 HRT 2025.06.30\n🍥  持证含糖\n💻 科技宅一只\n✨ 努力长成理想中的自己",
+        "id": "2063957681984225280",
+        "name": "唐毓文",
+        "pinned_tweet_id": "2066139335825744226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063959820148064256/gZr_9bTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 19,
+          "like_count": 66,
+          "listed_count": 3,
+          "media_count": 56,
+          "tweet_count": 341
+        },
+        "username": "YuwenMewo",
+        "verified": true
+      }
+    ]
+  }
+}

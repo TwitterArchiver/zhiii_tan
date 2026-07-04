@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "conversation_id": "2067585397019025811",
+    "created_at": "2026-06-18T12:29:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T13:29:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067585397019025811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1906196367653183488",
+          "start": 3,
+          "username": "5by5darkestslay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067585397019025811",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 95
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066863594168291444",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @5by5darkestslay: Studio 54"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2067585397019025811",
+        "created_at": "2026-06-18T12:29:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067585397019025811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1906196367653183488",
+              "start": 3,
+              "username": "5by5darkestslay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067585397019025811",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 95
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066863594168291444",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @5by5darkestslay: Studio 54"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906196367653183488",
+        "conversation_id": "2066863594168291444",
+        "created_at": "2026-06-16T12:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T13:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066863594168291444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/emmasarchivee/…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/emmasarchivee/status/2066559539512779254",
+              "start": 10,
+              "url": "https://t.co/g2hxtwfvde"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066863594168291444",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 5155,
+          "like_count": 516,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 95
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066559539512779254",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Studio 54 https://t.co/g2hxtwfvde"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之丨生理心理皆女丨lgbtq友好丨我割我抽我o丨不鉴证丨喜欢互动 丨我没有🚪觉得我以后会在推上发点什么的不要关注我了丨只有绿色健康小清新🍀丨没有门不接线上不接线下没有非绿没有半绿没有纯绿丨\n防炸@LeeSong14176丨互fo直关丨没回fo私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 102,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2065050387967840395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 550,
+          "like_count": 1216,
+          "listed_count": 0,
+          "media_count": 285,
+          "tweet_count": 3113
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-30T04:07:25.000Z",
+        "description": "21 🏳️‍🌈🇪🇨",
+        "id": "1906196367653183488",
+        "location": "𝔳𝔞𝔪𝔭⛦𝔤𝔦𝔯𝔩",
+        "name": "𝔉𝔞𝔦𝔱𝔥 ⚰︎",
+        "pinned_tweet_id": "2056778034921787481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061855222851371008/I3oe6DFZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 469,
+          "like_count": 18214,
+          "listed_count": 1,
+          "media_count": 3205,
+          "tweet_count": 8185
+        },
+        "username": "5by5darkestslay",
+        "verified": false
+      }
+    ]
+  }
+}

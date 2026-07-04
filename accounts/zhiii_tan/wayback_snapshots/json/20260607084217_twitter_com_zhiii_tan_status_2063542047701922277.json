@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "conversation_id": "2063542047701922277",
+    "created_at": "2026-06-07T08:42:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T09:42:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063542047701922277"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/seungt0phyun/s…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/seungt0phyun/status/2062904248375890165",
+          "start": 15,
+          "url": "https://t.co/8SmqsYKE3M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063542047701922277",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062904248375890165",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卧槽老子不行了右下角是什么鬼 https://t.co/8SmqsYKE3M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1170,
+        "media_key": "3_2062904242235490304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKDoeoQXwAAo1ml.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2063542047701922277",
+        "created_at": "2026-06-07T08:42:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T09:42:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063542047701922277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/seungt0phyun/s…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/seungt0phyun/status/2062904248375890165",
+              "start": 15,
+              "url": "https://t.co/8SmqsYKE3M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063542047701922277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062904248375890165",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽老子不行了右下角是什么鬼 https://t.co/8SmqsYKE3M"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062904242235490304"
+          ]
+        },
+        "author_id": "1898116517344006145",
+        "conversation_id": "2062903594781655403",
+        "created_at": "2026-06-05T14:27:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062904248375890165"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gVdsvoaXnV",
+              "end": 32,
+              "expanded_url": "https://x.com/seungt0phyun/status/2062904248375890165/photo/1",
+              "media_key": "3_2062904242235490304",
+              "start": 9,
+              "url": "https://t.co/gVdsvoaXnV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062904248375890165",
+        "in_reply_to_user_id": "1898116517344006145",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1225,
+          "like_count": 81,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062903594781655403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "now kiss https://t.co/gVdsvoaXnV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之/友跨/泛性恋/我割我抽我o/od持开放态度 不一定碰但是不会反感 不鉴证 喜欢萌妹子 某些男的想加我先v520  我没有🚪觉得我以后会在推上发点什么的不要关注我了还是 只有绿色健康小清新🍀",
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2051940167641149445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 393,
+          "like_count": 948,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 2240
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-07T21:00:25.000Z",
+        "description": "#빅뱅 + #탑 only",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "빅뱅"
+              },
+              {
+                "end": 8,
+                "start": 6,
+                "tag": "탑"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/album/5ORJMfjj…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/album/5ORJMfjjUnPI2gJwI35OjE?si=GJtzZZGGQ06UAMLm9h7P7A",
+                "start": 0,
+                "url": "https://t.co/yeqf1brg9r"
+              }
+            ]
+          }
+        },
+        "id": "1898116517344006145",
+        "location": "she | ot5 DNI",
+        "name": "sha",
+        "pinned_tweet_id": "1938957251957674080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001727962761027584/F-ZswyBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5004,
+          "following_count": 576,
+          "like_count": 77561,
+          "listed_count": 19,
+          "media_count": 11151,
+          "tweet_count": 30389
+        },
+        "url": "https://t.co/yeqf1brg9r",
+        "username": "seungt0phyun",
+        "verified": false
+      }
+    ]
+  }
+}

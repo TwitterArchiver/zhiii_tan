@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "conversation_id": "2051468185959116975",
+    "created_at": "2026-05-05T01:05:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T02:05:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051468185959116975"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2051468185959116975",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我有好几面不同的我，如果你只爱我好的那一面的话不如放过我，喜恶同因，如果你喜欢我善良温柔的这一面那你就要接受我冷暴力，人不可能一直保持在好的一面，我累了就谁也不想理"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2051468185959116975",
+        "created_at": "2026-05-05T01:05:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T02:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051468185959116975"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051468185959116975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有好几面不同的我，如果你只爱我好的那一面的话不如放过我，喜恶同因，如果你喜欢我善良温柔的这一面那你就要接受我冷暴力，人不可能一直保持在好的一面，我累了就谁也不想理"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之/友跨/泛性恋/我割我抽我o/od持开放态度 不一定碰但是不会反感 不鉴证 喜欢萌妹子 某些男的想加我先v520  我没有🚪觉得我以后会在推上发点什么的不要关注我了还是 只有绿色健康小清新",
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2044718222386299214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 336,
+          "like_count": 490,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1624
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      }
+    ]
+  }
+}

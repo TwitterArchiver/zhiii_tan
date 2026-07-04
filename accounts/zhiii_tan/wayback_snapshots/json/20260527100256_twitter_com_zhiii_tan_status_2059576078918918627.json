@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "conversation_id": "2059572273582096435",
+    "created_at": "2026-05-27T10:02:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T11:02:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059576078918918627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1829867271592026112",
+          "start": 0,
+          "username": "Shivam3228"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059576078918918627",
+    "in_reply_to_user_id": "1829867271592026112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059572273582096435",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shivam3228 这种父亲……又不知道她的准确地址怎么报？家长自己不关心孩子反倒攻击关心她的朋友们，而且孩子有什么不沉迷网络的理由吗？网络上有好多自己喜欢的话题喜欢的朋友们，现实里有什么？没话题聊的家长，偶尔还会收获责备"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059572258138677248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJUSDoOa4AAwtkp.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2059572273582096435",
+        "created_at": "2026-05-27T10:02:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T11:02:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059576078918918627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1829867271592026112",
+              "start": 0,
+              "username": "Shivam3228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059576078918918627",
+        "in_reply_to_user_id": "1829867271592026112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059572273582096435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shivam3228 这种父亲……又不知道她的准确地址怎么报？家长自己不关心孩子反倒攻击关心她的朋友们，而且孩子有什么不沉迷网络的理由吗？网络上有好多自己喜欢的话题喜欢的朋友们，现实里有什么？没话题聊的家长，偶尔还会收获责备"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059572258138677248"
+          ]
+        },
+        "author_id": "1829867271592026112",
+        "conversation_id": "2059572273582096435",
+        "created_at": "2026-05-27T09:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T10:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059572273582096435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VGIDo0s0ob",
+              "end": 35,
+              "expanded_url": "https://x.com/Shivam3228/status/2059572273582096435/photo/1",
+              "media_key": "3_2059572258138677248",
+              "start": 12,
+              "url": "https://t.co/VGIDo0s0ob"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059572273582096435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我知道她很痛苦她恨你们 https://t.co/VGIDo0s0ob"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之/友跨/泛性恋/我割我抽我o/od持开放态度 不一定碰但是不会反感 不鉴证 喜欢萌妹子 某些男的想加我先v520  我没有🚪觉得我以后会在推上发点什么的不要关注我了还是 只有绿色健康小清新🍀",
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2051940167641149445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 368,
+          "like_count": 690,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 1936
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "大号@Kuromi_ooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "Kuromi_ooooo"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你身后",
+        "name": "7.霖（病娇中2）",
+        "pinned_tweet_id": "2058861278148673963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 102,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 50
+        },
+        "username": "Shivam3228",
+        "verified": false
+      }
+    ]
+  }
+}

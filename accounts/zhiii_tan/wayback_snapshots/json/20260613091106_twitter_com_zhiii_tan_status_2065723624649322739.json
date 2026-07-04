@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "conversation_id": "2065580424844447833",
+    "created_at": "2026-06-13T09:11:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T10:11:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065723624649322739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1701102642414645248",
+          "start": 0,
+          "username": "KG6I1x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065723624649322739",
+    "in_reply_to_user_id": "1701102642414645248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065632330379669649",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KG6I1x 宝贝你也总是在倾听别人、不吝啬的夸赞别人，你好好😽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2065580424844447833",
+        "created_at": "2026-06-13T09:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T10:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065723624649322739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1701102642414645248",
+              "start": 0,
+              "username": "KG6I1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065723624649322739",
+        "in_reply_to_user_id": "1701102642414645248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065632330379669649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KG6I1x 宝贝你也总是在倾听别人、不吝啬的夸赞别人，你好好😽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701102642414645248",
+        "conversation_id": "2065580424844447833",
+        "created_at": "2026-06-13T03:08:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T04:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065632330379669649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1839085606573637632",
+              "start": 0,
+              "username": "zhiii_tan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065632330379669649",
+        "in_reply_to_user_id": "1839085606573637632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065580424844447833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhiii_tan 宝宝你其实特别温柔呀，所有人都在欺负我们善良心软的之之，太坏了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之丨生理心理皆女丨lgbtq友好丨我割我抽我o丨不鉴证丨喜欢互动 丨我没有🚪觉得我以后会在推上发点什么的不要关注我了丨只有绿色健康小清新🍀丨没有门不接线上不接线下没有非绿没有半绿没有纯绿丨\n防炸@LeeSong14176丨互fo直关丨没回fo私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 102,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2065050387967840395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 480,
+          "like_count": 1158,
+          "listed_count": 0,
+          "media_count": 240,
+          "tweet_count": 2828
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-11T05:17:45.000Z",
+        "description": "05颓废家里蹲｜我语言能力缺失｜是因为喜欢你才会点关注喵｜防吞小号@tutu0630mi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 33,
+                "username": "tutu0630mi"
+              }
+            ]
+          }
+        },
+        "id": "1701102642414645248",
+        "name": "荼蘼花（评论被吞版",
+        "pinned_tweet_id": "2065210271178559639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063201336188194817/y7bGvpyb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 102,
+          "like_count": 1976,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 398
+        },
+        "username": "KG6I1x",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064810929779597312",
+        "3_2064810929687244800"
+      ]
+    },
+    "author_id": "1839085606573637632",
+    "conversation_id": "2064810932971430304",
+    "created_at": "2026-06-10T20:44:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T21:44:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064810932971430304"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7xklqHDKj7",
+          "end": 105,
+          "expanded_url": "https://x.com/zhiii_tan/status/2064810932971430304/photo/1",
+          "media_key": "3_2064810929779597312",
+          "start": 82,
+          "url": "https://t.co/7xklqHDKj7"
+        },
+        {
+          "display_url": "pic.x.com/7xklqHDKj7",
+          "end": 105,
+          "expanded_url": "https://x.com/zhiii_tan/status/2064810932971430304/photo/1",
+          "media_key": "3_2064810929687244800",
+          "start": 82,
+          "url": "https://t.co/7xklqHDKj7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064810932971430304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "从一入坑我就知道他们吸d了，想看他们一起飞叶子哦，一帮粉红还说误吸，烟和做爱都戒不掉的两个老东西，毒又怎么能轻易戒掉，不过权志龙23年那会是不飞了吗，怎么还是阴性 https://t.co/7xklqHDKj7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 733,
+        "media_key": "3_2064810929779597312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKeumc3bYAAzaAt.jpg",
+        "width": 1239
+      },
+      {
+        "height": 459,
+        "media_key": "3_2064810929687244800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKeumchaMAAg2QJ.jpg",
+        "width": 1239
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064810929779597312",
+            "3_2064810929687244800"
+          ]
+        },
+        "author_id": "1839085606573637632",
+        "conversation_id": "2064810932971430304",
+        "created_at": "2026-06-10T20:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T21:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064810932971430304"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7xklqHDKj7",
+              "end": 105,
+              "expanded_url": "https://x.com/zhiii_tan/status/2064810932971430304/photo/1",
+              "media_key": "3_2064810929779597312",
+              "start": 82,
+              "url": "https://t.co/7xklqHDKj7"
+            },
+            {
+              "display_url": "pic.x.com/7xklqHDKj7",
+              "end": 105,
+              "expanded_url": "https://x.com/zhiii_tan/status/2064810932971430304/photo/1",
+              "media_key": "3_2064810929687244800",
+              "start": 82,
+              "url": "https://t.co/7xklqHDKj7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064810932971430304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从一入坑我就知道他们吸d了，想看他们一起飞叶子哦，一帮粉红还说误吸，烟和做爱都戒不掉的两个老东西，毒又怎么能轻易戒掉，不过权志龙23年那会是不飞了吗，怎么还是阴性 https://t.co/7xklqHDKj7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之/生理心理皆女/lgbtq友好/我割我抽我o/不鉴证/喜欢和妹子互动/某些男的想加我先v520 /我没有🚪觉得我以后会在推上发点什么的不要关注我了/只有绿色健康小清新🍀/没有门不接线上不接线下没有非绿没有半绿没有纯绿/\n防炸@LeeSong14176/\n不喜欢男的、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 118,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2064034397750464763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 490,
+          "like_count": 1084,
+          "listed_count": 0,
+          "media_count": 217,
+          "tweet_count": 2611
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      }
+    ]
+  }
+}

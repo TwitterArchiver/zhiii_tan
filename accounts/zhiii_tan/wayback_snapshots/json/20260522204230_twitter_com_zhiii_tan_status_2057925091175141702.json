@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057741012198735872",
+        "3_2057741012215517184"
+      ],
+      "media_source_tweet_id": [
+        "2057741023271621089",
+        "2057741023271621089"
+      ]
+    },
+    "author_id": "1839085606573637632",
+    "conversation_id": "2057925091175141702",
+    "created_at": "2026-05-22T20:42:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T21:42:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057925091175141702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2053726229984075776",
+          "start": 3,
+          "username": "Kuromi_ooooo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mj2fsymdN3",
+          "end": 71,
+          "expanded_url": "https://x.com/Kuromi_ooooo/status/2057741023271621089/photo/1",
+          "media_key": "3_2057741012198735872",
+          "start": 48,
+          "url": "https://t.co/mj2fsymdN3"
+        },
+        {
+          "display_url": "pic.x.com/mj2fsymdN3",
+          "end": 71,
+          "expanded_url": "https://x.com/Kuromi_ooooo/status/2057741023271621089/photo/1",
+          "media_key": "3_2057741012215517184",
+          "start": 48,
+          "url": "https://t.co/mj2fsymdN3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057925091175141702",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057741023271621089",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kuromi_ooooo: 你们好我是霖，这是第六个账号了，互关寻回，求大家帮忙转转🩷 https://t.co/mj2fsymdN3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1182,
+        "media_key": "3_2057741012198735872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI6QjFfbwAAdre9.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057741012215517184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI6QjFjb0AAAFy1.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057741012198735872",
+            "3_2057741012215517184"
+          ],
+          "media_source_tweet_id": [
+            "2057741023271621089",
+            "2057741023271621089"
+          ]
+        },
+        "author_id": "1839085606573637632",
+        "conversation_id": "2057925091175141702",
+        "created_at": "2026-05-22T20:42:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T21:42:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057925091175141702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2053726229984075776",
+              "start": 3,
+              "username": "Kuromi_ooooo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mj2fsymdN3",
+              "end": 71,
+              "expanded_url": "https://x.com/Kuromi_ooooo/status/2057741023271621089/photo/1",
+              "media_key": "3_2057741012198735872",
+              "start": 48,
+              "url": "https://t.co/mj2fsymdN3"
+            },
+            {
+              "display_url": "pic.x.com/mj2fsymdN3",
+              "end": 71,
+              "expanded_url": "https://x.com/Kuromi_ooooo/status/2057741023271621089/photo/1",
+              "media_key": "3_2057741012215517184",
+              "start": 48,
+              "url": "https://t.co/mj2fsymdN3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057925091175141702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057741023271621089",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kuromi_ooooo: 你们好我是霖，这是第六个账号了，互关寻回，求大家帮忙转转🩷 https://t.co/mj2fsymdN3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057741012198735872",
+            "3_2057741012215517184"
+          ]
+        },
+        "author_id": "2053726229984075776",
+        "conversation_id": "2057741023271621089",
+        "created_at": "2026-05-22T08:31:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T09:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057741023271621089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mj2fsymdN3",
+              "end": 53,
+              "expanded_url": "https://x.com/Kuromi_ooooo/status/2057741023271621089/photo/1",
+              "media_key": "3_2057741012198735872",
+              "start": 30,
+              "url": "https://t.co/mj2fsymdN3"
+            },
+            {
+              "display_url": "pic.x.com/mj2fsymdN3",
+              "end": 53,
+              "expanded_url": "https://x.com/Kuromi_ooooo/status/2057741023271621089/photo/1",
+              "media_key": "3_2057741012215517184",
+              "start": 30,
+              "url": "https://t.co/mj2fsymdN3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057741023271621089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5974,
+          "like_count": 84,
+          "quote_count": 3,
+          "reply_count": 18,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "你们好我是霖，这是第六个账号了，互关寻回，求大家帮忙转转🩷 https://t.co/mj2fsymdN3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之/友跨/泛性恋/我割我抽我o/od持开放态度 不一定碰但是不会反感 不鉴证 喜欢萌妹子 某些男的想加我先v520  我没有🚪觉得我以后会在推上发点什么的不要关注我了还是 只有绿色健康小清新🍀",
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2051940167641149445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 354,
+          "like_count": 606,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 1818
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T06:37:56.000Z",
+        "description": "寻回互关\n我只是想要我的生活過得好一點\n共号：@Melody_0v0_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "Melody_0v0_"
+              }
+            ]
+          }
+        },
+        "id": "2053726229984075776",
+        "location": "你看看你身后",
+        "name": "中2病娇0️⃣",
+        "pinned_tweet_id": "2057741023271621089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057778913133416448/4hjfJxt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 290,
+          "like_count": 323,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 169
+        },
+        "username": "Kuromi_ooooo",
+        "verified": false
+      }
+    ]
+  }
+}

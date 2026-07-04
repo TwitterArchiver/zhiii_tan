@@ -1,0 +1,420 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "conversation_id": "2064619263516963277",
+    "created_at": "2026-06-10T08:02:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T09:02:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064619263516963277"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 92,
+          "start": 89,
+          "tag": "门妹"
+        },
+        {
+          "end": 96,
+          "start": 93,
+          "tag": "成都"
+        },
+        {
+          "end": 100,
+          "start": 97,
+          "tag": "线下"
+        },
+        {
+          "end": 104,
+          "start": 101,
+          "tag": "非绿"
+        },
+        {
+          "end": 108,
+          "start": 105,
+          "tag": "半绿"
+        },
+        {
+          "end": 112,
+          "start": 109,
+          "tag": "纯绿"
+        },
+        {
+          "end": 117,
+          "start": 113,
+          "tag": "妈妈活"
+        },
+        {
+          "end": 122,
+          "start": 118,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 128,
+          "start": 123,
+          "tag": "电子女友"
+        },
+        {
+          "end": 134,
+          "start": 129,
+          "tag": "一日女友"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2000723611276173312",
+          "start": 3,
+          "username": "Bemylover_319"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064619263516963277",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062245010880504146",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bemylover_319: =骨 07/170/50\nIP成都 od/自伤/纹身/穿孔\n家里不给钱 自己租房工作\n脾气很好情绪价值很足\n入门请口令or赞赏码 验证20\n#门妹 #成都 #线下 #非绿 #半绿 #纯绿 #妈妈活 #爸爸活 #电子女友 #一日女友 http…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062244999140712448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ6Q5oWboAAhhE4.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2062244999153238016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ6Q5oZawAAQDE8.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2062244999270645760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ6Q5o1aQAA3rlo.jpg",
+        "width": 1024
+      },
+      {
+        "height": 671,
+        "media_key": "3_2062244999182589953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ6Q5ogaoAEfWwC.jpg",
+        "width": 874
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2064619263516963277",
+        "created_at": "2026-06-10T08:02:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T09:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064619263516963277"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 92,
+              "start": 89,
+              "tag": "门妹"
+            },
+            {
+              "end": 96,
+              "start": 93,
+              "tag": "成都"
+            },
+            {
+              "end": 100,
+              "start": 97,
+              "tag": "线下"
+            },
+            {
+              "end": 104,
+              "start": 101,
+              "tag": "非绿"
+            },
+            {
+              "end": 108,
+              "start": 105,
+              "tag": "半绿"
+            },
+            {
+              "end": 112,
+              "start": 109,
+              "tag": "纯绿"
+            },
+            {
+              "end": 117,
+              "start": 113,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 122,
+              "start": 118,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 128,
+              "start": 123,
+              "tag": "电子女友"
+            },
+            {
+              "end": 134,
+              "start": 129,
+              "tag": "一日女友"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2000723611276173312",
+              "start": 3,
+              "username": "Bemylover_319"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064619263516963277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062245010880504146",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bemylover_319: =骨 07/170/50\nIP成都 od/自伤/纹身/穿孔\n家里不给钱 自己租房工作\n脾气很好情绪价值很足\n入门请口令or赞赏码 验证20\n#门妹 #成都 #线下 #非绿 #半绿 #纯绿 #妈妈活 #爸爸活 #电子女友 #一日女友 http…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062244999140712448",
+            "3_2062244999153238016",
+            "3_2062244999270645760",
+            "3_2062244999182589953"
+          ]
+        },
+        "author_id": "2000723611276173312",
+        "conversation_id": "2062245010880504146",
+        "created_at": "2026-06-03T18:48:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T19:48:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062245010880504146"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 73,
+              "start": 70,
+              "tag": "门妹"
+            },
+            {
+              "end": 77,
+              "start": 74,
+              "tag": "成都"
+            },
+            {
+              "end": 81,
+              "start": 78,
+              "tag": "线下"
+            },
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "非绿"
+            },
+            {
+              "end": 89,
+              "start": 86,
+              "tag": "半绿"
+            },
+            {
+              "end": 93,
+              "start": 90,
+              "tag": "纯绿"
+            },
+            {
+              "end": 98,
+              "start": 94,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 103,
+              "start": 99,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 109,
+              "start": 104,
+              "tag": "电子女友"
+            },
+            {
+              "end": 115,
+              "start": 110,
+              "tag": "一日女友"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cgKekgTNV4",
+              "end": 139,
+              "expanded_url": "https://x.com/Bemylover_319/status/2062245010880504146/photo/1",
+              "media_key": "3_2062244999140712448",
+              "start": 116,
+              "url": "https://t.co/cgKekgTNV4"
+            },
+            {
+              "display_url": "pic.x.com/cgKekgTNV4",
+              "end": 139,
+              "expanded_url": "https://x.com/Bemylover_319/status/2062245010880504146/photo/1",
+              "media_key": "3_2062244999153238016",
+              "start": 116,
+              "url": "https://t.co/cgKekgTNV4"
+            },
+            {
+              "display_url": "pic.x.com/cgKekgTNV4",
+              "end": 139,
+              "expanded_url": "https://x.com/Bemylover_319/status/2062245010880504146/photo/1",
+              "media_key": "3_2062244999270645760",
+              "start": 116,
+              "url": "https://t.co/cgKekgTNV4"
+            },
+            {
+              "display_url": "pic.x.com/cgKekgTNV4",
+              "end": 139,
+              "expanded_url": "https://x.com/Bemylover_319/status/2062245010880504146/photo/1",
+              "media_key": "3_2062244999182589953",
+              "start": 116,
+              "url": "https://t.co/cgKekgTNV4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062245010880504146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6196,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "=骨 07/170/50\nIP成都 od/自伤/纹身/穿孔\n家里不给钱 自己租房工作\n脾气很好情绪价值很足\n入门请口令or赞赏码 验证20\n#门妹 #成都 #线下 #非绿 #半绿 #纯绿 #妈妈活 #爸爸活 #电子女友 #一日女友 https://t.co/cgKekgTNV4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之/生理心理皆女/lgbtq友好/泛性恋/我割我抽我o/od持开放态度 不一定碰但是不会反感 不鉴证 喜欢萌妹子 某些男的想加我先v520  我没有🚪觉得我以后会在推上发点什么的不要关注我了还是 只有绿色健康小清新🍀\n世界上的另一个我@LeeSong14176",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 122,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2064034397750464763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 471,
+          "like_count": 1042,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 2477
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-16T00:25:14.000Z",
+        "description": "=骨 od｜自傷｜雙向｜泛｜swtich\n聽點udg 查成分回fo",
+        "id": "2000723611276173312",
+        "location": "🚪88/188/288/520/1314",
+        "name": "Luvisdrug",
+        "pinned_tweet_id": "2062245010880504146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063337136003129344/weSG7uv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 85,
+          "like_count": 445,
+          "listed_count": 2,
+          "media_count": 30,
+          "tweet_count": 315
+        },
+        "username": "Bemylover_319",
+        "verified": false
+      }
+    ]
+  }
+}

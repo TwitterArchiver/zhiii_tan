@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2064881079924699136"
+      ],
+      "media_source_tweet_id": [
+        "2064881147809616046"
+      ]
+    },
+    "author_id": "1839085606573637632",
+    "conversation_id": "2065399500643156087",
+    "created_at": "2026-06-12T11:43:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T12:43:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065399500643156087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1769963415554990080",
+          "start": 3,
+          "username": "daehoist"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/i83CpMzKhI",
+          "end": 118,
+          "expanded_url": "https://x.com/daehoist/status/2064881147809616046/video/1",
+          "media_key": "13_2064881079924699136",
+          "start": 95,
+          "url": "https://t.co/i83CpMzKhI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065399500643156087",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 134
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064881147809616046",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @daehoist: maknae and hyung duo but it’s dae holding seunghyun back from causing more chaos https://t.co/i83CpMzKhI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12616,
+        "height": 720,
+        "media_key": "13_2064881079924699136",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2064881079924699136/img/Zfhypbm1LamQjgCI.jpg",
+        "public_metrics": {
+          "view_count": 5791
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064881079924699136/vid/avc1/360x270/QxocB15B9aH_XReR.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064881079924699136/vid/avc1/480x360/mcx2yvEdnpRG8peR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064881079924699136/vid/avc1/960x720/5VqFCP7JwgrDTUGd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2064881079924699136/pl/axhrr2JwLlEF_SEC.m3u8?v=cfc"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064881079924699136"
+          ],
+          "media_source_tweet_id": [
+            "2064881147809616046"
+          ]
+        },
+        "author_id": "1839085606573637632",
+        "conversation_id": "2065399500643156087",
+        "created_at": "2026-06-12T11:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T12:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065399500643156087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1769963415554990080",
+              "start": 3,
+              "username": "daehoist"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i83CpMzKhI",
+              "end": 118,
+              "expanded_url": "https://x.com/daehoist/status/2064881147809616046/video/1",
+              "media_key": "13_2064881079924699136",
+              "start": 95,
+              "url": "https://t.co/i83CpMzKhI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065399500643156087",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 134
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064881147809616046",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @daehoist: maknae and hyung duo but it’s dae holding seunghyun back from causing more chaos https://t.co/i83CpMzKhI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064881079924699136"
+          ]
+        },
+        "author_id": "1769963415554990080",
+        "conversation_id": "2064881147809616046",
+        "created_at": "2026-06-11T01:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T02:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064881147809616046"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i83CpMzKhI",
+              "end": 104,
+              "expanded_url": "https://x.com/daehoist/status/2064881147809616046/video/1",
+              "media_key": "13_2064881079924699136",
+              "start": 81,
+              "url": "https://t.co/i83CpMzKhI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064881147809616046",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 129,
+          "impression_count": 12616,
+          "like_count": 977,
+          "quote_count": 5,
+          "reply_count": 3,
+          "retweet_count": 134
+        },
+        "reply_settings": "everyone",
+        "text": "maknae and hyung duo but it’s dae holding seunghyun back from causing more chaos https://t.co/i83CpMzKhI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之丨生理心理皆女丨lgbtq友好丨我割我抽我o丨不鉴证丨喜欢互动 丨我没有🚪觉得我以后会在推上发点什么的不要关注我了丨只有绿色健康小清新🍀丨没有门不接线上不接线下没有非绿没有半绿没有纯绿丨\n防炸@LeeSong14176丨互fo直关丨没回fo私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 102,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2065050387967840395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 480,
+          "like_count": 1133,
+          "listed_count": 0,
+          "media_count": 225,
+          "tweet_count": 2723
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-19T05:46:10.000Z",
+        "description": "todae and keesoul’s #1 fan",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "daehoist.carrd.co",
+                "end": 23,
+                "expanded_url": "https://daehoist.carrd.co",
+                "start": 0,
+                "url": "https://t.co/kWZz1wjp8l"
+              }
+            ]
+          }
+        },
+        "id": "1769963415554990080",
+        "name": "🍔",
+        "pinned_tweet_id": "2063433116459380943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062469654891671552/PqDfsPjY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2131,
+          "following_count": 659,
+          "like_count": 10981,
+          "listed_count": 9,
+          "media_count": 1767,
+          "tweet_count": 8969
+        },
+        "url": "https://t.co/kWZz1wjp8l",
+        "username": "daehoist",
+        "verified": false
+      }
+    ]
+  }
+}

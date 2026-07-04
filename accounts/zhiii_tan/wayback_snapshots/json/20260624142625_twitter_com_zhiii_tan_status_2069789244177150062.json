@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069437081336864770",
+        "3_2069437081110335488"
+      ],
+      "media_source_tweet_id": [
+        "2069437083840852301",
+        "2069437083840852301"
+      ]
+    },
+    "author_id": "1839085606573637632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2069789244177150062",
+    "created_at": "2026-06-24T14:26:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T15:26:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069789244177150062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2020730580942606336",
+          "start": 3,
+          "username": "z1asko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wuU43FL5y5",
+          "end": 80,
+          "expanded_url": "https://x.com/z1asko/status/2069437083840852301/photo/1",
+          "media_key": "3_2069437081336864770",
+          "start": 57,
+          "url": "https://t.co/wuU43FL5y5"
+        },
+        {
+          "display_url": "pic.x.com/wuU43FL5y5",
+          "end": 80,
+          "expanded_url": "https://x.com/z1asko/status/2069437083840852301/photo/1",
+          "media_key": "3_2069437081110335488",
+          "start": 57,
+          "url": "https://t.co/wuU43FL5y5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069789244177150062",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069437083840852301",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @z1asko: HolleHolle你好你好 我是OT夏树 我的两个号都没了 现在只想寻回我爱的互fo们 https://t.co/wuU43FL5y5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1129,
+        "media_key": "3_2069437081336864770",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLgeD6Ya4AIpwwe.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1153,
+        "media_key": "3_2069437081110335488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLgeD5iaUAA14yl.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069437081336864770",
+            "3_2069437081110335488"
+          ],
+          "media_source_tweet_id": [
+            "2069437083840852301",
+            "2069437083840852301"
+          ]
+        },
+        "author_id": "1839085606573637632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069789244177150062",
+        "created_at": "2026-06-24T14:26:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T15:26:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069789244177150062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2020730580942606336",
+              "start": 3,
+              "username": "z1asko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wuU43FL5y5",
+              "end": 80,
+              "expanded_url": "https://x.com/z1asko/status/2069437083840852301/photo/1",
+              "media_key": "3_2069437081336864770",
+              "start": 57,
+              "url": "https://t.co/wuU43FL5y5"
+            },
+            {
+              "display_url": "pic.x.com/wuU43FL5y5",
+              "end": 80,
+              "expanded_url": "https://x.com/z1asko/status/2069437083840852301/photo/1",
+              "media_key": "3_2069437081110335488",
+              "start": 57,
+              "url": "https://t.co/wuU43FL5y5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069789244177150062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069437083840852301",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @z1asko: HolleHolle你好你好 我是OT夏树 我的两个号都没了 现在只想寻回我爱的互fo们 https://t.co/wuU43FL5y5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069437081336864770",
+            "3_2069437081110335488"
+          ]
+        },
+        "author_id": "2020730580942606336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069437083840852301",
+        "created_at": "2026-06-23T15:07:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T16:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069437083840852301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wuU43FL5y5",
+              "end": 68,
+              "expanded_url": "https://x.com/z1asko/status/2069437083840852301/photo/1",
+              "media_key": "3_2069437081336864770",
+              "start": 45,
+              "url": "https://t.co/wuU43FL5y5"
+            },
+            {
+              "display_url": "pic.x.com/wuU43FL5y5",
+              "end": 68,
+              "expanded_url": "https://x.com/z1asko/status/2069437083840852301/photo/1",
+              "media_key": "3_2069437081110335488",
+              "start": 45,
+              "url": "https://t.co/wuU43FL5y5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069437083840852301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 966,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "HolleHolle你好你好 我是OT夏树 我的两个号都没了 现在只想寻回我爱的互fo们 https://t.co/wuU43FL5y5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之丨生理心理皆女丨lgbtq友好丨我割我抽我o丨不鉴证丨喜欢互动 丨我没有🚪觉得我以后会在推上发点什么的不要关注我了丨只有绿色健康小清新🍀丨没有门不接线上不接线下没有非绿没有半绿没有纯绿丨\n防炸@LeeSong14176丨互fo直关丨没回fo私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 102,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2065050387967840395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 570,
+          "like_count": 1273,
+          "listed_count": 0,
+          "media_count": 302,
+          "tweet_count": 3257
+        },
+        "url": "",
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-09T05:25:17.000Z",
+        "description": "我是@otxiashu的女儿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "otxiashu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/U9N5XcYYO9"
+              }
+            ]
+          }
+        },
+        "id": "2020730580942606336",
+        "name": "OT夏树（转生版）",
+        "pinned_tweet_id": "2069437083840852301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069493709620797440/Iv8A4UIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 29,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 24
+        },
+        "url": "https://t.co/U9N5XcYYO9",
+        "username": "z1asko",
+        "verified": false
+      }
+    ]
+  }
+}

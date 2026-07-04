@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064658446369325056"
+      ]
+    },
+    "author_id": "1839085606573637632",
+    "conversation_id": "2064294410150625771",
+    "created_at": "2026-06-10T10:38:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T11:38:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064658454548242626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1760994638478118912",
+          "start": 0,
+          "username": "3timesdie333"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zMjAHo5GI3",
+          "end": 48,
+          "expanded_url": "https://x.com/zhiii_tan/status/2064658454548242626/photo/1",
+          "media_key": "3_2064658446369325056",
+          "start": 25,
+          "url": "https://t.co/zMjAHo5GI3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064658454548242626",
+    "in_reply_to_user_id": "1760994638478118912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064657515376521542",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3timesdie333 很好看！像画一样美丽 https://t.co/zMjAHo5GI3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064658446369325056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcj6v5agAA7h1X.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2064657503238123520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcjD2dacAAJSuL.jpg",
+        "width": 1542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064658446369325056"
+          ]
+        },
+        "author_id": "1839085606573637632",
+        "conversation_id": "2064294410150625771",
+        "created_at": "2026-06-10T10:38:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T11:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064658454548242626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1760994638478118912",
+              "start": 0,
+              "username": "3timesdie333"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zMjAHo5GI3",
+              "end": 48,
+              "expanded_url": "https://x.com/zhiii_tan/status/2064658454548242626/photo/1",
+              "media_key": "3_2064658446369325056",
+              "start": 25,
+              "url": "https://t.co/zMjAHo5GI3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064658454548242626",
+        "in_reply_to_user_id": "1760994638478118912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064657515376521542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3timesdie333 很好看！像画一样美丽 https://t.co/zMjAHo5GI3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064657503238123520"
+          ]
+        },
+        "author_id": "1760994638478118912",
+        "conversation_id": "2064294410150625771",
+        "created_at": "2026-06-10T10:34:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T11:34:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064657515376521542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1839085606573637632",
+              "start": 0,
+              "username": "zhiii_tan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kw42ZKPXNV",
+              "end": 34,
+              "expanded_url": "https://x.com/3timesdie333/status/2064657515376521542/photo/1",
+              "media_key": "3_2064657503238123520",
+              "start": 11,
+              "url": "https://t.co/Kw42ZKPXNV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064657515376521542",
+        "in_reply_to_user_id": "1839085606573637632",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064294410150625771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhiii_tan https://t.co/Kw42ZKPXNV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之/生理心理皆女/lgbtq友好/泛性恋/我割我抽我o/od持开放态度 不一定碰但是不会反感 不鉴证 喜欢萌妹子 某些男的想加我先v520  我没有🚪觉得我以后会在推上发点什么的不要关注我了还是 只有绿色健康小清新🍀\n世界上的另一个我@LeeSong14176",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 122,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2064034397750464763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 478,
+          "like_count": 1046,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 2501
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T11:47:00.000Z",
+        "description": "Don't leave me on my own，\nI'm difficult I know，\nBut I really need a chance to be someone，\nSomeone I've never known\n性别男",
+        "id": "1760994638478118912",
+        "location": "距离冰岛 9999 千米的小众岛",
+        "name": "kkkbzydizzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032695415985025026/MxZ8Z_TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 1017,
+          "like_count": 32580,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 5342
+        },
+        "username": "3timesdie333",
+        "verified": false
+      }
+    ]
+  }
+}

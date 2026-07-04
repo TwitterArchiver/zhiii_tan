@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "conversation_id": "2064267365433626731",
+    "created_at": "2026-06-09T08:44:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T09:44:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064267365433626731"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Yukii0u0/statu…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/Yukii0u0/status/2064264151032311855",
+          "start": 27,
+          "url": "https://t.co/PLR1olaFAG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064267365433626731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064264151032311855",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "来fofo这个美萌的小宝宝ᔦ ° ꒳ ° ᔨ ̖́- https://t.co/PLR1olaFAG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064264141091770368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKW9TKRaEAAwmma.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2064264142433959936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKW9TPRaQAASUjl.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2064267365433626731",
+        "created_at": "2026-06-09T08:44:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T09:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064267365433626731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Yukii0u0/statu…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/Yukii0u0/status/2064264151032311855",
+              "start": 27,
+              "url": "https://t.co/PLR1olaFAG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064267365433626731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064264151032311855",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "来fofo这个美萌的小宝宝ᔦ ° ꒳ ° ᔨ ̖́- https://t.co/PLR1olaFAG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064264141091770368",
+            "3_2064264142433959936"
+          ]
+        },
+        "author_id": "1859275050903543808",
+        "conversation_id": "2064264151032311855",
+        "created_at": "2026-06-09T08:31:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T09:31:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064264151032311855"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ykYH4ENtSL",
+              "end": 95,
+              "expanded_url": "https://x.com/Yukii0u0/status/2064264151032311855/photo/1",
+              "media_key": "3_2064264141091770368",
+              "start": 72,
+              "url": "https://t.co/ykYH4ENtSL"
+            },
+            {
+              "display_url": "pic.x.com/ykYH4ENtSL",
+              "end": 95,
+              "expanded_url": "https://x.com/Yukii0u0/status/2064264151032311855/photo/1",
+              "media_key": "3_2064264142433959936",
+              "start": 72,
+              "url": "https://t.co/ykYH4ENtSL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064264151032311855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "=yuki/养猫 只互女生\n基本无雷 查成分的话二次属性现在很低 \n直fo会回 想和可爱的女孩交朋友ᖰo̴̶̷᷄ ·̫ o̴̶̷̥᷅ᖳ扩列欢迎 https://t.co/ykYH4ENtSL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之/生理心理皆女/lgbtq友好/泛性恋/我割我抽我o/od持开放态度 不一定碰但是不会反感 不鉴证 喜欢萌妹子 某些男的想加我先v520  我没有🚪觉得我以后会在推上发点什么的不要关注我了还是 只有绿色健康小清新🍀\n世界上的另一个我@LeeSong14176",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 122,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2064034397750464763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 457,
+          "like_count": 1034,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 2413
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-20T16:38:19.000Z",
+        "description": "直fo会回",
+        "id": "1859275050903543808",
+        "name": "もち",
+        "pinned_tweet_id": "2064264151032311855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006019592930684928/zzorMBdM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 63,
+          "like_count": 418,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 7
+        },
+        "username": "Yukii0u0",
+        "verified": false
+      }
+    ]
+  }
+}

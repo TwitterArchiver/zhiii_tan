@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2062935108777308160"
+      ]
+    },
+    "author_id": "1839085606573637632",
+    "conversation_id": "2062935209704927514",
+    "created_at": "2026-06-05T16:30:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T17:30:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062935209704927514"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RWSud81ExR",
+          "end": 34,
+          "expanded_url": "https://x.com/zhiii_tan/status/2062935209704927514/video/1",
+          "media_key": "7_2062935108777308160",
+          "start": 11,
+          "url": "https://t.co/RWSud81ExR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062935209704927514",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们可以猜我多少斤了 https://t.co/RWSud81ExR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14349,
+        "height": 1280,
+        "media_key": "7_2062935108777308160",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2062935108777308160/pu/img/Eh0g_xPp7dNzPhUX.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062935108777308160/pu/vid/avc1/320x568/4VmbjnDHPO4ei_zI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062935108777308160/pu/vid/avc1/480x852/oqLM4kY2_ScJrsTU.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062935108777308160/pu/vid/avc1/720x1280/LNzyU-OXbULYap7j.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2062935108777308160/pu/pl/Hh50qbkZ2KebVXa_.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2062935108777308160"
+          ]
+        },
+        "author_id": "1839085606573637632",
+        "conversation_id": "2062935209704927514",
+        "created_at": "2026-06-05T16:30:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T17:30:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062935209704927514"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RWSud81ExR",
+              "end": 34,
+              "expanded_url": "https://x.com/zhiii_tan/status/2062935209704927514/video/1",
+              "media_key": "7_2062935108777308160",
+              "start": 11,
+              "url": "https://t.co/RWSud81ExR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062935209704927514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们可以猜我多少斤了 https://t.co/RWSud81ExR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之/友跨/泛性恋/我割我抽我o/od持开放态度 不一定碰但是不会反感 不鉴证 喜欢萌妹子 某些男的想加我先v520  我没有🚪觉得我以后会在推上发点什么的不要关注我了还是 只有绿色健康小清新🍀",
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2051940167641149445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 391,
+          "like_count": 837,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 2143
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      }
+    ]
+  }
+}

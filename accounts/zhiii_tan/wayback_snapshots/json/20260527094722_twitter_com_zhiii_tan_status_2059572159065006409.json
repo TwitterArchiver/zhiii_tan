@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059572155151683584"
+      ]
+    },
+    "author_id": "1839085606573637632",
+    "conversation_id": "2059572159065006409",
+    "created_at": "2026-05-27T09:47:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T10:47:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059572159065006409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1951181920022437889",
+          "start": 3,
+          "username": "blackdoginmyhed"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KmBzmAKjgY",
+          "end": 43,
+          "expanded_url": "https://x.com/zhiii_tan/status/2059572159065006409/photo/1",
+          "media_key": "3_2059572155151683584",
+          "start": 20,
+          "url": "https://t.co/KmBzmAKjgY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059572159065006409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "爱来自@blackdoginmyhed https://t.co/KmBzmAKjgY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059572155151683584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJUR9okaEAAkgmd.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059572155151683584"
+          ]
+        },
+        "author_id": "1839085606573637632",
+        "conversation_id": "2059572159065006409",
+        "created_at": "2026-05-27T09:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T10:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059572159065006409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1951181920022437889",
+              "start": 3,
+              "username": "blackdoginmyhed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KmBzmAKjgY",
+              "end": 43,
+              "expanded_url": "https://x.com/zhiii_tan/status/2059572159065006409/photo/1",
+              "media_key": "3_2059572155151683584",
+              "start": 20,
+              "url": "https://t.co/KmBzmAKjgY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059572159065006409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爱来自@blackdoginmyhed https://t.co/KmBzmAKjgY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之/友跨/泛性恋/我割我抽我o/od持开放态度 不一定碰但是不会反感 不鉴证 喜欢萌妹子 某些男的想加我先v520  我没有🚪觉得我以后会在推上发点什么的不要关注我了还是 只有绿色健康小清新🍀",
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2051940167641149445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 368,
+          "like_count": 690,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 1935
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级黑肺佬烟鬼传统革新都抽/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评/没回fo私聊喊我\n没钱抽烟了赚点钱买烟!电子🚬常见一次性冰爆鸭嘴兽小黑条70r一件以上包邮还有悦子杆蛋啥乱七八糟的都有! 悦刻注油空蛋9r一个 🚬均俄产 万宝路查普曼寿百年系列还有卡比龙!包正!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 523,
+          "like_count": 3362,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 976
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      }
+    ]
+  }
+}

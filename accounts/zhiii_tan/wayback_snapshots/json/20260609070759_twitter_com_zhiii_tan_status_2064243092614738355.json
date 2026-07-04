@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "conversation_id": "2064243092614738355",
+    "created_at": "2026-06-09T07:07:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T08:07:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064243092614738355"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xxuan_sama/sta…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/xxuan_sama/status/2064238298609197417",
+          "start": 14,
+          "url": "https://t.co/1OwPHIXldG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064243092614738355",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064238298609197417",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "来支持一下好不好呀🤲🏻🥺🥺 https://t.co/1OwPHIXldG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2064238292871057408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKWlymJWkAAvFZ1.jpg",
+        "width": 1080
+      },
+      {
+        "height": 438,
+        "media_key": "3_2064238293689012224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKWlypMXkAAvn4o.jpg",
+        "width": 1060
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2064238294121025536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKWlyqzXkAAUSEJ.jpg",
+        "width": 878
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2064243092614738355",
+        "created_at": "2026-06-09T07:07:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T08:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064243092614738355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xxuan_sama/sta…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/xxuan_sama/status/2064238298609197417",
+              "start": 14,
+              "url": "https://t.co/1OwPHIXldG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064243092614738355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064238298609197417",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "来支持一下好不好呀🤲🏻🥺🥺 https://t.co/1OwPHIXldG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064238292871057408",
+            "3_2064238293689012224",
+            "3_2064238294121025536"
+          ]
+        },
+        "author_id": "2048770227417251840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2064238298609197417",
+        "created_at": "2026-06-09T06:48:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T07:48:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064238298609197417"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 95,
+              "start": 93,
+              "tag": "烟"
+            },
+            {
+              "end": 100,
+              "start": 96,
+              "tag": "电子烟"
+            },
+            {
+              "end": 105,
+              "start": 101,
+              "tag": "雾化器"
+            },
+            {
+              "end": 110,
+              "start": 106,
+              "tag": "自注油"
+            },
+            {
+              "end": 114,
+              "start": 111,
+              "tag": "烟油"
+            },
+            {
+              "end": 119,
+              "start": 115,
+              "tag": "尼古丁"
+            },
+            {
+              "end": 123,
+              "start": 120,
+              "tag": "烟盐"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t1blIyDkq6",
+              "end": 147,
+              "expanded_url": "https://x.com/xxuan_sama/status/2064238298609197417/photo/1",
+              "media_key": "3_2064238292871057408",
+              "start": 124,
+              "url": "https://t.co/t1blIyDkq6"
+            },
+            {
+              "display_url": "pic.x.com/t1blIyDkq6",
+              "end": 147,
+              "expanded_url": "https://x.com/xxuan_sama/status/2064238298609197417/photo/1",
+              "media_key": "3_2064238293689012224",
+              "start": 124,
+              "url": "https://t.co/t1blIyDkq6"
+            },
+            {
+              "display_url": "pic.x.com/t1blIyDkq6",
+              "end": 147,
+              "expanded_url": "https://x.com/xxuan_sama/status/2064238298609197417/photo/1",
+              "media_key": "3_2064238294121025536",
+              "start": 124,
+              "url": "https://t.co/t1blIyDkq6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064238298609197417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "钱快花完了 搞点自注油卖卖\n 油一瓶是30ml  99r\n两种设备图一128 r\n图二158 r\n图一换芯是70一盒5颗 一颗3-5仓油\n图二换仓20一颗 能抽大半瓶 \n邮8 不包偏远\n＃烟 ＃电子烟 ＃雾化器 ＃自注油 ＃烟油 ＃尼古丁 ＃烟盐 https://t.co/t1blIyDkq6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之/生理心理皆女/lgbtq友好/泛性恋/我割我抽我o/od持开放态度 不一定碰但是不会反感 不鉴证 喜欢萌妹子 某些男的想加我先v520  我没有🚪觉得我以后会在推上发点什么的不要关注我了还是 只有绿色健康小清新🍀\n世界上的另一个我@LeeSong14176",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 122,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2064034397750464763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 452,
+          "like_count": 1028,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 2409
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-27T14:24:44.000Z",
+        "description": "05/♂/18↑\n\n双相情感障碍\n\n泛性恋/双\n\nvrc/耐电/oder\n\n抑郁/焦虑/二次元/coser/漫展摊主/vtuber/stf\n\n喜欢互动！（也可能去骚扰您就是了）",
+        "id": "2048770227417251840",
+        "location": "终焉之地",
+        "name": "i 玄",
+        "pinned_tweet_id": "2064238298609197417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048770473887203328/km3gSfoS_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 102,
+          "like_count": 288,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 269
+        },
+        "username": "xxuan_sama",
+        "verified": false
+      }
+    ]
+  }
+}

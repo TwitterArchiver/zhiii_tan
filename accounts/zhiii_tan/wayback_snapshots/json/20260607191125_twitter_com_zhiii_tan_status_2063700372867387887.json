@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "conversation_id": "2063690270496182346",
+    "created_at": "2026-06-07T19:11:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T20:11:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063700372867387887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2009492855262466051",
+          "start": 0,
+          "username": "BeckfordBl61271"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063700372867387887",
+    "in_reply_to_user_id": "2009492855262466051",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063690270496182346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BeckfordBl61271 蹲蹲！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 446,
+        "media_key": "3_2063689711080882176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKOy27uawAATK4r.jpg",
+        "width": 794
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2063690270496182346",
+        "created_at": "2026-06-07T19:11:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T20:11:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063700372867387887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2009492855262466051",
+              "start": 0,
+              "username": "BeckfordBl61271"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063700372867387887",
+        "in_reply_to_user_id": "2009492855262466051",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063690270496182346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BeckfordBl61271 蹲蹲！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063689711080882176"
+          ]
+        },
+        "author_id": "2009492855262466051",
+        "conversation_id": "2063690270496182346",
+        "created_at": "2026-06-07T18:31:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T19:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063690270496182346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Oft4pXiImX",
+              "end": 177,
+              "expanded_url": "https://x.com/BeckfordBl61271/status/2063690270496182346/photo/1",
+              "media_key": "3_2063689711080882176",
+              "start": 154,
+              "url": "https://t.co/Oft4pXiImX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063690270496182346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这么快就100fo了\n照例抽个奖\n\n一等奖一人：本店内产品任选其二免费赠送包邮（霜尘，🌵，喣）\n\n二等奖二人：霜尘1t或霜尘买1送1（仅限购买3t）\n\n三等奖三人：霜尘1t不包邮，可累计（满3颗发货包邮）\n\n另外推出好友引力计划：介绍一名新客户下单送1t霜尘，（满3颗发货）\n还是评论区抽奖！！！一定要评论 https://t.co/Oft4pXiImX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之/友跨/泛性恋/我割我抽我o/od持开放态度 不一定碰但是不会反感 不鉴证 喜欢萌妹子 某些男的想加我先v520  我没有🚪觉得我以后会在推上发点什么的不要关注我了还是 只有绿色健康小清新🍀\n世界上的另一个我@LeeSong14176",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 110,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2051940167641149445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 397,
+          "like_count": 957,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 2256
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T05:10:19.000Z",
+        "description": "狸花：耐药王加耐杀王\n联系我加我tg@LIhua1314\n有神秘tg小商店\nhttps://t.co/roRO2PEvJ4\n性别就是猫，原来的两个号彻底死了这是三号机，不敢发有关于💊的东西了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 61,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 38,
+                "url": "https://t.co/roRO2PEvJ4"
+              }
+            ]
+          }
+        },
+        "id": "2009492855262466051",
+        "name": "猫三号机(我错了别再封了)",
+        "pinned_tweet_id": "2063690270496182346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059089775110635520/xC601_r-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 73,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 89
+        },
+        "username": "BeckfordBl61271",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,445 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2063885845405265920"
+      ],
+      "media_source_tweet_id": [
+        "2063885924065267958"
+      ]
+    },
+    "author_id": "1839085606573637632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      }
+    ],
+    "conversation_id": "2064188770694594893",
+    "created_at": "2026-06-09T03:32:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T04:32:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064188770694594893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2032129563900456960",
+          "start": 3,
+          "username": "gtopsyndrome"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ijHGYQaM3N",
+          "end": 88,
+          "expanded_url": "https://x.com/gtopsyndrome/status/2063885924065267958/video/1",
+          "media_key": "13_2063885845405265920",
+          "start": 65,
+          "url": "https://t.co/ijHGYQaM3N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064188770694594893",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 74
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063885924065267958",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gtopsyndrome: nobody in kpop does it like GD&amp;TOP anymore https://t.co/ijHGYQaM3N"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 71366,
+        "height": 660,
+        "media_key": "13_2063885845405265920",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063885845405265920/img/yJrpIh0ZmdBZMZuJ.jpg",
+        "public_metrics": {
+          "view_count": 2896
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063885845405265920/vid/avc1/294x270/8LYYEHp9dD99nJYg.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063885845405265920/vid/avc1/392x360/yAXHchFrtIXtOInK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063885845405265920/vid/avc1/720x660/638V3afcUcrM0PdM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063885845405265920/pl/U63SFWMt8rBE0kcs.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063885845405265920"
+          ],
+          "media_source_tweet_id": [
+            "2063885924065267958"
+          ]
+        },
+        "author_id": "1839085606573637632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          }
+        ],
+        "conversation_id": "2064188770694594893",
+        "created_at": "2026-06-09T03:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T04:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064188770694594893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2032129563900456960",
+              "start": 3,
+              "username": "gtopsyndrome"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ijHGYQaM3N",
+              "end": 88,
+              "expanded_url": "https://x.com/gtopsyndrome/status/2063885924065267958/video/1",
+              "media_key": "13_2063885845405265920",
+              "start": 65,
+              "url": "https://t.co/ijHGYQaM3N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064188770694594893",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 74
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063885924065267958",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gtopsyndrome: nobody in kpop does it like GD&amp;TOP anymore https://t.co/ijHGYQaM3N"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063885845405265920"
+          ]
+        },
+        "author_id": "2032129563900456960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          }
+        ],
+        "conversation_id": "2063885924065267958",
+        "created_at": "2026-06-08T07:28:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T08:28:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063885924065267958"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ijHGYQaM3N",
+              "end": 70,
+              "expanded_url": "https://x.com/gtopsyndrome/status/2063885924065267958/video/1",
+              "media_key": "13_2063885845405265920",
+              "start": 47,
+              "url": "https://t.co/ijHGYQaM3N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063885924065267958",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 5453,
+          "like_count": 478,
+          "quote_count": 4,
+          "reply_count": 1,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "nobody in kpop does it like GD&amp;TOP anymore https://t.co/ijHGYQaM3N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之/生理心理皆女/lgbtq友好/泛性恋/我割我抽我o/od持开放态度 不一定碰但是不会反感 不鉴证 喜欢萌妹子 某些男的想加我先v520  我没有🚪觉得我以后会在推上发点什么的不要关注我了还是 只有绿色健康小清新🍀\n世界上的另一个我@LeeSong14176",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 122,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2064034397750464763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 447,
+          "like_count": 1017,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 2387
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T16:21:07.000Z",
+        "description": "",
+        "id": "2032129563900456960",
+        "location": "he/they ot4 ",
+        "name": "🏳️‍🌈",
+        "pinned_tweet_id": "2048344672347488604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061031629137612807/slHIS8ys_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 335,
+          "like_count": 5553,
+          "listed_count": 1,
+          "media_count": 820,
+          "tweet_count": 4166
+        },
+        "username": "gtopsyndrome",
+        "verified": false
+      }
+    ]
+  }
+}

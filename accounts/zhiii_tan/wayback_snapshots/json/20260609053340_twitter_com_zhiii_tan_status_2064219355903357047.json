@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059748089624465409"
+      ],
+      "media_source_tweet_id": [
+        "2059748091952341245"
+      ]
+    },
+    "author_id": "1839085606573637632",
+    "conversation_id": "2064219355903357047",
+    "created_at": "2026-06-09T05:33:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T06:33:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064219355903357047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1910629733785870336",
+          "start": 3,
+          "username": "ji_chu25601"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7wLX1nLJID",
+          "end": 78,
+          "expanded_url": "https://x.com/ji_chu25601/status/2059748091952341245/photo/1",
+          "media_key": "3_2059748089624465409",
+          "start": 55,
+          "url": "https://t.co/7wLX1nLJID"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064219355903357047",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059748091952341245",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ji_chu25601: 最近被断生活费了呀完全找不到黑厂一是我没满岁数二就是我手臂上有伤求打赏喵😭 https://t.co/7wLX1nLJID"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1229,
+        "media_key": "3_2059748089624465409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJWx-XjbEAESRgi.jpg",
+        "width": 1229
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059748089624465409"
+          ],
+          "media_source_tweet_id": [
+            "2059748091952341245"
+          ]
+        },
+        "author_id": "1839085606573637632",
+        "conversation_id": "2064219355903357047",
+        "created_at": "2026-06-09T05:33:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T06:33:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064219355903357047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1910629733785870336",
+              "start": 3,
+              "username": "ji_chu25601"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7wLX1nLJID",
+              "end": 78,
+              "expanded_url": "https://x.com/ji_chu25601/status/2059748091952341245/photo/1",
+              "media_key": "3_2059748089624465409",
+              "start": 55,
+              "url": "https://t.co/7wLX1nLJID"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064219355903357047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059748091952341245",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ji_chu25601: 最近被断生活费了呀完全找不到黑厂一是我没满岁数二就是我手臂上有伤求打赏喵😭 https://t.co/7wLX1nLJID"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059748089624465409"
+          ]
+        },
+        "author_id": "1910629733785870336",
+        "conversation_id": "2059748091952341245",
+        "created_at": "2026-05-27T21:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T22:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059748091952341245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7wLX1nLJID",
+              "end": 61,
+              "expanded_url": "https://x.com/ji_chu25601/status/2059748091952341245/photo/1",
+              "media_key": "3_2059748089624465409",
+              "start": 38,
+              "url": "https://t.co/7wLX1nLJID"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059748091952341245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2018,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "最近被断生活费了呀完全找不到黑厂一是我没满岁数二就是我手臂上有伤求打赏喵😭 https://t.co/7wLX1nLJID"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之/生理心理皆女/lgbtq友好/泛性恋/我割我抽我o/od持开放态度 不一定碰但是不会反感 不鉴证 喜欢萌妹子 某些男的想加我先v520  我没有🚪觉得我以后会在推上发点什么的不要关注我了还是 只有绿色健康小清新🍀\n世界上的另一个我@LeeSong14176",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 122,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2064034397750464763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 450,
+          "like_count": 1020,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 2394
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "命苦的有懵逼(欢迎互fo有点卡成分())",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2059748091952341245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 89,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 359
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      }
+    ]
+  }
+}
