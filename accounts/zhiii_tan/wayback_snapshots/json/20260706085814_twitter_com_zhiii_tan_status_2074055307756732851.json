@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073668916782702592"
+      ],
+      "media_source_tweet_id": [
+        "2073668918884147506"
+      ]
+    },
+    "author_id": "1839085606573637632",
+    "conversation_id": "2074055307756732851",
+    "created_at": "2026-07-06T08:58:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T09:58:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074055307756732851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2073420644109504513",
+          "start": 3,
+          "username": "IYDKMIGTHTKY23"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OQKBvQaBjv",
+          "end": 80,
+          "expanded_url": "https://x.com/IYDKMIGTHTKY23/status/2073668918884147506/photo/1",
+          "media_key": "3_2073668916782702592",
+          "start": 57,
+          "url": "https://t.co/OQKBvQaBjv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074055307756732851",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073668918884147506",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IYDKMIGTHTKY23: ㊗️馬斯克拉屎拉到脫肛\n不知道被炸幾次了，又要從頭開始\nRAP我的前世們 https://t.co/OQKBvQaBjv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 337,
+        "media_key": "3_2073668916782702592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMcm5J6aIAAWWKE.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073668916782702592"
+          ],
+          "media_source_tweet_id": [
+            "2073668918884147506"
+          ]
+        },
+        "author_id": "1839085606573637632",
+        "conversation_id": "2074055307756732851",
+        "created_at": "2026-07-06T08:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T09:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074055307756732851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2073420644109504513",
+              "start": 3,
+              "username": "IYDKMIGTHTKY23"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OQKBvQaBjv",
+              "end": 80,
+              "expanded_url": "https://x.com/IYDKMIGTHTKY23/status/2073668918884147506/photo/1",
+              "media_key": "3_2073668916782702592",
+              "start": 57,
+              "url": "https://t.co/OQKBvQaBjv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074055307756732851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073668918884147506",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IYDKMIGTHTKY23: ㊗️馬斯克拉屎拉到脫肛\n不知道被炸幾次了，又要從頭開始\nRAP我的前世們 https://t.co/OQKBvQaBjv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073668916782702592"
+          ]
+        },
+        "author_id": "2073420644109504513",
+        "conversation_id": "2073668918884147506",
+        "created_at": "2026-07-05T07:22:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T08:22:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073668918884147506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OQKBvQaBjv",
+              "end": 60,
+              "expanded_url": "https://x.com/IYDKMIGTHTKY23/status/2073668918884147506/photo/1",
+              "media_key": "3_2073668916782702592",
+              "start": 37,
+              "url": "https://t.co/OQKBvQaBjv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073668918884147506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 899,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "㊗️馬斯克拉屎拉到脫肛\n不知道被炸幾次了，又要從頭開始\nRAP我的前世們 https://t.co/OQKBvQaBjv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之丨生理心理皆女丨lgbtq友好丨我割我抽我o丨不鉴证丨喜欢互动 丨我没有🚪觉得我以后会在推上发点什么的不要关注我了丨只有绿色健康小清新🍀丨没有门不接线上不接线下没有非绿没有半绿没有纯绿丨\n防炸@LeeSong14176丨互fo直关丨没回fo私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 102,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2065050387967840395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 629,
+          "like_count": 1416,
+          "listed_count": 0,
+          "media_count": 332,
+          "tweet_count": 3495
+        },
+        "url": "",
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-04T15:10:17.000Z",
+        "description": "我是歐姆，馬斯克又把我炸了，幫忙點點轉發尋回失散的互關感激不盡\n線下約麻煩私這個帳➡️ @omo20060903",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "omo20060903"
+              }
+            ]
+          }
+        },
+        "id": "2073420644109504513",
+        "name": "？（3.0）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073630984806047745/lMVVljII_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 105,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "IYDKMIGTHTKY23",
+        "verified": false
+      }
+    ]
+  }
+}

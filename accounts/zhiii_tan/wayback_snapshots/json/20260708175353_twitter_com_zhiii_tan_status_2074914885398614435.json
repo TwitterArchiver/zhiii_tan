@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "conversation_id": "2074883744507605215",
+    "created_at": "2026-07-08T17:53:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T18:53:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074914885398614435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1965246583379034117",
+          "start": 0,
+          "username": "hyunjennagua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074914885398614435",
+    "in_reply_to_user_id": "1965246583379034117",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074883744507605215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hyunjennagua 生日快乐！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2074883744507605215",
+        "created_at": "2026-07-08T17:53:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T18:53:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074914885398614435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074914885398614435",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074883744507605215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 生日快乐！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2074883744507605215",
+        "created_at": "2026-07-08T15:50:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T16:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074883744507605215"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074883744507605215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 733,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还有十分钟我就生日"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之丨生理心理皆女丨lgbtq友好丨我割我抽我o丨不鉴证丨喜欢互动 丨我没有🚪觉得我以后会在推上发点什么的不要关注我了丨只有绿色健康小清新🍀丨没有门不接线上不接线下没有非绿没有半绿没有纯绿丨\n防炸@LeeSong14176丨互fo直关丨没回fo私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 102,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2065050387967840395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 636,
+          "following_count": 639,
+          "like_count": 1435,
+          "listed_count": 0,
+          "media_count": 333,
+          "tweet_count": 3547
+        },
+        "url": "",
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "你心里",
+        "name": "南瓜",
+        "pinned_tweet_id": "2071859776011833409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1660,
+          "following_count": 1003,
+          "like_count": 6456,
+          "listed_count": 1,
+          "media_count": 330,
+          "tweet_count": 3359
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074781616904540160",
+        "3_2074781616854175744"
+      ],
+      "media_source_tweet_id": [
+        "2074781626622767215",
+        "2074781626622767215"
+      ]
+    },
+    "author_id": "1839085606573637632",
+    "conversation_id": "2074929456649810196",
+    "created_at": "2026-07-08T18:51:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T19:51:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074929456649810196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1983366968985190400",
+          "start": 3,
+          "username": "Freyearn0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ThNTIADW5K",
+          "end": 65,
+          "expanded_url": "https://x.com/Freyearn0/status/2074781626622767215/photo/1",
+          "media_key": "3_2074781616904540160",
+          "start": 42,
+          "url": "https://t.co/ThNTIADW5K"
+        },
+        {
+          "display_url": "pic.x.com/ThNTIADW5K",
+          "end": 65,
+          "expanded_url": "https://x.com/Freyearn0/status/2074781626622767215/photo/1",
+          "media_key": "3_2074781616854175744",
+          "start": 42,
+          "url": "https://t.co/ThNTIADW5K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074929456649810196",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074781626622767215",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Freyearn0: 这个是是买药的骗子，pr ym都不要买，给你养肥了杀 https://t.co/ThNTIADW5K"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074781616904540160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMsa404bEAATA0I.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074781616854175744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMsa40sakAATD5M.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074781616904540160",
+            "3_2074781616854175744"
+          ],
+          "media_source_tweet_id": [
+            "2074781626622767215",
+            "2074781626622767215"
+          ]
+        },
+        "author_id": "1839085606573637632",
+        "conversation_id": "2074929456649810196",
+        "created_at": "2026-07-08T18:51:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T19:51:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074929456649810196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1983366968985190400",
+              "start": 3,
+              "username": "Freyearn0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ThNTIADW5K",
+              "end": 65,
+              "expanded_url": "https://x.com/Freyearn0/status/2074781626622767215/photo/1",
+              "media_key": "3_2074781616904540160",
+              "start": 42,
+              "url": "https://t.co/ThNTIADW5K"
+            },
+            {
+              "display_url": "pic.x.com/ThNTIADW5K",
+              "end": 65,
+              "expanded_url": "https://x.com/Freyearn0/status/2074781626622767215/photo/1",
+              "media_key": "3_2074781616854175744",
+              "start": 42,
+              "url": "https://t.co/ThNTIADW5K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074929456649810196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074781626622767215",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Freyearn0: 这个是是买药的骗子，pr ym都不要买，给你养肥了杀 https://t.co/ThNTIADW5K"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074781616904540160",
+            "3_2074781616854175744"
+          ]
+        },
+        "author_id": "1983366968985190400",
+        "conversation_id": "2074781626622767215",
+        "created_at": "2026-07-08T09:04:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T10:04:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074781626622767215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ThNTIADW5K",
+              "end": 50,
+              "expanded_url": "https://x.com/Freyearn0/status/2074781626622767215/photo/1",
+              "media_key": "3_2074781616904540160",
+              "start": 27,
+              "url": "https://t.co/ThNTIADW5K"
+            },
+            {
+              "display_url": "pic.x.com/ThNTIADW5K",
+              "end": 50,
+              "expanded_url": "https://x.com/Freyearn0/status/2074781626622767215/photo/1",
+              "media_key": "3_2074781616854175744",
+              "start": 27,
+              "url": "https://t.co/ThNTIADW5K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074781626622767215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这个是是买药的骗子，pr ym都不要买，给你养肥了杀 https://t.co/ThNTIADW5K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之丨生理心理皆女丨lgbtq友好丨我割我抽我o丨不鉴证丨喜欢互动 丨我没有🚪觉得我以后会在推上发点什么的不要关注我了丨只有绿色健康小清新🍀丨没有门不接线上不接线下没有非绿没有半绿没有纯绿丨\n防炸@LeeSong14176丨互fo直关丨没回fo私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 102,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2065050387967840395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 637,
+          "like_count": 1438,
+          "listed_count": 0,
+          "media_count": 333,
+          "tweet_count": 3552
+        },
+        "url": "",
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-29T02:55:18.000Z",
+        "description": "",
+        "id": "1983366968985190400",
+        "name": "aad",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042699072042315776/gsbT67AL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 4,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 10
+        },
+        "url": "",
+        "username": "Freyearn0",
+        "verified": false
+      }
+    ]
+  }
+}

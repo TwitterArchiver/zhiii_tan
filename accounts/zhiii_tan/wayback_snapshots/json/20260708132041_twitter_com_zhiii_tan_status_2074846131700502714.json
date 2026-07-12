@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "conversation_id": "2074524029609025807",
+    "created_at": "2026-07-08T13:20:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T14:20:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074846131700502714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2040496801401425920",
+          "start": 0,
+          "username": "Xxkg3g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074846131700502714",
+    "in_reply_to_user_id": "2040496801401425920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074524029609025807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xxkg3g 生日快乐！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2074524029609025807",
+        "created_at": "2026-07-08T13:20:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T14:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074846131700502714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074846131700502714",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074524029609025807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 生日快乐！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2074524029609025807",
+        "created_at": "2026-07-07T16:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T17:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074524029609025807"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074524029609025807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9501,
+          "like_count": 119,
+          "quote_count": 0,
+          "reply_count": 148,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是我生日呀！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之丨生理心理皆女丨lgbtq友好丨我割我抽我o丨不鉴证丨喜欢互动 丨我没有🚪觉得我以后会在推上发点什么的不要关注我了丨只有绿色健康小清新🍀丨没有门不接线上不接线下没有非绿没有半绿没有纯绿丨\n防炸@LeeSong14176丨互fo直关丨没回fo私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 102,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2065050387967840395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 637,
+          "like_count": 1432,
+          "listed_count": 0,
+          "media_count": 333,
+          "tweet_count": 3542
+        },
+        "url": "",
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|欢迎互fo 另一个我@xiaolinga1n5\n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "xiaolinga1n5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "匿名箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070907075761491968/eBSTRrZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 321,
+          "like_count": 356,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 1047
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      }
+    ]
+  }
+}

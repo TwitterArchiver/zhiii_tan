@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "conversation_id": "2074321662112370963",
+    "created_at": "2026-07-07T02:44:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T03:44:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074323570537508990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1161907687749296128",
+          "start": 0,
+          "username": "XRMKunome"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074323570537508990",
+    "in_reply_to_user_id": "1161907687749296128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074322635551654330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XRMKunome 抽手听起来看起来感觉都有点诡异（）割烟根本舍不得割！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2074321662112370963",
+        "created_at": "2026-07-07T02:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T03:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074323570537508990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1161907687749296128",
+              "start": 0,
+              "username": "XRMKunome"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074323570537508990",
+        "in_reply_to_user_id": "1161907687749296128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074322635551654330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XRMKunome 抽手听起来看起来感觉都有点诡异（）割烟根本舍不得割！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1161907687749296128",
+        "conversation_id": "2074321662112370963",
+        "created_at": "2026-07-07T02:40:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T03:40:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074322635551654330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1839085606573637632",
+              "start": 0,
+              "username": "zhiii_tan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074322635551654330",
+        "in_reply_to_user_id": "1839085606573637632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074321662112370963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhiii_tan 但是可以抽手割烟呀（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之丨生理心理皆女丨lgbtq友好丨我割我抽我o丨不鉴证丨喜欢互动 丨我没有🚪觉得我以后会在推上发点什么的不要关注我了丨只有绿色健康小清新🍀丨没有门不接线上不接线下没有非绿没有半绿没有纯绿丨\n防炸@LeeSong14176丨互fo直关丨没回fo私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 102,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2065050387967840395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 634,
+          "like_count": 1427,
+          "listed_count": 0,
+          "media_count": 332,
+          "tweet_count": 3526
+        },
+        "url": "",
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-15T07:49:14.000Z",
+        "description": "是个人类，活着的（暂时）。\n是重度ADHD患者，欢迎交流讨论。\n很喜欢看可可爱爱的碎碎念。",
+        "id": "1161907687749296128",
+        "name": "XRMK",
+        "pinned_tweet_id": "2069342375055401157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073556703006932992/f0ulYp-s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 14,
+          "like_count": 862,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 690
+        },
+        "url": "",
+        "username": "XRMKunome",
+        "verified": false
+      }
+    ]
+  }
+}
