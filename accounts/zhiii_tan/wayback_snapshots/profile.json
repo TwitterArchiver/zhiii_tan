@@ -1,7 +1,7 @@
 {
   "name": "cafe114",
   "username": "@zhiii_tan",
-  "bio": "可以叫我之之丨生理心理皆女丨lgbtq友好丨我割我抽我o丨不鉴证丨喜欢互动 丨我没有🚪觉得我以后会在推上发点什么的不要关注我了丨只有绿色健康小清新🍀丨没有门不接线上不接线下没有非绿没有半绿没有纯绿丨 防炸@LeeSong14176丨互fo直关丨没回fo私我",
+  "bio": "可以叫我之之丨生理心理皆女丨lgbtq友好丨我割我抽我o丨不鉴证丨喜欢互动 丨我没有🚪觉得我以后会在推上发点什么的不要关注我了丨只有绿色健康小清新🍀丨没有门不接线上不接线下没有非绿没有半绿没有纯绿丨\n防炸@LeeSong14176丨互fo直关丨没回fo私我",
   "location": "蓝色宇宙",
   "link": "",
   "avatar": "avatar/avatar.jpg",
@@ -10,10 +10,11 @@
   "bio_entities": {
     "mentions": [
       {
-        "end": 123,
-        "start": 110,
+        "end": 115,
+        "start": 102,
         "username": "LeeSong14176"
       }
     ]
-  }
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg"
 }
