@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "conversation_id": "2076710113340223804",
+    "created_at": "2026-07-13T17:05:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T18:05:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076714612725338170"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "357539288",
+          "start": 0,
+          "username": "Surajazeem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076714612725338170",
+    "in_reply_to_user_id": "357539288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076710113340223804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Surajazeem 晚睡有福利😍😍"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11678,
+        "height": 1280,
+        "media_key": "13_2076710043404378112",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076710043404378112/img/Fbn2kVefWIR0HEam.jpg",
+        "public_metrics": {
+          "view_count": 24
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076710043404378112/vid/avc1/320x568/kGER6qIZW0fwJShI.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076710043404378112/vid/avc1/480x852/IHRxoOZBltK7u3N8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076710043404378112/vid/avc1/720x1280/t5eV-cNDXx3ZiJIc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076710043404378112/pl/EXZqc6soa2BVeAtm.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2076710113340223804",
+        "created_at": "2026-07-13T17:05:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T18:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076714612725338170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "357539288",
+              "start": 0,
+              "username": "Surajazeem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076714612725338170",
+        "in_reply_to_user_id": "357539288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076710113340223804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Surajazeem 晚睡有福利😍😍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076710043404378112"
+          ]
+        },
+        "author_id": "357539288",
+        "conversation_id": "2076710113340223804",
+        "created_at": "2026-07-13T16:47:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T17:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076710113340223804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XqQmIUTvto",
+              "end": 23,
+              "expanded_url": "https://x.com/Surajazeem/status/2076710113340223804/video/1",
+              "media_key": "13_2076710043404378112",
+              "start": 0,
+              "url": "https://t.co/XqQmIUTvto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076710113340223804",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XqQmIUTvto"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之丨生理心理皆女丨lgbtq友好丨我割我抽我o丨不鉴证丨喜欢互动 丨我没有🚪觉得我以后会在推上发点什么的不要关注我了丨只有绿色健康小清新🍀丨没有门不接线上不接线下没有非绿没有半绿没有纯绿丨\n防炸@LeeSong14176丨互fo直关丨没回fo私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 102,
+                "username": "LeeSong14176"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qii53631",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qii53631",
+                "start": 0,
+                "url": "https://t.co/3n12yaBasr"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2065050387967840395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 661,
+          "like_count": 1458,
+          "listed_count": 0,
+          "media_count": 344,
+          "tweet_count": 3621
+        },
+        "url": "https://t.co/3n12yaBasr",
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-18T14:39:37.000Z",
+        "description": "我恨msk，拿了我的钱还这样我他妈的\n18.0\n辣条已过气。\n妈妈@Shivam3228\n牛马💊 @AminoXx_killer \n媳妇@Ririka12208",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 33,
+                "username": "Shivam3228"
+              },
+              {
+                "end": 64,
+                "start": 49,
+                "username": "AminoXx_killer"
+              },
+              {
+                "end": 80,
+                "start": 68,
+                "username": "Ririka12208"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/GEPRzkdFkj"
+              }
+            ]
+          }
+        },
+        "id": "357539288",
+        "location": "msk身后",
+        "name": "雨林18+",
+        "pinned_tweet_id": "2074845970169577745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074861255509307392/Y8tOJNW6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 161,
+          "like_count": 438,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 273
+        },
+        "url": "https://t.co/GEPRzkdFkj",
+        "username": "Surajazeem",
+        "verified": false
+      }
+    ]
+  }
+}

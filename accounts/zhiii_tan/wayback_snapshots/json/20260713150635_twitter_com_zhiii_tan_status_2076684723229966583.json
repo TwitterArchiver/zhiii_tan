@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076684718993707008",
+        "3_2076684719161565185"
+      ]
+    },
+    "author_id": "1839085606573637632",
+    "conversation_id": "2076682349698482436",
+    "created_at": "2026-07-13T15:06:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T16:06:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076684723229966583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1589235830731997188",
+          "start": 0,
+          "username": "PWaterawa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iqFWpdUuwP",
+          "end": 84,
+          "expanded_url": "https://x.com/zhiii_tan/status/2076684723229966583/photo/1",
+          "media_key": "3_2076684718993707008",
+          "start": 61,
+          "url": "https://t.co/iqFWpdUuwP"
+        },
+        {
+          "display_url": "pic.x.com/iqFWpdUuwP",
+          "end": 84,
+          "expanded_url": "https://x.com/zhiii_tan/status/2076684723229966583/photo/1",
+          "media_key": "3_2076684719161565185",
+          "start": 61,
+          "url": "https://t.co/iqFWpdUuwP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076684723229966583",
+    "in_reply_to_user_id": "1589235830731997188",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076682349698482436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PWaterawa 这个傻逼还有其他号、、全都是冒充别人领奖的，他的号之前全被我揪出来了（不过也有可能还有没被发现的） https://t.co/iqFWpdUuwP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076684718993707008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHdv8oaEAAeDGi.jpg",
+        "width": 916
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076684719161565185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHdv9QbYAEr7YN.jpg",
+        "width": 916
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076682340097769472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHblejawAAQdU9.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076684718993707008",
+            "3_2076684719161565185"
+          ]
+        },
+        "author_id": "1839085606573637632",
+        "conversation_id": "2076682349698482436",
+        "created_at": "2026-07-13T15:06:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T16:06:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076684723229966583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1589235830731997188",
+              "start": 0,
+              "username": "PWaterawa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iqFWpdUuwP",
+              "end": 84,
+              "expanded_url": "https://x.com/zhiii_tan/status/2076684723229966583/photo/1",
+              "media_key": "3_2076684718993707008",
+              "start": 61,
+              "url": "https://t.co/iqFWpdUuwP"
+            },
+            {
+              "display_url": "pic.x.com/iqFWpdUuwP",
+              "end": 84,
+              "expanded_url": "https://x.com/zhiii_tan/status/2076684723229966583/photo/1",
+              "media_key": "3_2076684719161565185",
+              "start": 61,
+              "url": "https://t.co/iqFWpdUuwP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076684723229966583",
+        "in_reply_to_user_id": "1589235830731997188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076682349698482436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PWaterawa 这个傻逼还有其他号、、全都是冒充别人领奖的，他的号之前全被我揪出来了（不过也有可能还有没被发现的） https://t.co/iqFWpdUuwP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076682340097769472"
+          ]
+        },
+        "author_id": "1589235830731997188",
+        "conversation_id": "2076682349698482436",
+        "created_at": "2026-07-13T14:57:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T15:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076682349698482436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xEoSCFAy9U",
+              "end": 83,
+              "expanded_url": "https://x.com/PWaterawa/status/2076682349698482436/photo/1",
+              "media_key": "3_2076682340097769472",
+              "start": 60,
+              "url": "https://t.co/xEoSCFAy9U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076682349698482436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "也是有人来冒充我了x\n真的想不懂为啥会有这种冒充别人去领奖的，真恶心吧？\n这种人生活过的肯定很不如意吧，中个奖都要冒领 https://t.co/xEoSCFAy9U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之丨生理心理皆女丨lgbtq友好丨我割我抽我o丨不鉴证丨喜欢互动 丨我没有🚪觉得我以后会在推上发点什么的不要关注我了丨只有绿色健康小清新🍀丨没有门不接线上不接线下没有非绿没有半绿没有纯绿丨\n防炸@LeeSong14176丨互fo直关丨没回fo私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 102,
+                "username": "LeeSong14176"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qii53631",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qii53631",
+                "start": 0,
+                "url": "https://t.co/3n12yaBasr"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2065050387967840395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 658,
+          "like_count": 1446,
+          "listed_count": 0,
+          "media_count": 342,
+          "tweet_count": 3606
+        },
+        "url": "https://t.co/3n12yaBasr",
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-06T12:38:50.000Z",
+        "description": "暂时淡推了喵，还是会互fo的",
+        "id": "1589235830731997188",
+        "location": "可爱的世界~也是残酷的世界…",
+        "name": "汐汐(暂时淡推)",
+        "pinned_tweet_id": "1917968098625548312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890021657315786753/VVAYoJBJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 1255,
+          "like_count": 2377,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 2905
+        },
+        "url": "",
+        "username": "PWaterawa",
+        "verified": false
+      }
+    ]
+  }
+}

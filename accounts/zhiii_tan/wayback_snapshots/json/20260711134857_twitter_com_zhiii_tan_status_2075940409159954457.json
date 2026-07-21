@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2075940385357238272"
+      ]
+    },
+    "author_id": "1839085606573637632",
+    "conversation_id": "2075940409159954457",
+    "created_at": "2026-07-11T13:48:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T14:48:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075940409159954457"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lh7CocUrPL",
+          "end": 28,
+          "expanded_url": "https://x.com/zhiii_tan/status/2075940409159954457/video/1",
+          "media_key": "7_2075940385357238272",
+          "start": 5,
+          "url": "https://t.co/lh7CocUrPL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075940409159954457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我吓死了 https://t.co/lh7CocUrPL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2136,
+        "height": 1280,
+        "media_key": "7_2075940385357238272",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2075940385357238272/pu/img/HZ3f0aM0SiUZLoeh.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075940385357238272/pu/vid/avc1/320x568/Pfvsl5a5R-p6ELxK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075940385357238272/pu/vid/avc1/480x852/HbdihKfFlDscpKP-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075940385357238272/pu/vid/avc1/720x1280/Bsx7kRKC_Lk9fFnr.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2075940385357238272/pu/pl/YnGdkC269BZm24It.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2075940385357238272"
+          ]
+        },
+        "author_id": "1839085606573637632",
+        "conversation_id": "2075940409159954457",
+        "created_at": "2026-07-11T13:48:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T14:48:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075940409159954457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lh7CocUrPL",
+              "end": 28,
+              "expanded_url": "https://x.com/zhiii_tan/status/2075940409159954457/video/1",
+              "media_key": "7_2075940385357238272",
+              "start": 5,
+              "url": "https://t.co/lh7CocUrPL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075940409159954457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我吓死了 https://t.co/lh7CocUrPL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之丨生理心理皆女丨lgbtq友好丨我割我抽我o丨不鉴证丨喜欢互动 丨我没有🚪觉得我以后会在推上发点什么的不要关注我了丨只有绿色健康小清新🍀丨没有门不接线上不接线下没有非绿没有半绿没有纯绿丨\n防炸@LeeSong14176丨互fo直关丨没回fo私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 102,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2065050387967840395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 654,
+          "like_count": 1443,
+          "listed_count": 0,
+          "media_count": 339,
+          "tweet_count": 3595
+        },
+        "url": "",
+        "username": "zhiii_tan",
+        "verified": false
+      }
+    ]
+  }
+}

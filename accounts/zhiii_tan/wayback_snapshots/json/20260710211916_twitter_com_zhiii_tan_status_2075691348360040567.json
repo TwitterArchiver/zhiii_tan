@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "conversation_id": "2075688766883430508",
+    "created_at": "2026-07-10T21:19:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T22:19:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075691348360040567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2054157720283213824",
+          "start": 0,
+          "username": "jingjingjingovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075691348360040567",
+    "in_reply_to_user_id": "2054157720283213824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075690745118466414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingjingjingovo 我亲亲你！😽😽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2075688766883430508",
+        "created_at": "2026-07-10T21:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T22:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075691348360040567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2054157720283213824",
+              "start": 0,
+              "username": "jingjingjingovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075691348360040567",
+        "in_reply_to_user_id": "2054157720283213824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075690745118466414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingjingjingovo 我亲亲你！😽😽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054157720283213824",
+        "conversation_id": "2075688766883430508",
+        "created_at": "2026-07-10T21:16:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T22:16:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075690745118466414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1839085606573637632",
+              "start": 0,
+              "username": "zhiii_tan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075690745118466414",
+        "in_reply_to_user_id": "1839085606573637632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075688766883430508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhiii_tan 萌萌的（≧∇≦）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之丨生理心理皆女丨lgbtq友好丨我割我抽我o丨不鉴证丨喜欢互动 丨我没有🚪觉得我以后会在推上发点什么的不要关注我了丨只有绿色健康小清新🍀丨没有门不接线上不接线下没有非绿没有半绿没有纯绿丨\n防炸@LeeSong14176丨互fo直关丨没回fo私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 102,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2065050387967840395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 654,
+          "like_count": 1443,
+          "listed_count": 0,
+          "media_count": 338,
+          "tweet_count": 3590
+        },
+        "url": "",
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-12T11:15:26.000Z",
+        "description": "我是小璟| 08| 双性恋|我🔪🚬🍺💊全肯定 LGBTQ+友好\n喜欢体验新鲜事物 什么都往这里扔（垃圾桶bushi）\n查看主页喜欢你就我就fo你好宝宝们请和我互fo^o^\n前世：@imgyeong8077",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 89,
+                "username": "imgyeong8077"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%92%9F%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%92%9F%E7%92%9F%E7%92%9F%E7%92%9F%E7%92%9F%E7%92%9F0.o",
+                "start": 0,
+                "url": "https://t.co/YVgqrHFnGt"
+              }
+            ]
+          }
+        },
+        "id": "2054157720283213824",
+        "location": "†天国†",
+        "name": "璟璟璟璟2.0秽土重生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054159089022951424/SyNKOvfP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 26,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 32
+        },
+        "url": "https://t.co/YVgqrHFnGt",
+        "username": "jingjingjingovo",
+        "verified": false
+      }
+    ]
+  }
+}

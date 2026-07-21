@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076806390195318784",
+        "3_2076806390396731392",
+        "3_2076806390203691008",
+        "3_2076806390568673280"
+      ]
+    },
+    "author_id": "1839085606573637632",
+    "conversation_id": "2076806392971935843",
+    "created_at": "2026-07-13T23:10:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T00:10:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076806392971935843"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/my5WAlfVqj",
+          "end": 120,
+          "expanded_url": "https://x.com/zhiii_tan/status/2076806392971935843/photo/1",
+          "media_key": "3_2076806390195318784",
+          "start": 97,
+          "url": "https://t.co/my5WAlfVqj"
+        },
+        {
+          "display_url": "pic.x.com/my5WAlfVqj",
+          "end": 120,
+          "expanded_url": "https://x.com/zhiii_tan/status/2076806392971935843/photo/1",
+          "media_key": "3_2076806390396731392",
+          "start": 97,
+          "url": "https://t.co/my5WAlfVqj"
+        },
+        {
+          "display_url": "pic.x.com/my5WAlfVqj",
+          "end": 120,
+          "expanded_url": "https://x.com/zhiii_tan/status/2076806392971935843/photo/1",
+          "media_key": "3_2076806390203691008",
+          "start": 97,
+          "url": "https://t.co/my5WAlfVqj"
+        },
+        {
+          "display_url": "pic.x.com/my5WAlfVqj",
+          "end": 120,
+          "expanded_url": "https://x.com/zhiii_tan/status/2076806392971935843/photo/1",
+          "media_key": "3_2076806390568673280",
+          "start": 97,
+          "url": "https://t.co/my5WAlfVqj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076806392971935843",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "hey boy 罗*熙，下次别用那么多号在同一个帖子评论参与了，随便一翻又一个你的号\n而且你参与抽奖的话术能不能变一变，这个大大的福利。和参与一下。我看一次笑一次\n你这么多号只注销一个怎么行啊 https://t.co/my5WAlfVqj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076806390195318784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNJMaJLacAAkgFK.jpg",
+        "width": 916
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076806390396731392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNJMaJ7bwAAtbp5.jpg",
+        "width": 916
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076806390203691008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNJMaJNaMAAo8Fg.jpg",
+        "width": 916
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076806390568673280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNJMaKkbYAA0GNl.jpg",
+        "width": 916
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076806390195318784",
+            "3_2076806390396731392",
+            "3_2076806390203691008",
+            "3_2076806390568673280"
+          ]
+        },
+        "author_id": "1839085606573637632",
+        "conversation_id": "2076806392971935843",
+        "created_at": "2026-07-13T23:10:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T00:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076806392971935843"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/my5WAlfVqj",
+              "end": 120,
+              "expanded_url": "https://x.com/zhiii_tan/status/2076806392971935843/photo/1",
+              "media_key": "3_2076806390195318784",
+              "start": 97,
+              "url": "https://t.co/my5WAlfVqj"
+            },
+            {
+              "display_url": "pic.x.com/my5WAlfVqj",
+              "end": 120,
+              "expanded_url": "https://x.com/zhiii_tan/status/2076806392971935843/photo/1",
+              "media_key": "3_2076806390396731392",
+              "start": 97,
+              "url": "https://t.co/my5WAlfVqj"
+            },
+            {
+              "display_url": "pic.x.com/my5WAlfVqj",
+              "end": 120,
+              "expanded_url": "https://x.com/zhiii_tan/status/2076806392971935843/photo/1",
+              "media_key": "3_2076806390203691008",
+              "start": 97,
+              "url": "https://t.co/my5WAlfVqj"
+            },
+            {
+              "display_url": "pic.x.com/my5WAlfVqj",
+              "end": 120,
+              "expanded_url": "https://x.com/zhiii_tan/status/2076806392971935843/photo/1",
+              "media_key": "3_2076806390568673280",
+              "start": 97,
+              "url": "https://t.co/my5WAlfVqj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076806392971935843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "hey boy 罗*熙，下次别用那么多号在同一个帖子评论参与了，随便一翻又一个你的号\n而且你参与抽奖的话术能不能变一变，这个大大的福利。和参与一下。我看一次笑一次\n你这么多号只注销一个怎么行啊 https://t.co/my5WAlfVqj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之丨生理心理皆女丨lgbtq友好丨我割我抽我o丨不鉴证丨喜欢互动 丨我没有🚪觉得我以后会在推上发点什么的不要关注我了丨只有绿色健康小清新🍀丨没有门不接线上不接线下没有非绿没有半绿没有纯绿丨\n防炸@LeeSong14176丨互fo直关丨没回fo私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 102,
+                "username": "LeeSong14176"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qii53631",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qii53631",
+                "start": 0,
+                "url": "https://t.co/3n12yaBasr"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2065050387967840395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 662,
+          "like_count": 1458,
+          "listed_count": 0,
+          "media_count": 345,
+          "tweet_count": 3626
+        },
+        "url": "https://t.co/3n12yaBasr",
+        "username": "zhiii_tan",
+        "verified": false
+      }
+    ]
+  }
+}
