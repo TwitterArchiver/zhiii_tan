@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078470892615880704",
+        "3_2078470892599087104",
+        "3_2078470892594814977"
+      ],
+      "media_source_tweet_id": [
+        "2078470914250092629",
+        "2078470914250092629",
+        "2078470914250092629"
+      ]
+    },
+    "author_id": "1839085606573637632",
+    "conversation_id": "2080384003404652677",
+    "created_at": "2026-07-23T20:06:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T21:06:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080384003404652677"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 16,
+          "tag": "bbw"
+        },
+        {
+          "end": 26,
+          "start": 21,
+          "tag": "上海线下"
+        },
+        {
+          "end": 30,
+          "start": 27,
+          "tag": "坦克"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1808377869971693568",
+          "start": 3,
+          "username": "Yuliko0729"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/i2wIvZAApv",
+          "end": 86,
+          "expanded_url": "https://x.com/Yuliko0729/status/2078470914250092629/photo/1",
+          "media_key": "3_2078470892615880704",
+          "start": 63,
+          "url": "https://t.co/i2wIvZAApv"
+        },
+        {
+          "display_url": "pic.x.com/i2wIvZAApv",
+          "end": 86,
+          "expanded_url": "https://x.com/Yuliko0729/status/2078470914250092629/photo/1",
+          "media_key": "3_2078470892599087104",
+          "start": 63,
+          "url": "https://t.co/i2wIvZAApv"
+        },
+        {
+          "display_url": "pic.x.com/i2wIvZAApv",
+          "end": 86,
+          "expanded_url": "https://x.com/Yuliko0729/status/2078470914250092629/photo/1",
+          "media_key": "3_2078470892594814977",
+          "start": 63,
+          "url": "https://t.co/i2wIvZAApv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080384003404652677",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078470914250092629",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yuliko0729: #bbw #上海线下 #坦克 \n\n我是Yulilko 我的号没了可恶的msk…\n寻找前fo中 https://t.co/i2wIvZAApv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078470892615880704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNg2Q75b0AA8fj6.jpg",
+        "width": 947
+      },
+      {
+        "height": 1101,
+        "media_key": "3_2078470892599087104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNg2Q71bkAADsum.jpg",
+        "width": 1290
+      },
+      {
+        "height": 1820,
+        "media_key": "3_2078470892594814977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNg2Q70aYAEfi3x.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078470892615880704",
+            "3_2078470892599087104",
+            "3_2078470892594814977"
+          ]
+        },
+        "author_id": "1808377869971693568",
+        "conversation_id": "2078470914250092629",
+        "created_at": "2026-07-18T13:24:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T14:24:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078470914250092629"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "bbw"
+            },
+            {
+              "end": 10,
+              "start": 5,
+              "tag": "上海线下"
+            },
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "坦克"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i2wIvZAApv",
+              "end": 70,
+              "expanded_url": "https://x.com/Yuliko0729/status/2078470914250092629/photo/1",
+              "media_key": "3_2078470892615880704",
+              "start": 47,
+              "url": "https://t.co/i2wIvZAApv"
+            },
+            {
+              "display_url": "pic.x.com/i2wIvZAApv",
+              "end": 70,
+              "expanded_url": "https://x.com/Yuliko0729/status/2078470914250092629/photo/1",
+              "media_key": "3_2078470892599087104",
+              "start": 47,
+              "url": "https://t.co/i2wIvZAApv"
+            },
+            {
+              "display_url": "pic.x.com/i2wIvZAApv",
+              "end": 70,
+              "expanded_url": "https://x.com/Yuliko0729/status/2078470914250092629/photo/1",
+              "media_key": "3_2078470892594814977",
+              "start": 47,
+              "url": "https://t.co/i2wIvZAApv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078470914250092629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4038,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "#bbw #上海线下 #坦克 \n\n我是Yulilko 我的号没了可恶的msk…\n寻找前fo中 https://t.co/i2wIvZAApv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078470892615880704",
+            "3_2078470892599087104",
+            "3_2078470892594814977"
+          ],
+          "media_source_tweet_id": [
+            "2078470914250092629",
+            "2078470914250092629",
+            "2078470914250092629"
+          ]
+        },
+        "author_id": "1839085606573637632",
+        "conversation_id": "2080384003404652677",
+        "created_at": "2026-07-23T20:06:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T21:06:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080384003404652677"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 16,
+              "tag": "bbw"
+            },
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "上海线下"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "坦克"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1808377869971693568",
+              "start": 3,
+              "username": "Yuliko0729"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i2wIvZAApv",
+              "end": 86,
+              "expanded_url": "https://x.com/Yuliko0729/status/2078470914250092629/photo/1",
+              "media_key": "3_2078470892615880704",
+              "start": 63,
+              "url": "https://t.co/i2wIvZAApv"
+            },
+            {
+              "display_url": "pic.x.com/i2wIvZAApv",
+              "end": 86,
+              "expanded_url": "https://x.com/Yuliko0729/status/2078470914250092629/photo/1",
+              "media_key": "3_2078470892599087104",
+              "start": 63,
+              "url": "https://t.co/i2wIvZAApv"
+            },
+            {
+              "display_url": "pic.x.com/i2wIvZAApv",
+              "end": 86,
+              "expanded_url": "https://x.com/Yuliko0729/status/2078470914250092629/photo/1",
+              "media_key": "3_2078470892594814977",
+              "start": 63,
+              "url": "https://t.co/i2wIvZAApv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080384003404652677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078470914250092629",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yuliko0729: #bbw #上海线下 #坦克 \n\n我是Yulilko 我的号没了可恶的msk…\n寻找前fo中 https://t.co/i2wIvZAApv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之丨生理心理皆女丨lgbtq友好丨🔪🚬💊 丨不鉴证丨喜欢互动丨我没有🚪觉得我以后会在推上发点什么的不要关注我了丨没有门不接线上不接线下没有非绿没有半绿没有纯绿🍀丨互fo直关 没回fo私我丨乐子人专注家产",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qii53631",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qii53631",
+                "start": 0,
+                "url": "https://t.co/3n12yaBasr"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2079760577875067390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 686,
+          "like_count": 1448,
+          "listed_count": 0,
+          "media_count": 356,
+          "tweet_count": 3673
+        },
+        "url": "https://t.co/3n12yaBasr",
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-03T05:51:12.000Z",
+        "description": "🚪88 od妹 寻找前世中",
+        "id": "1808377869971693568",
+        "name": "Yuliko",
+        "pinned_tweet_id": "2078470914250092629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079393375388860416/Qf755KMa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 33,
+          "like_count": 221,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 335
+        },
+        "url": "",
+        "username": "Yuliko0729",
+        "verified": false
+      }
+    ]
+  }
+}

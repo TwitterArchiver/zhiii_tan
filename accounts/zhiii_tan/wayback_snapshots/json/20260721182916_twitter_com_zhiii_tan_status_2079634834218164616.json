@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "conversation_id": "2079634834218164616",
+    "created_at": "2026-07-21T18:29:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T19:29:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079634834218164616"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zhiii_tan/stat…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/zhiii_tan/status/2077024562555101240",
+          "start": 9,
+          "url": "https://t.co/CwVcp8c6BH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079634834218164616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077024562555101240",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我再也不怀念了。 https://t.co/CwVcp8c6BH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2079634834218164616",
+        "created_at": "2026-07-21T18:29:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T19:29:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079634834218164616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhiii_tan/stat…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/zhiii_tan/status/2077024562555101240",
+              "start": 9,
+              "url": "https://t.co/CwVcp8c6BH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079634834218164616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077024562555101240",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我再也不怀念了。 https://t.co/CwVcp8c6BH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2077024562555101240",
+        "created_at": "2026-07-14T13:36:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T14:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077024562555101240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhiii_tan/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/zhiii_tan/status/2038907365609947469",
+              "start": 7,
+              "url": "https://t.co/z94SIkyOlL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077024562555101240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038907365609947469",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哇塞早期老子 https://t.co/z94SIkyOlL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qii53631",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qii53631",
+                "start": 0,
+                "url": "https://t.co/3n12yaBasr"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2065050387967840395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 660,
+          "following_count": 679,
+          "like_count": 1451,
+          "listed_count": 0,
+          "media_count": 347,
+          "tweet_count": 3643
+        },
+        "url": "https://t.co/3n12yaBasr",
+        "username": "zhiii_tan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084234098269356032"
+      ]
+    },
+    "author_id": "1839085606573637632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2084234109698937221",
+    "created_at": "2026-08-03T11:05:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T12:05:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084234109698937221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 30,
+          "id": "1684269091849404416",
+          "start": 14,
+          "username": "1212s1212bs1242"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vTvlfSz0vA",
+          "end": 54,
+          "expanded_url": "https://x.com/zhiii_tan/status/2084234109698937221/photo/1",
+          "media_key": "3_2084234098269356032",
+          "start": 31,
+          "url": "https://t.co/vTvlfSz0vA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084234109698937221",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "非常好。好\n都来找12买烟\n@1212s1212bs1242 https://t.co/vTvlfSz0vA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2084234098269356032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOyv3qAaAAACjyb.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084234098269356032"
+          ]
+        },
+        "author_id": "1839085606573637632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084234109698937221",
+        "created_at": "2026-08-03T11:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T12:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084234109698937221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 30,
+              "id": "1684269091849404416",
+              "start": 14,
+              "username": "1212s1212bs1242"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vTvlfSz0vA",
+              "end": 54,
+              "expanded_url": "https://x.com/zhiii_tan/status/2084234109698937221/photo/1",
+              "media_key": "3_2084234098269356032",
+              "start": 31,
+              "url": "https://t.co/vTvlfSz0vA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084234109698937221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "非常好。好\n都来找12买烟\n@1212s1212bs1242 https://t.co/vTvlfSz0vA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之丨生理心理皆女丨lgbtq友好丨🔪🚬💊 丨不鉴证丨喜欢互动丨我没有🚪觉得我以后会在推上发点什么的不要关注我了丨没有门不接线上不接线下没有非绿没有半绿没有纯绿🍀丨互fo直关 没回fo私我丨乐子人专注家产\n防炸:@zhiiii_tan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 110,
+                "username": "zhiiii_tan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qii53631",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qii53631",
+                "start": 0,
+                "url": "https://t.co/3n12yaBasr"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2079760577875067390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 670,
+          "like_count": 1469,
+          "listed_count": 0,
+          "media_count": 373,
+          "tweet_count": 3740
+        },
+        "url": "https://t.co/3n12yaBasr",
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "12是12/没消息就是进牢了/单机/我只是一个缺爱的抽烟大丑b/欢迎跟我谈论现象学",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2068905914640585131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074057741191274496/zsnHU4US_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 901,
+          "following_count": 916,
+          "like_count": 17127,
+          "listed_count": 1,
+          "media_count": 1080,
+          "tweet_count": 10406
+        },
+        "url": "",
+        "username": "1212s1212bs1242",
+        "verified": false
+      }
+    ]
+  }
+}

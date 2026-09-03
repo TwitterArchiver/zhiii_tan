@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079640821893406720"
+      ]
+    },
+    "author_id": "1839085606573637632",
+    "conversation_id": "2079375244192813075",
+    "created_at": "2026-07-21T18:53:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T19:53:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079640827488592029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1601798366714908672",
+          "start": 0,
+          "username": "ranhuauu"
+        },
+        {
+          "end": 21,
+          "id": "2045075693231325184",
+          "start": 10,
+          "username": "zhiiii_tan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Tzj7ycqT3i",
+          "end": 92,
+          "expanded_url": "https://x.com/zhiii_tan/status/2079640827488592029/photo/1",
+          "media_key": "3_2079640821893406720",
+          "start": 69,
+          "url": "https://t.co/Tzj7ycqT3i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079640827488592029",
+    "in_reply_to_user_id": "1601798366714908672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079637354974007699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ranhuauu @zhiiii_tan 染料也可以的，我买的是这个是果汁的，不是那种传统植物海娜，这个着色程度会比较高而且颜色比较纯 https://t.co/Tzj7ycqT3i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2079640821893406720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNxeTyFboAAjLSx.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079640821893406720"
+          ]
+        },
+        "author_id": "1839085606573637632",
+        "conversation_id": "2079375244192813075",
+        "created_at": "2026-07-21T18:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T19:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079640827488592029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1601798366714908672",
+              "start": 0,
+              "username": "ranhuauu"
+            },
+            {
+              "end": 21,
+              "id": "2045075693231325184",
+              "start": 10,
+              "username": "zhiiii_tan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tzj7ycqT3i",
+              "end": 92,
+              "expanded_url": "https://x.com/zhiii_tan/status/2079640827488592029/photo/1",
+              "media_key": "3_2079640821893406720",
+              "start": 69,
+              "url": "https://t.co/Tzj7ycqT3i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079640827488592029",
+        "in_reply_to_user_id": "1601798366714908672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079637354974007699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ranhuauu @zhiiii_tan 染料也可以的，我买的是这个是果汁的，不是那种传统植物海娜，这个着色程度会比较高而且颜色比较纯 https://t.co/Tzj7ycqT3i"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601798366714908672",
+        "conversation_id": "2079375244192813075",
+        "created_at": "2026-07-21T18:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T19:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079637354974007699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2045075693231325184",
+              "start": 0,
+              "username": "zhiiii_tan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079637354974007699",
+        "in_reply_to_user_id": "2045075693231325184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079631515001262168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhiiii_tan 那染料可以买成品吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qii53631",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qii53631",
+                "start": 0,
+                "url": "https://t.co/3n12yaBasr"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2065050387967840395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 679,
+          "like_count": 1451,
+          "listed_count": 0,
+          "media_count": 351,
+          "tweet_count": 3648
+        },
+        "url": "https://t.co/3n12yaBasr",
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-11T04:39:16.000Z",
+        "description": "人活著就是為了割手 犯病 崩潰 孤獨 自卑 自殘 自戀 自慰 自殺 嗑藥 ｜歡迎光臨｜中焦重抑 雙向 PTSD 割手 嗑藥 成分複雜｜ 歡迎和我互fo 就讓我們化學極樂 逃離痛苦的世界",
+        "id": "1601798366714908672",
+        "location": "極樂世界",
+        "name": "蚺華",
+        "pinned_tweet_id": "2072614173213892883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052071943541817344/7iKMlWNi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 185,
+          "like_count": 9435,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 2061
+        },
+        "url": "",
+        "username": "ranhuauu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-17T09:43:45.000Z",
+        "description": "之之小号🐖🐖\n@zhiii_tan\ncafe114转生号\n可以叫我之之丨生理心理皆女丨lgbtq友好丨🔪🚬💊 丨不鉴证丨喜欢互动丨我没有🚪觉得我以后会在推上发点什么的不要关注我了丨没有门不接线上不接线下没有非绿没有半绿没有纯绿🍀丨互fo直关 没回fo私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "zhiii_tan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qii53631",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qii53631",
+                "start": 0,
+                "url": "https://t.co/lAItPgWMcf"
+              }
+            ]
+          }
+        },
+        "id": "2045075693231325184",
+        "location": "蓝色宇宙",
+        "name": "room818",
+        "pinned_tweet_id": "2079375796968595517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063574993687154688/R3LQGssM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 127,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 123
+        },
+        "url": "https://t.co/lAItPgWMcf",
+        "username": "zhiiii_tan",
+        "verified": false
+      }
+    ]
+  }
+}

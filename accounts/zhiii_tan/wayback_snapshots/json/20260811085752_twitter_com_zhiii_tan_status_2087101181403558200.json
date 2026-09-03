@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086951787777380352"
+      ],
+      "media_source_tweet_id": [
+        "2086951802017038500"
+      ]
+    },
+    "author_id": "1839085606573637632",
+    "conversation_id": "2087101181403558200",
+    "created_at": "2026-08-11T08:57:52.000Z",
+    "display_text_range": [
+      0,
+      82
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T09:57:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087101181403558200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2043490158616727552",
+          "start": 3,
+          "username": "shiawaserui"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7wBhDfdoc9",
+          "end": 82,
+          "expanded_url": "https://x.com/shiawaserui/status/2086951802017038500/photo/1",
+          "media_key": "3_2086951787777380352",
+          "start": 59,
+          "url": "https://t.co/7wBhDfdoc9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087101181403558200",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086951787777380352"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086951802017038500",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shiawaserui: 我是小骸 放一个自介 \n欢迎同类女孩子来找我玩捏૮𓈒ʚ̴̶̷̷̥ ⩊ ɞ̴̶̷𓈒ა https://t.co/7wBhDfdoc9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 893,
+        "media_key": "3_2086951787777380352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPZXmAXWUAArjle.jpg",
+        "width": 893
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086951787777380352"
+          ]
+        },
+        "author_id": "2043490158616727552",
+        "conversation_id": "2086951802017038500",
+        "created_at": "2026-08-10T23:04:17.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T00:04:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086951802017038500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7wBhDfdoc9",
+              "end": 65,
+              "expanded_url": "https://x.com/shiawaserui/status/2086951802017038500/photo/1",
+              "media_key": "3_2086951787777380352",
+              "start": 42,
+              "url": "https://t.co/7wBhDfdoc9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086951802017038500",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086951787777380352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我是小骸 放一个自介 \n欢迎同类女孩子来找我玩捏૮𓈒ʚ̴̶̷̷̥ ⩊ ɞ̴̶̷𓈒ა https://t.co/7wBhDfdoc9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086951787777380352"
+          ],
+          "media_source_tweet_id": [
+            "2086951802017038500"
+          ]
+        },
+        "author_id": "1839085606573637632",
+        "conversation_id": "2087101181403558200",
+        "created_at": "2026-08-11T08:57:52.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T09:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087101181403558200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2043490158616727552",
+              "start": 3,
+              "username": "shiawaserui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7wBhDfdoc9",
+              "end": 82,
+              "expanded_url": "https://x.com/shiawaserui/status/2086951802017038500/photo/1",
+              "media_key": "3_2086951787777380352",
+              "start": 59,
+              "url": "https://t.co/7wBhDfdoc9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087101181403558200",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086951787777380352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086951802017038500",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shiawaserui: 我是小骸 放一个自介 \n欢迎同类女孩子来找我玩捏૮𓈒ʚ̴̶̷̷̥ ⩊ ɞ̴̶̷𓈒ა https://t.co/7wBhDfdoc9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之丨生理心理皆女丨lgbtq友好丨🔪🚬💊 丨不鉴证丨喜欢互动丨我没有🚪觉得我以后会在推上发点什么的不要关注我了丨没有门不接线上不接线下没有非绿没有半绿没有纯绿🍀丨互fo直关 没回fo私我丨乐子人专注家产\n防炸:@zhiiii_tan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 110,
+                "username": "zhiiii_tan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qii53631",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qii53631",
+                "start": 0,
+                "url": "https://t.co/3n12yaBasr"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "is_identity_verified": false,
+        "location": "蓝色宇宙",
+        "most_recent_tweet_id": "2087101181403558200",
+        "name": "cafe114",
+        "pinned_tweet_id": "2079760577875067390",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839085606573637632/1777695167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 712,
+          "following_count": 719,
+          "like_count": 1511,
+          "listed_count": 0,
+          "media_count": 393,
+          "tweet_count": 3910
+        },
+        "url": "https://t.co/3n12yaBasr",
+        "username": "zhiii_tan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T00:44:01.000Z",
+        "description": "小骸｜ed｜餐券｜🔪🩸｜oder💊｜🚬｜le",
+        "id": "2043490158616727552",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086962373013676525",
+        "name": "骸",
+        "pinned_tweet_id": "2086951802017038500",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043490158616727552/1783099905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086953715378851840/AIiMY2rE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 18,
+          "like_count": 326,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 10
+        },
+        "url": "",
+        "username": "shiawaserui",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

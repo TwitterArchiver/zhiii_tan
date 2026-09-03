@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088061512355348480"
+      ]
+    },
+    "author_id": "1839085606573637632",
+    "conversation_id": "2088061521142362351",
+    "created_at": "2026-08-14T00:33:55.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T01:33:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088061521142362351"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ymmoo3hWwj",
+          "end": 28,
+          "expanded_url": "https://x.com/zhiii_tan/status/2088061521142362351/photo/1",
+          "media_key": "3_2088061512355348480",
+          "start": 5,
+          "url": "https://t.co/ymmoo3hWwj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088061521142362351",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2088061512355348480"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我杯子。 https://t.co/ymmoo3hWwj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2667,
+        "media_key": "3_2088061512355348480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPpI4ekbAAA4U50.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088061512355348480"
+          ]
+        },
+        "author_id": "1839085606573637632",
+        "conversation_id": "2088061521142362351",
+        "created_at": "2026-08-14T00:33:55.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T01:33:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088061521142362351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ymmoo3hWwj",
+              "end": 28,
+              "expanded_url": "https://x.com/zhiii_tan/status/2088061521142362351/photo/1",
+              "media_key": "3_2088061512355348480",
+              "start": 5,
+              "url": "https://t.co/ymmoo3hWwj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088061521142362351",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088061512355348480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我杯子。 https://t.co/ymmoo3hWwj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之丨生理心理皆女丨lgbtq友好丨🔪🚬💊 丨不鉴证丨喜欢互动丨我没有🚪觉得我以后会在推上发点什么的不要关注我了丨没有门不接线上不接线下没有非绿没有半绿没有纯绿🍀丨互fo直关 没回fo私我丨乐子人专注家产\n防炸:@zhiiii_tan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 110,
+                "username": "zhiiii_tan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qii53631",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qii53631",
+                "start": 0,
+                "url": "https://t.co/3n12yaBasr"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "is_identity_verified": false,
+        "location": "蓝色宇宙",
+        "most_recent_tweet_id": "2088061521142362351",
+        "name": "cafe114",
+        "pinned_tweet_id": "2079760577875067390",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839085606573637632/1777695167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 716,
+          "following_count": 718,
+          "like_count": 1519,
+          "listed_count": 0,
+          "media_count": 394,
+          "tweet_count": 3938
+        },
+        "url": "https://t.co/3n12yaBasr",
+        "username": "zhiii_tan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

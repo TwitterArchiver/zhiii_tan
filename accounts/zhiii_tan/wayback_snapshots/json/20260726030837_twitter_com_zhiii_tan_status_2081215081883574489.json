@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081032962695626752",
+        "3_2081032963555500032"
+      ],
+      "media_source_tweet_id": [
+        "2081032971189117085",
+        "2081032971189117085"
+      ]
+    },
+    "author_id": "1839085606573637632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2081215081883574489",
+    "created_at": "2026-07-26T03:08:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T04:08:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081215081883574489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2077919234445692928",
+          "start": 3,
+          "username": "wozubbdelyta"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CZExg8vvAv",
+          "end": 101,
+          "expanded_url": "https://x.com/wozubbdelyta/status/2081032971189117085/photo/1",
+          "media_key": "3_2081032962695626752",
+          "start": 78,
+          "url": "https://t.co/CZExg8vvAv"
+        },
+        {
+          "display_url": "pic.x.com/CZExg8vvAv",
+          "end": 101,
+          "expanded_url": "https://x.com/wozubbdelyta/status/2081032971189117085/photo/1",
+          "media_key": "3_2081032963555500032",
+          "start": 78,
+          "url": "https://t.co/CZExg8vvAv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081215081883574489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081032971189117085",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wozubbdelyta: 你们好，这里霖，19号机\n没话说了兄弟们，不发雪图了我是健全\n呃。互关寻回。求转。爸爸妈妈们\n很友善……欢迎互动喵…… https://t.co/CZExg8vvAv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1208,
+        "media_key": "3_2081032962695626752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOFQdCtaAAAnhNX.jpg",
+        "width": 1216
+      },
+      {
+        "height": 607,
+        "media_key": "3_2081032963555500032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOFQdF6aoAAlACH.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081032962695626752",
+            "3_2081032963555500032"
+          ]
+        },
+        "author_id": "2077919234445692928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2081032971189117085",
+        "created_at": "2026-07-25T15:04:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T16:04:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081032971189117085"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CZExg8vvAv",
+              "end": 83,
+              "expanded_url": "https://x.com/wozubbdelyta/status/2081032971189117085/photo/1",
+              "media_key": "3_2081032962695626752",
+              "start": 60,
+              "url": "https://t.co/CZExg8vvAv"
+            },
+            {
+              "display_url": "pic.x.com/CZExg8vvAv",
+              "end": 83,
+              "expanded_url": "https://x.com/wozubbdelyta/status/2081032971189117085/photo/1",
+              "media_key": "3_2081032963555500032",
+              "start": 60,
+              "url": "https://t.co/CZExg8vvAv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081032971189117085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 861,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "你们好，这里霖，19号机\n没话说了兄弟们，不发雪图了我是健全\n呃。互关寻回。求转。爸爸妈妈们\n很友善……欢迎互动喵…… https://t.co/CZExg8vvAv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081032962695626752",
+            "3_2081032963555500032"
+          ],
+          "media_source_tweet_id": [
+            "2081032971189117085",
+            "2081032971189117085"
+          ]
+        },
+        "author_id": "1839085606573637632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2081215081883574489",
+        "created_at": "2026-07-26T03:08:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T04:08:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081215081883574489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2077919234445692928",
+              "start": 3,
+              "username": "wozubbdelyta"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CZExg8vvAv",
+              "end": 101,
+              "expanded_url": "https://x.com/wozubbdelyta/status/2081032971189117085/photo/1",
+              "media_key": "3_2081032962695626752",
+              "start": 78,
+              "url": "https://t.co/CZExg8vvAv"
+            },
+            {
+              "display_url": "pic.x.com/CZExg8vvAv",
+              "end": 101,
+              "expanded_url": "https://x.com/wozubbdelyta/status/2081032971189117085/photo/1",
+              "media_key": "3_2081032963555500032",
+              "start": 78,
+              "url": "https://t.co/CZExg8vvAv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081215081883574489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081032971189117085",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wozubbdelyta: 你们好，这里霖，19号机\n没话说了兄弟们，不发雪图了我是健全\n呃。互关寻回。求转。爸爸妈妈们\n很友善……欢迎互动喵…… https://t.co/CZExg8vvAv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之丨生理心理皆女丨lgbtq友好丨🔪🚬💊 丨不鉴证丨喜欢互动丨我没有🚪觉得我以后会在推上发点什么的不要关注我了丨没有门不接线上不接线下没有非绿没有半绿没有纯绿🍀丨互fo直关 没回fo私我丨乐子人专注家产",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qii53631",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qii53631",
+                "start": 0,
+                "url": "https://t.co/3n12yaBasr"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2079760577875067390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 692,
+          "like_count": 1447,
+          "listed_count": 0,
+          "media_count": 359,
+          "tweet_count": 3680
+        },
+        "url": "https://t.co/3n12yaBasr",
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-17T00:52:06.000Z",
+        "description": "我是霖，19号，不是冷暴力是被gban了\n性别是末影人\n我喜欢吃辣条\ngban妈妈@Shivam3228",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 41,
+                "username": "Shivam3228"
+              }
+            ]
+          }
+        },
+        "id": "2077919234445692928",
+        "name": "19.霖，我很牛逼",
+        "pinned_tweet_id": "2081032971189117085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081030070030991360/bOh588dY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 34,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 64
+        },
+        "url": "",
+        "username": "wozubbdelyta",
+        "verified": false
+      }
+    ]
+  }
+}

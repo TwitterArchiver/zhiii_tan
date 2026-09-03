@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "conversation_id": "2083317626890334712",
+    "created_at": "2026-08-03T11:00:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T12:00:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084232917862203637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1619606197723856901",
+          "start": 0,
+          "username": "Tokino_Yui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084232917862203637",
+    "in_reply_to_user_id": "1619606197723856901",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083929533439447147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tokino_Yui 嘿嘿！😽😽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2083317626890334712",
+        "created_at": "2026-08-03T11:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T12:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084232917862203637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1619606197723856901",
+              "start": 0,
+              "username": "Tokino_Yui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084232917862203637",
+        "in_reply_to_user_id": "1619606197723856901",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083929533439447147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tokino_Yui 嘿嘿！😽😽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1619606197723856901",
+        "conversation_id": "2083317626890334712",
+        "created_at": "2026-08-02T14:54:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:54:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083929533439447147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1839085606573637632",
+              "start": 0,
+              "username": "zhiii_tan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083929533439447147",
+        "in_reply_to_user_id": "1839085606573637632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083317626890334712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhiii_tan 万分好强！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之丨生理心理皆女丨lgbtq友好丨🔪🚬💊 丨不鉴证丨喜欢互动丨我没有🚪觉得我以后会在推上发点什么的不要关注我了丨没有门不接线上不接线下没有非绿没有半绿没有纯绿🍀丨互fo直关 没回fo私我丨乐子人专注家产\n防炸:@zhiiii_tan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 110,
+                "username": "zhiiii_tan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qii53631",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qii53631",
+                "start": 0,
+                "url": "https://t.co/3n12yaBasr"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2079760577875067390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 670,
+          "like_count": 1469,
+          "listed_count": 0,
+          "media_count": 372,
+          "tweet_count": 3736
+        },
+        "url": "https://t.co/3n12yaBasr",
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-29T08:00:04.000Z",
+        "description": "可以叫我小唯/08/餐券没/od自残/很多黑泥/直fo想和你交朋友/没有回fo一定要私我一下！🥰\n\nhttps://t.co/8DCMjJc0K3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tokino_yui",
+                "end": 73,
+                "expanded_url": "https://ngl.link/tokino_yui",
+                "start": 50,
+                "url": "https://t.co/8DCMjJc0K3"
+              }
+            ]
+          }
+        },
+        "id": "1619606197723856901",
+        "name": "Yui",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083922642126663681/-eGS_8XD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 79,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 185
+        },
+        "url": "",
+        "username": "Tokino_Yui",
+        "verified": false
+      }
+    ]
+  }
+}

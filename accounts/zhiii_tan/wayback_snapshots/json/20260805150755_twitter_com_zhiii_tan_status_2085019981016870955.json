@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085019954563432448",
+        "3_2085019966718521344"
+      ]
+    },
+    "author_id": "1839085606573637632",
+    "conversation_id": "2085019981016870955",
+    "created_at": "2026-08-05T15:07:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T16:07:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085019981016870955"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4TLpXA4yhQ",
+          "end": 63,
+          "expanded_url": "https://x.com/zhiii_tan/status/2085019981016870955/photo/1",
+          "media_key": "3_2085019954563432448",
+          "start": 40,
+          "url": "https://t.co/4TLpXA4yhQ"
+        },
+        {
+          "display_url": "pic.x.com/4TLpXA4yhQ",
+          "end": 63,
+          "expanded_url": "https://x.com/zhiii_tan/status/2085019981016870955/photo/1",
+          "media_key": "3_2085019966718521344",
+          "start": 40,
+          "url": "https://t.co/4TLpXA4yhQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085019981016870955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是我朋友和她同桌的聊天记录，她同桌是月鹤，说的那个闺蜜是我。我他妈到底算什么 https://t.co/4TLpXA4yhQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2085019954563432448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO96mg1awAAU0jP.jpg",
+        "width": 1832
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2085019966718521344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO96nOHasAAiyv8.jpg",
+        "width": 1832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085019954563432448",
+            "3_2085019966718521344"
+          ]
+        },
+        "author_id": "1839085606573637632",
+        "conversation_id": "2085019981016870955",
+        "created_at": "2026-08-05T15:07:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T16:07:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085019981016870955"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4TLpXA4yhQ",
+              "end": 63,
+              "expanded_url": "https://x.com/zhiii_tan/status/2085019981016870955/photo/1",
+              "media_key": "3_2085019954563432448",
+              "start": 40,
+              "url": "https://t.co/4TLpXA4yhQ"
+            },
+            {
+              "display_url": "pic.x.com/4TLpXA4yhQ",
+              "end": 63,
+              "expanded_url": "https://x.com/zhiii_tan/status/2085019981016870955/photo/1",
+              "media_key": "3_2085019966718521344",
+              "start": 40,
+              "url": "https://t.co/4TLpXA4yhQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085019981016870955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我朋友和她同桌的聊天记录，她同桌是月鹤，说的那个闺蜜是我。我他妈到底算什么 https://t.co/4TLpXA4yhQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之丨生理心理皆女丨lgbtq友好丨🔪🚬💊 丨不鉴证丨喜欢互动丨我没有🚪觉得我以后会在推上发点什么的不要关注我了丨没有门不接线上不接线下没有非绿没有半绿没有纯绿🍀丨互fo直关 没回fo私我丨乐子人专注家产\n防炸:@zhiiii_tan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 110,
+                "username": "zhiiii_tan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qii53631",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qii53631",
+                "start": 0,
+                "url": "https://t.co/3n12yaBasr"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2079760577875067390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 689,
+          "following_count": 688,
+          "like_count": 1480,
+          "listed_count": 0,
+          "media_count": 378,
+          "tweet_count": 3760
+        },
+        "url": "https://t.co/3n12yaBasr",
+        "username": "zhiii_tan",
+        "verified": false
+      }
+    ]
+  }
+}

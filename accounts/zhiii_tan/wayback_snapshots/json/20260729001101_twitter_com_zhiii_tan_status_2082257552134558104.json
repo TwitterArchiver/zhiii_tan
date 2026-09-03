@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "conversation_id": "2081984108658577520",
+    "created_at": "2026-07-29T00:11:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T01:11:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082257552134558104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2078720795774443520",
+          "start": 0,
+          "username": "huizxlk1215"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082257552134558104",
+    "in_reply_to_user_id": "2078720795774443520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082194816138609109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huizxlk1215 请拿🙌🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2081984108658577520",
+        "created_at": "2026-07-29T00:11:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T01:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082257552134558104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2078720795774443520",
+              "start": 0,
+              "username": "huizxlk1215"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082257552134558104",
+        "in_reply_to_user_id": "2078720795774443520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082194816138609109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huizxlk1215 请拿🙌🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2078720795774443520",
+        "conversation_id": "2081984108658577520",
+        "created_at": "2026-07-28T20:01:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T21:01:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082194816138609109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1839085606573637632",
+              "start": 0,
+              "username": "zhiii_tan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082194816138609109",
+        "in_reply_to_user_id": "1839085606573637632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081984108658577520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhiii_tan 咪拿一根喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之丨生理心理皆女丨lgbtq友好丨🔪🚬💊 丨不鉴证丨喜欢互动丨我没有🚪觉得我以后会在推上发点什么的不要关注我了丨没有门不接线上不接线下没有非绿没有半绿没有纯绿🍀丨互fo直关 没回fo私我丨乐子人专注家产\n防炸:@zhiiii_tan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 110,
+                "username": "zhiiii_tan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qii53631",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qii53631",
+                "start": 0,
+                "url": "https://t.co/3n12yaBasr"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2079760577875067390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 684,
+          "like_count": 1459,
+          "listed_count": 0,
+          "media_count": 368,
+          "tweet_count": 3710
+        },
+        "url": "https://t.co/3n12yaBasr",
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-19T06:00:26.000Z",
+        "description": "这里是咪主要使用的账号喵\n男猫 出生在惠东喵\n生产日期2011.12.09喵\nNGL:https://t.co/1C8InJ2McF\nTG:https://t.co/25GUniUuhd\nQQ:2861849101\n喜欢听术力口喵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huizxlk",
+                "end": 66,
+                "expanded_url": "https://ngl.link/huizxlk",
+                "start": 43,
+                "url": "https://t.co/1C8InJ2McF"
+              },
+              {
+                "display_url": "t.me/huizxlk",
+                "end": 93,
+                "expanded_url": "http://t.me/huizxlk",
+                "start": 70,
+                "url": "https://t.co/25GUniUuhd"
+              }
+            ]
+          }
+        },
+        "id": "2078720795774443520",
+        "name": "huizxlk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078722441980022784/AVyhvQTM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 61,
+          "like_count": 91,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 149
+        },
+        "url": "",
+        "username": "huizxlk1215",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079634949750272000",
+        "3_2079634957048442880",
+        "3_2079634962454925312",
+        "3_2079634968792514560"
+      ]
+    },
+    "author_id": "1839085606573637632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2079634974786073009",
+    "created_at": "2026-07-21T18:29:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T19:29:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079634974786073009"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1SPToZ8Ani",
+          "end": 30,
+          "expanded_url": "https://x.com/zhiii_tan/status/2079634974786073009/photo/1",
+          "media_key": "3_2079634949750272000",
+          "start": 7,
+          "url": "https://t.co/1SPToZ8Ani"
+        },
+        {
+          "display_url": "pic.x.com/1SPToZ8Ani",
+          "end": 30,
+          "expanded_url": "https://x.com/zhiii_tan/status/2079634974786073009/photo/1",
+          "media_key": "3_2079634957048442880",
+          "start": 7,
+          "url": "https://t.co/1SPToZ8Ani"
+        },
+        {
+          "display_url": "pic.x.com/1SPToZ8Ani",
+          "end": 30,
+          "expanded_url": "https://x.com/zhiii_tan/status/2079634974786073009/photo/1",
+          "media_key": "3_2079634962454925312",
+          "start": 7,
+          "url": "https://t.co/1SPToZ8Ani"
+        },
+        {
+          "display_url": "pic.x.com/1SPToZ8Ani",
+          "end": 30,
+          "expanded_url": "https://x.com/zhiii_tan/status/2079634974786073009/photo/1",
+          "media_key": "3_2079634968792514560",
+          "start": 7,
+          "url": "https://t.co/1SPToZ8Ani"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079634974786073009",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的原神家庭 https://t.co/1SPToZ8Ani"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2079634949750272000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNxY9-paMAAa56X.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1119,
+        "media_key": "3_2079634957048442880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNxY-Z1bcAAokru.jpg",
+        "width": 960
+      },
+      {
+        "height": 537,
+        "media_key": "3_2079634962454925312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNxY-t-b0AArIq2.jpg",
+        "width": 383
+      },
+      {
+        "height": 819,
+        "media_key": "3_2079634968792514560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNxY_FlbwAAI8un.jpg",
+        "width": 550
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079634949750272000",
+            "3_2079634957048442880",
+            "3_2079634962454925312",
+            "3_2079634968792514560"
+          ]
+        },
+        "author_id": "1839085606573637632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2079634974786073009",
+        "created_at": "2026-07-21T18:29:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T19:29:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079634974786073009"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1SPToZ8Ani",
+              "end": 30,
+              "expanded_url": "https://x.com/zhiii_tan/status/2079634974786073009/photo/1",
+              "media_key": "3_2079634949750272000",
+              "start": 7,
+              "url": "https://t.co/1SPToZ8Ani"
+            },
+            {
+              "display_url": "pic.x.com/1SPToZ8Ani",
+              "end": 30,
+              "expanded_url": "https://x.com/zhiii_tan/status/2079634974786073009/photo/1",
+              "media_key": "3_2079634957048442880",
+              "start": 7,
+              "url": "https://t.co/1SPToZ8Ani"
+            },
+            {
+              "display_url": "pic.x.com/1SPToZ8Ani",
+              "end": 30,
+              "expanded_url": "https://x.com/zhiii_tan/status/2079634974786073009/photo/1",
+              "media_key": "3_2079634962454925312",
+              "start": 7,
+              "url": "https://t.co/1SPToZ8Ani"
+            },
+            {
+              "display_url": "pic.x.com/1SPToZ8Ani",
+              "end": 30,
+              "expanded_url": "https://x.com/zhiii_tan/status/2079634974786073009/photo/1",
+              "media_key": "3_2079634968792514560",
+              "start": 7,
+              "url": "https://t.co/1SPToZ8Ani"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079634974786073009",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的原神家庭 https://t.co/1SPToZ8Ani"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qii53631",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qii53631",
+                "start": 0,
+                "url": "https://t.co/3n12yaBasr"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2065050387967840395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 660,
+          "following_count": 679,
+          "like_count": 1451,
+          "listed_count": 0,
+          "media_count": 348,
+          "tweet_count": 3644
+        },
+        "url": "https://t.co/3n12yaBasr",
+        "username": "zhiii_tan",
+        "verified": false
+      }
+    ]
+  }
+}

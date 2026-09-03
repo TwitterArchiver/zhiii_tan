@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "conversation_id": "2082406900487143739",
+    "created_at": "2026-07-29T15:51:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T16:51:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082494316510146714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1944720001027715072",
+          "start": 0,
+          "username": "liuneng11111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082494316510146714",
+    "in_reply_to_user_id": "1944720001027715072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082441370355355989",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liuneng11111 抹茶的怎么样，我买的都是果味的！有点腻了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2082406900487143739",
+        "created_at": "2026-07-29T15:51:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:51:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082494316510146714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1944720001027715072",
+              "start": 0,
+              "username": "liuneng11111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082494316510146714",
+        "in_reply_to_user_id": "1944720001027715072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082441370355355989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liuneng11111 抹茶的怎么样，我买的都是果味的！有点腻了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944720001027715072",
+        "conversation_id": "2082406900487143739",
+        "created_at": "2026-07-29T12:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T13:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082441370355355989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1839085606573637632",
+              "start": 0,
+              "username": "zhiii_tan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082441370355355989",
+        "in_reply_to_user_id": "1839085606573637632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082437891213742438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhiii_tan 正在品鉴抹茶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之丨生理心理皆女丨lgbtq友好丨🔪🚬💊 丨不鉴证丨喜欢互动丨我没有🚪觉得我以后会在推上发点什么的不要关注我了丨没有门不接线上不接线下没有非绿没有半绿没有纯绿🍀丨互fo直关 没回fo私我丨乐子人专注家产\n防炸:@zhiiii_tan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 110,
+                "username": "zhiiii_tan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qii53631",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qii53631",
+                "start": 0,
+                "url": "https://t.co/3n12yaBasr"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2079760577875067390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 683,
+          "like_count": 1459,
+          "listed_count": 0,
+          "media_count": 369,
+          "tweet_count": 3723
+        },
+        "url": "https://t.co/3n12yaBasr",
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T11:26:11.000Z",
+        "description": "我是逆蝶/05/已放弃找工作/infp/巨蟹/日常bb机/史上第一穷鬼/生理意义上脑子有病",
+        "id": "1944720001027715072",
+        "location": "罗德岛",
+        "name": "妈妈（晕3D版",
+        "pinned_tweet_id": "2082377492413940011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944720678810218496/_UIJjGVs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 180,
+          "like_count": 754,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 534
+        },
+        "url": "",
+        "username": "liuneng11111",
+        "verified": false
+      }
+    ]
+  }
+}

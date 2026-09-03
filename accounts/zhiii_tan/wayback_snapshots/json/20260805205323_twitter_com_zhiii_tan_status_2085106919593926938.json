@@ -1,0 +1,553 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2085106919593926938",
+    "created_at": "2026-08-05T20:53:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T21:53:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085106919593926938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2078606055446298624",
+          "start": 3,
+          "username": "zhi_qingqing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085106919593926938",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085051755147247852",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhi_qingqing: 嗯…我來寫個自介吧！\n你好！我是滯/小滯  07  lesb\n紫餐歐弟負能⚠️⚠️\n我有一隻很可愛的小貓咪咪\n明日方舟/終末地/光遇/洛克王國/MC\n聽國藥比較多  很喜歡回春丹和doudou\n會畫一點畫彈一點電吉他\n是那種愛胡亂回復的人（？…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2085051730266648576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO-XgGjbcAAt231.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2085051736943951872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO-XgfbbAAApA-G.jpg",
+        "width": 1500
+      },
+      {
+        "height": 852,
+        "media_key": "3_2085051743646400512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO-Xg4ZaQAAYgZx.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2085051749761769473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO-XhPLbYAERwDs.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2085106919593926938",
+        "created_at": "2026-08-05T20:53:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T21:53:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085106919593926938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2078606055446298624",
+              "start": 3,
+              "username": "zhi_qingqing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085106919593926938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085051755147247852",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhi_qingqing: 嗯…我來寫個自介吧！\n你好！我是滯/小滯  07  lesb\n紫餐歐弟負能⚠️⚠️\n我有一隻很可愛的小貓咪咪\n明日方舟/終末地/光遇/洛克王國/MC\n聽國藥比較多  很喜歡回春丹和doudou\n會畫一點畫彈一點電吉他\n是那種愛胡亂回復的人（？…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085051730266648576",
+            "3_2085051736943951872",
+            "3_2085051743646400512",
+            "3_2085051749761769473"
+          ]
+        },
+        "author_id": "2078606055446298624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2085051755147247852",
+        "created_at": "2026-08-05T17:14:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T18:14:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085051755147247852"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/olStlvdW6k",
+              "end": 166,
+              "expanded_url": "https://x.com/zhi_qingqing/status/2085051755147247852/photo/1",
+              "media_key": "3_2085051730266648576",
+              "start": 143,
+              "url": "https://t.co/olStlvdW6k"
+            },
+            {
+              "display_url": "pic.x.com/olStlvdW6k",
+              "end": 166,
+              "expanded_url": "https://x.com/zhi_qingqing/status/2085051755147247852/photo/1",
+              "media_key": "3_2085051736943951872",
+              "start": 143,
+              "url": "https://t.co/olStlvdW6k"
+            },
+            {
+              "display_url": "pic.x.com/olStlvdW6k",
+              "end": 166,
+              "expanded_url": "https://x.com/zhi_qingqing/status/2085051755147247852/photo/1",
+              "media_key": "3_2085051743646400512",
+              "start": 143,
+              "url": "https://t.co/olStlvdW6k"
+            },
+            {
+              "display_url": "pic.x.com/olStlvdW6k",
+              "end": 166,
+              "expanded_url": "https://x.com/zhi_qingqing/status/2085051755147247852/photo/1",
+              "media_key": "3_2085051749761769473",
+              "start": 143,
+              "url": "https://t.co/olStlvdW6k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085051755147247852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "嗯…我來寫個自介吧！\n你好！我是滯/小滯  07  lesb\n紫餐歐弟負能⚠️⚠️\n我有一隻很可愛的小貓咪咪\n明日方舟/終末地/光遇/洛克王國/MC\n聽國藥比較多  很喜歡回春丹和doudou\n會畫一點畫彈一點電吉他\n是那種愛胡亂回復的人（？\n希望能和大家一起玩呀  歡迎互fo😽😽😽 https://t.co/olStlvdW6k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之丨生理心理皆女丨lgbtq友好丨🔪🚬💊 丨不鉴证丨喜欢互动丨我没有🚪觉得我以后会在推上发点什么的不要关注我了丨没有门不接线上不接线下没有非绿没有半绿没有纯绿🍀丨互fo直关 没回fo私我丨乐子人专注家产\n防炸:@zhiiii_tan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 110,
+                "username": "zhiiii_tan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qii53631",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qii53631",
+                "start": 0,
+                "url": "https://t.co/3n12yaBasr"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2079760577875067390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 699,
+          "following_count": 698,
+          "like_count": 1482,
+          "listed_count": 0,
+          "media_count": 381,
+          "tweet_count": 3779
+        },
+        "url": "https://t.co/3n12yaBasr",
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-18T22:23:50.000Z",
+        "description": "我是滯/lesb/紫餐歐弟負能注意/佛系互fo/歡迎私信",
+        "id": "2078606055446298624",
+        "location": "距離你2.778km",
+        "name": "滯",
+        "pinned_tweet_id": "2085051755147247852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078606838959067137/Sqf06u1O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 20,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 64
+        },
+        "url": "",
+        "username": "zhi_qingqing",
+        "verified": false
+      }
+    ]
+  }
+}

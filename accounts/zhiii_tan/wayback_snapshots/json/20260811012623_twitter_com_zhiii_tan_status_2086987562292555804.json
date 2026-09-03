@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "conversation_id": "2073401082198491600",
+    "created_at": "2026-08-11T01:26:23.000Z",
+    "display_text_range": [
+      16,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T02:26:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086987562292555804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2073003589627445248",
+          "start": 0,
+          "username": "jieligan114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086987562292555804",
+    "in_reply_to_user_id": "2073003589627445248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086986557760655837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jieligan114514 啊啊啊我已经不在郑州了😭😭而且我当时挂壁就我和我宝贝两个人，不过那里坐着的其他挂壁的人都像是有组织的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2073401082198491600",
+        "created_at": "2026-08-11T01:26:23.000Z",
+        "display_text_range": [
+          16,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T02:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086987562292555804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2073003589627445248",
+              "start": 0,
+              "username": "jieligan114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086987562292555804",
+        "in_reply_to_user_id": "2073003589627445248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086986557760655837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jieligan114514 啊啊啊我已经不在郑州了😭😭而且我当时挂壁就我和我宝贝两个人，不过那里坐着的其他挂壁的人都像是有组织的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073003589627445248",
+        "conversation_id": "2073401082198491600",
+        "created_at": "2026-08-11T01:22:24.000Z",
+        "display_text_range": [
+          11,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T02:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086986557760655837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1839085606573637632",
+              "start": 0,
+              "username": "zhiii_tan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086986557760655837",
+        "in_reply_to_user_id": "1839085606573637632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073401082198491600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhiii_tan 老师你在郑州吗？我在郑州玩，你知道哪里有挂壁组织吗😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之丨生理心理皆女丨lgbtq友好丨🔪🚬💊 丨不鉴证丨喜欢互动丨我没有🚪觉得我以后会在推上发点什么的不要关注我了丨没有门不接线上不接线下没有非绿没有半绿没有纯绿🍀丨互fo直关 没回fo私我丨乐子人专注家产\n防炸:@zhiiii_tan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 110,
+                "username": "zhiiii_tan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qii53631",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qii53631",
+                "start": 0,
+                "url": "https://t.co/3n12yaBasr"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "is_identity_verified": false,
+        "location": "蓝色宇宙",
+        "most_recent_tweet_id": "2086987562292555804",
+        "name": "cafe114",
+        "pinned_tweet_id": "2079760577875067390",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839085606573637632/1777695167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 714,
+          "like_count": 1512,
+          "listed_count": 0,
+          "media_count": 391,
+          "tweet_count": 3890
+        },
+        "url": "https://t.co/3n12yaBasr",
+        "username": "zhiii_tan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-03T11:20:39.000Z",
+        "description": "永远只做最真实的自己，正在进化的路上…欢迎小众比互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "114514.com",
+                "end": 23,
+                "expanded_url": "http://www.114514.com",
+                "start": 0,
+                "url": "https://t.co/cc3ekfL25d"
+              }
+            ]
+          }
+        },
+        "id": "2073003589627445248",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2086986557760655837",
+        "name": "解离感",
+        "pinned_tweet_id": "2084974047998418958",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2073003589627445248/1783078190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073004139844673536/q4ppJQeZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 56,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 25
+        },
+        "url": "https://t.co/cc3ekfL25d",
+        "username": "jieligan114514",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

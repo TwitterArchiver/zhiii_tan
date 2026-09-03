@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839085606573637632",
+    "conversation_id": "2085354151006072852",
+    "created_at": "2026-08-07T07:50:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T08:50:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085634581609484507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1664191314567774208",
+          "start": 0,
+          "username": "Alexandria30058"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085634581609484507",
+    "in_reply_to_user_id": "1664191314567774208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085611380703744358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alexandria30058 真的是神了，碘伏难闻估计也难喝。这群人到底是奔着碘伏什么去的啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2085354151006072852",
+        "created_at": "2026-08-07T07:50:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T08:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085634581609484507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1664191314567774208",
+              "start": 0,
+              "username": "Alexandria30058"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085634581609484507",
+        "in_reply_to_user_id": "1664191314567774208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085611380703744358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alexandria30058 真的是神了，碘伏难闻估计也难喝。这群人到底是奔着碘伏什么去的啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1664191314567774208",
+        "conversation_id": "2085354151006072852",
+        "created_at": "2026-08-07T06:17:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T07:17:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085611380703744358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1839085606573637632",
+              "start": 0,
+              "username": "zhiii_tan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085611380703744358",
+        "in_reply_to_user_id": "1839085606573637632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085354151006072852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhiii_tan 喝碘伏真的是震惊到了，到底是怎么做到的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之丨生理心理皆女丨lgbtq友好丨🔪🚬💊 丨不鉴证丨喜欢互动丨我没有🚪觉得我以后会在推上发点什么的不要关注我了丨没有门不接线上不接线下没有非绿没有半绿没有纯绿🍀丨互fo直关 没回fo私我丨乐子人专注家产\n防炸:@zhiiii_tan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 110,
+                "username": "zhiiii_tan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qii53631",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qii53631",
+                "start": 0,
+                "url": "https://t.co/3n12yaBasr"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2079760577875067390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 702,
+          "following_count": 702,
+          "like_count": 1490,
+          "listed_count": 0,
+          "media_count": 385,
+          "tweet_count": 3813
+        },
+        "url": "https://t.co/3n12yaBasr",
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-01T08:45:10.000Z",
+        "description": "叫德德就好（叫狐狸也可）🥰 MTX，路锥爱好者，会发莫名其妙的渲染图。\n可能会有🔞（会有的但不是现在（？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "alexasfoxden.neocities.org",
+                "end": 23,
+                "expanded_url": "https://alexasfoxden.neocities.org",
+                "start": 0,
+                "url": "https://t.co/ROFSIy4Ab3"
+              }
+            ]
+          }
+        },
+        "id": "1664191314567774208",
+        "location": "China, Hebei",
+        "name": "Xandrez | 弦德",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071774850025414656/JV60XnpF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 140,
+          "like_count": 8462,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 760
+        },
+        "url": "https://t.co/ROFSIy4Ab3",
+        "username": "Alexandria30058",
+        "verified": false
+      }
+    ]
+  }
+}
